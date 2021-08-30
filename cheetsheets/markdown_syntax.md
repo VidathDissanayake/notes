@@ -29,24 +29,18 @@ Output:
 ## Text Formatting
 - To make text italic, surround the text with `*` or `_`.
 - To make text bold, surround the text with `**` or `__`.
-- To make text highlighted, surround the text with `==`. (**Note supported everywhere**)
 - To strikethough text, surround the text with `~~`.
 - To put text in a blockquote, prepend with `>` and a `space`.
-- To subscript text, surround text with `~`. (**Note supported everywhere**)
-- To superscript text, surround text with `^`. (**Note supported everywhere**)
 - Use `\` for line breaks
 
 Syntax:
 ```markdown
 *text* or _text_ \
 **text** or __text__ \
-==text== \
 ~~text~~
 
 > text
 
-~text~ \
-^text^ \
 text \ text
 ```
 
@@ -54,13 +48,10 @@ Output:
 
 *text* or _text_ \
 **text** or __text__ \
-==text== \
 ~~text~~
 
 > text
 
-~text~ \
-^text^ \
 text \ text
 
 ---
