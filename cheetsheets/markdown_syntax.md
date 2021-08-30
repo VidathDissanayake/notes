@@ -5,7 +5,7 @@
 
 There are 6 types of headers. Headers start with a `#` and a `space`. Size of header decreases when the number of `#` s increases.
 
-Syntax:
+**Syntax:**
 
 ```markdown
 # Header 1
@@ -16,7 +16,8 @@ Syntax:
 ###### Header 6
 ```
 
-Output:
+**Output:**
+
 # Header 1
 ## Header 2
 ### Header 3
@@ -33,7 +34,8 @@ Output:
 - To put text in a blockquote, prepend with `>` and a `space`.
 - Use `\` for line breaks
 
-Syntax:
+**Syntax:**
+
 ```markdown
 *text* or _text_ \
 **text** or __text__ \
@@ -44,7 +46,7 @@ Syntax:
 text \ text
 ```
 
-Output:
+**Output:**
 
 *text* or _text_ \
 **text** or __text__ \
@@ -70,7 +72,7 @@ There are 3 types of lists
 
 ***Note: Any list can be nested by indenting with `4 spaces` or `1 tab`***
 
-Syntax:
+**Syntax:**
 
 ```markdown
 - Unordered list 1 item 1
@@ -91,9 +93,27 @@ Syntax:
 
 - [ ] Incomplete check lisit
 - [x] Complete check list
+
+- Layer 1
+  - Layer 2
+    - Layer 3
+  - Layer 2
+- Layer 1
+
+1. Layer 1
+   1. Layer 2
+      1. Layer 3
+   2. Layer 2
+2. Layer 1
+
+- [ ] Layer 1
+  - [ ] Layer 2
+    - [ ] Layer 3 
+  - [ ] Layer 2
+- [ ] Layer 1
 ```
 
-Output:
+**Output:**
 
 - Unordered list 1 item 1
 - Unordered list 1 item 2
@@ -114,4 +134,25 @@ Output:
 - [ ] Incomplete check lisit
 - [x] Complete check list
 
+- Layer 1
+  - Layer 2
+    - Layer 3
+  - Layer 2
+- Layer 1
+
+1. Layer 1
+   1. Layer 2
+      1. Layer 3
+   2. Layer 2
+2. Layer 1
+
+- [ ] Layer 1
+  - [ ] Layer 2
+    - [ ] Layer 3 
+  - [ ] Layer 2
+- [ ] Layer 1
+
 ---
+
+## Links
+
