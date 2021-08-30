@@ -1,6 +1,9 @@
 # Markdown Cheetsheet
 
+Refer https://www.markdownguide.org/basic-syntax/
+
 ---
+
 ## Headers
 
 There are 6 types of headers. Headers start with a `#` and a `space`. Size of header decreases when the number of `#` s increases.
@@ -156,3 +159,12 @@ There are 3 types of lists
 
 ## Links
 
+- Link syntax is `[Display Text](URL "Display text on mouse hover")`.
+- Self links can also be used. The syntax is `[Display Text]()`.
+- To add an image inline, the syntax is `![Alt Text](Image URL =resolution)`
+- The link can also be supplied as
+
+[![Hello][A]]
+
+
+[A]: https://i.stack.imgur.com/6Tpl7.png
