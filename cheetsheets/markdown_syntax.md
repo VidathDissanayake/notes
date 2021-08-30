@@ -1,32 +1,56 @@
 # Markdown Cheetsheet
 
-Refer https://www.markdownguide.org/basic-syntax/
+Refer [Markdown Guide](https://www.markdownguide.org/ "Markdown Guide")
 
 ---
 
-## Headers
+## Headings
 
-There are 6 types of headers. Headers start with a `#` and a `space`. Size of header decreases when the number of `#` s increases.
+There are 6 levels of headings. Headings start with a `#` and a `space`. Size of heading decreases when the number of `#` s increases.
+
+For heading level 1 
 
 **Syntax:**
 
 ```markdown
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
+# Heading level 1
+
+## Heading level 2
+
+### Heading level 3
+
+#### Heading level 4
+
+##### Heading level 5
+
+###### Heading level 6
+
+Heading level 1
+===============
+
+Heading level 2
+---------------
 ```
 
 **Output:**
 
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
+# Heading level 1
+
+## Heading level 2
+
+### Heading level 3
+
+#### Heading level 4
+
+##### Heading level 5
+
+###### Heading level 6
+
+Heading level 1
+===============
+
+Heading level 2
+---------------
 
 ---
 
@@ -40,24 +64,30 @@ There are 6 types of headers. Headers start with a `#` and a `space`. Size of he
 **Syntax:**
 
 ```markdown
-*text* or _text_ \
-**text** or __text__ \
+*text* or _text_
+
+**text** or __text__
+
 ~~text~~
 
 > text
 
-text \ text
+text \
+text
 ```
 
 **Output:**
 
-*text* or _text_ \
-**text** or __text__ \
-~~text~~
+*text* or _text_
+
+**text** or __text__
+
+~~text~~ 
 
 > text
 
-text \ text
+text \
+text
 
 ---
 
@@ -66,12 +96,12 @@ text \ text
 There are 3 types of lists
 1. Unordered lists
 2. Ordered lists
-3. Check lists
+3. Task lists
 
 - Unordered lists start with `-` or `*` or `+` and a `space`.
 - Ordered lists start with `1.` and a `space`. 
-- Incomplete check lists start with `- [ ]` and a `space`.
-- Complete check lists start with `- [x]` and a `space`.
+- Incomplete task lists start with `- [ ]` and a `space`.
+- Complete task lists start with `- [x]` and a `space`.
 
 ***Note: Any list can be nested by indenting with `4 spaces` or `1 tab`***
 
@@ -94,8 +124,8 @@ There are 3 types of lists
 2. Ordered list item 2
 3. Ordered list item 3
 
-- [ ] Incomplete check lisit
-- [x] Complete check list
+- [ ] Incomplete task lisit
+- [x] Complete task list
 
 - Layer 1
   - Layer 2
@@ -134,8 +164,8 @@ There are 3 types of lists
 2. Ordered list item 2
 3. Ordered list item 3
 
-- [ ] Incomplete check lisit
-- [x] Complete check list
+- [ ] Incomplete task lisit
+- [x] Complete task list
 
 - Layer 1
   - Layer 2
@@ -162,9 +192,12 @@ There are 3 types of lists
 - Link syntax is `[Display Text](URL "Display text on mouse hover")`.
 - Self links can also be used. The syntax is `[Display Text]()`.
 - To add an image inline, the syntax is `![Alt Text](Image URL =resolution)`
-- The link can also be supplied as
+- The URL can also be supplied in `square brackets [constant]`. The URL has to be defined as `[constant]: URL`
 
-[![Hello][A]]
+**Syntax:**
 
+```markdown
+```
 
-[A]: https://i.stack.imgur.com/6Tpl7.png
+**Output:**
+
