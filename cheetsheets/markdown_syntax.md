@@ -8,7 +8,9 @@ Refer [Markdown Guide](https://www.markdownguide.org/ "Markdown Guide")
 
 There are 6 levels of headings. Headings start with a `#` and a `space`. Size of heading decreases when the number of `#` s increases.
 
-For heading level 1 
+Alternatively adding any number of `=` on the line below will convert the line above to `Heading level 1` and adding any number of `-` on the line below will convert the line above to `Heading level 2`
+
+It is good practice to put a blank line above and below a heading for compatibility.
 
 **Syntax:**
 
@@ -59,7 +61,9 @@ Heading level 2
 - To make text bold, surround the text with `**` or `__`.
 - To strikethough text, surround the text with `~~`.
 - To put text in a blockquote, prepend with `>` and a `space`.
-- Use `\` for line breaks
+- `Two spaces` at the end of the line before pressing `enter` will cause a line break.
+- `\` at the end of line will also cause line breaks.
+- To create paragraphs, use a blank line to separate one or more lines of text. Do not add indentation infront of paragraphs unless they are in a list to avoid unexpected formatting problems.
 
 **Syntax:**
 
@@ -74,6 +78,13 @@ Heading level 2
 
 text \
 text
+
+text  
+text
+
+This is the first paragraph.
+
+This is the second paragraph.
 ```
 
 **Output:**
@@ -88,6 +99,13 @@ text
 
 text \
 text
+
+text  
+text
+
+This is the first paragraph.
+
+This is the second paragraph.
 
 ---
 
@@ -201,3 +219,6 @@ There are 3 types of lists
 
 **Output:**
 
+^1 
+
+[1]: hello 
