@@ -41,7 +41,7 @@ Syntax:
 *text* or _text_ \
 **text** or __text__ \
 ==text== \
-~~text~~ \
+~~text~~
 
 > text
 
@@ -55,7 +55,7 @@ Output:
 *text* or _text_ \
 **text** or __text__ \
 ==text== \
-~~text~~ \
+~~text~~
 
 > text
 
