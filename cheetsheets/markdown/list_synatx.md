@@ -38,15 +38,33 @@ There are 3 types of lists
   - Layer 2
     - Layer 3
   - Layer 2
+  1. Layer 2
+     1. Layer 3
+  2. Layer 2
+  - [ ] Layer 2
+    - [ ] Layer 3 
+  - [ ] Layer 2
 - Layer 1
 
 1. Layer 1
-   1. Layer 2
-      1. Layer 3
-   2. Layer 2
+   - Layer 2
+    - Layer 3
+  - Layer 2
+  1. Layer 2
+     1. Layer 3
+  2. Layer 2
+  - [ ] Layer 2
+    - [ ] Layer 3 
+  - [ ] Layer 2
 2. Layer 1
 
 - [ ] Layer 1
+  - Layer 2
+    - Layer 3
+  - Layer 2
+  1. Layer 2
+     1. Layer 3
+  2. Layer 2
   - [ ] Layer 2
     - [ ] Layer 3 
   - [ ] Layer 2
@@ -78,15 +96,33 @@ There are 3 types of lists
   - Layer 2
     - Layer 3
   - Layer 2
+  1. Layer 2
+     1. Layer 3
+  2. Layer 2
+  - [ ] Layer 2
+    - [ ] Layer 3 
+  - [ ] Layer 2
 - Layer 1
 
 1. Layer 1
-   1. Layer 2
-      1. Layer 3
-   2. Layer 2
+   - Layer 2
+    - Layer 3
+  - Layer 2
+  1. Layer 2
+     1. Layer 3
+  2. Layer 2
+  - [ ] Layer 2
+    - [ ] Layer 3 
+  - [ ] Layer 2
 2. Layer 1
 
 - [ ] Layer 1
+  - Layer 2
+    - Layer 3
+  - Layer 2
+  1. Layer 2
+     1. Layer 3
+  2. Layer 2
   - [ ] Layer 2
     - [ ] Layer 3 
   - [ ] Layer 2
