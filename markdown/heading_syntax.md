@@ -6,6 +6,8 @@ Alternatively adding any number of `=` on the line below will convert the line a
 
 It is good practice to put a blank line above and below a heading for compatibility.
 
+Heading ID can be specified with `#custom-id}` at the end of the heading.
+
 **Syntax:**
 
 ```markdown
@@ -26,6 +28,8 @@ Heading level 1
 
 Heading level 2
 ---------------
+
+### Heading with custom ID {#My custom ID}
 ```
 
 **Output:**
@@ -47,3 +51,5 @@ Heading level 1
 
 Heading level 2
 ---------------
+
+### Heading with custom ID {#My-custom-ID}
