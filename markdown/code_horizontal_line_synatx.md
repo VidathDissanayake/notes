@@ -1,4 +1,6 @@
-# Code
+# Code and Horizontal lines
+
+## Code
 
 To add code inline, surround the code with `backticks` (`` ` ``).
 
@@ -42,3 +44,29 @@ Type `msfconsole` in the terminal and press enter.
 
 *This is italic text in markdown*
 ```
+
+---
+
+## Horizontal Line
+
+To create a horizontal rule, use three or more `asterisks` (`***`), `dashes` (`---`), or `underscores` (`___`) on a line by themselves.
+
+For compatibility, put blank lines before and after horizontal rules.
+
+**Syntax:**
+
+```markdown
+---
+
+***
+
+___
+```
+
+**Output:**
+
+---
+
+***
+
+___
