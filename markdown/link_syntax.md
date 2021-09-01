@@ -8,6 +8,7 @@
 **Syntax:**
 
 ```markdown
+
 ```
 
 **Output:**
