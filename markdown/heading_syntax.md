@@ -1,4 +1,4 @@
-## Headings
+# Headings
 
 There are 6 levels of headings. Headings start with a `#` and a `space`. Size of heading decreases when the number of `#` s increases.
 
