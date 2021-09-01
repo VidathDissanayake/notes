@@ -4,6 +4,8 @@ Networks are simply that are 2 or more connected devices.
 
 The internet is the **largest** network in existence. It is one giant network that consists of many, many small networks within itself.
 
+[![Internet][1]][1]
+
 <br>
 
 ---
@@ -36,3 +38,7 @@ Until then, the Internet wasn't used as a **repository for storing and sharing i
 ---
 
 <br>
+
+
+
+[1]: ../images/internet.png
