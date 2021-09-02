@@ -12,20 +12,61 @@ Then that IP address can then be associated with another device without the IP a
 
 <br>
 
+
 ## IPv4 Addresses
 
-***Note: For this section, I will be refering to IPv4 addresses as simply IP addresses. Generally, an "IP address" is an IPv4 address unless specified as IPv6.***
+***Note: Generally, an "IP address" is an IPv4 address unless specified as IPv6.***
 
 An IP address is a **32 bit** number that is divided into four octets of **8 bits each**.
 
 [![IPv4 Octets][1]][1]
 
+IPv4, uses a numbering system of **2^32** IP addresses (4.29 billion).
+
 This number is calculated through a technique known as **IP addressing & subnetting**.
 
 IP addresses can change from device to device but **cannot be active simultaneously more than once within the same network**.
 
+There are 2 types of ip address ranges.
+- Public IP addresses
+- Private IP addresses
+
+Depending on **the location of the device**, the IP address can be private or public.
+
+A **public address** is used to identify the device **on the Internet**, whereas a **private address** is used to identify a device amongst other devices **in a private network**.
+
+|Device Name     |IP Address   |IP Address Type|
+|:--------------:|:-----------:|:-------------:|
+|DESKTOP-KJE57FD |192.168.1.77 |Private        |
+|DESKTOP-KJE57FD |86.157.52.21 |Public         |
+|CMNatic-PC      |192.168.1.74 |Private        |
+|CMNatic-PC      |86.157.52.21 |Public         |
+
+These two devices will be able to use their **private IP addresses** to **communicate with each other**.
+
+However, any data sent to **the Internet from either of these devices** will be identified by the same **public IP address**. Public IP addresses are given by the **Internet Service Provider (ISP)** at a monthly fee.
+
+<br>
+
+---
+
+<br>
 
 
+## IPv6 Addresses
+
+As more and more devices become connected, it is becoming increasingly harder to get a public address that isn't already in use.
+
+Cisco estimated that there will be approximately 50 billion devices connected to the internet by the end of 2021.
+
+IPv6 is a new iteration of the Internet Protocol addressing scheme to help tackle this issue.
+
+IPv6 has a few benefits.
+- Supports up to **2^128** of IP addresses (340 trillion-plus)
+- More efficient due to new methodologies
+
+[![IPv6][2]][2]
 
 
 [1]: ../images/networking/ipv4_octets.png (ipv4_octets.png)
+[2]: ..//images/networking/ipv6.png (ipv6.png)
