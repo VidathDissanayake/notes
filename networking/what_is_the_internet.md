@@ -4,6 +4,10 @@ Networks are simply that are 2 or more connected devices.
 
 The internet is the **largest** network in existence. It is one giant network that consists of many, many small networks within itself.
 
+So, there are 2 main types of networks in the internet.
+- Private networks
+- Public networks
+
 [![Internet][1]][1]
 
 <br>
