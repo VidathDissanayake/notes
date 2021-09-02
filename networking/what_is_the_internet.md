@@ -41,4 +41,4 @@ Until then, the Internet wasn't used as a **repository for storing and sharing i
 
 
 
-[1]: ../images/internet.png
+[1]: ../images/networking/internet.png (internet.png)
