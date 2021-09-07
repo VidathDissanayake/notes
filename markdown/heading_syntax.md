@@ -10,7 +10,7 @@ Heading ID can be specified with `#custom-id}` at the end of the heading.
 
 **Syntax:**
 
-```markdown
+```md
 # Heading level 1
 
 ## Heading level 2

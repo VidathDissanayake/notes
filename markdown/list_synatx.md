@@ -18,7 +18,7 @@ For compatibility, don’t mix and match delimiters (`-`,`+`,`*`) in the same li
 
 **Syntax:**
 
-```markdown
+```md
 - Unordered list 1 item 1
 - Unordered list 1 item 2
 - Unordered list 1 item 3
@@ -83,7 +83,7 @@ The numbers don’t have to be in numerical order.
 
 **Syntax:**
 
-```markdown
+```md
 1. Ordered list item 1
 2. Ordered list item 2
 3. Ordered list item 3
@@ -130,7 +130,7 @@ Complete task lists start with `- [x]` and a `space`.
 
 **Syntax:**
 
-```markdown
+```md
 - [ ] Incomplete task lisit
 - [x] Complete task list
 

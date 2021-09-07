@@ -11,14 +11,14 @@ To add syntax highlighting, specify a language next to the backticks before the 
 
 **Syntax:**
 
-````markdown
+````md
 Type `msfconsole` in the terminal and press enter.
 
     This is the first line of code block
     This is the second line of code block
     This is the third line of code block
 
-```markdown
+```md
 
 # This is a markdown heading
 
@@ -36,7 +36,7 @@ Type `msfconsole` in the terminal and press enter.
     This is the second line of code block
     This is the third line of code block
 
-```markdown
+```md
 
 # This is a markdown heading
 
@@ -55,7 +55,7 @@ For compatibility, put blank lines before and after horizontal rules.
 
 **Syntax:**
 
-```markdown
+```md
 ---
 
 ***

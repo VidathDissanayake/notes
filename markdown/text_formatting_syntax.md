@@ -6,7 +6,7 @@ To create paragraphs, use a blank line to separate one or more lines of text. Do
 
 **Synatx:**
 
-```markdown
+```md
 This is the first paragraph.
 
 This is the second paragraph.
@@ -28,7 +28,7 @@ This is the second paragraph.
 
 **Syntax:**
 
-```markdown
+```md
 This is the first line.  
 And this is the second line.
 
@@ -55,7 +55,7 @@ To bold the middle of a word for emphasis, add `two asterisks` (`**`) without sp
 
 **Syntax:**
 
-```markdown
+```md
 This is **bold text**.
 
 This is __bold text__.
@@ -79,7 +79,7 @@ To make text italic, surround the text with `an asterisk` (`*`) or `an underscor
 To italicize the middle of a word for emphasis, add `an asterisk` (`*`) without spaces around the letters.
 
 **Syntax:**
-```markdown
+```md
 This is italicized *text*.
 
 This is italicized _text_.
@@ -106,7 +106,7 @@ To bold and italicize the middle of a word for emphasis, add `three asterisks` (
 
 **Syntax:**
 
-```markdown
+```md
 This text is ***very important***.
 
 This text is ___very important___.
@@ -154,7 +154,7 @@ Blockquotes can contain other Markdown formatted elements. Not all elements can 
 It is good practice to put a blank line above and below a heading for compatibility.
 
 **Syntax:**
-```markdown
+```md
 > It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.
 >
 >> Time will not slow down when something unpleasant lies ahead.
