@@ -6,6 +6,13 @@ These 12 characters are seperated into **6 groups of 2** with **colons (:)** as 
 
 This address is known as the **Media Access Control (MAC)** address.
 
+A MAC address is composed of **2 main sections**.
+1. Organizationally Unique Identifier (OUI)
+    - The **1st 24 bits (6 characters or 3 parts)** represent the **company** that made the network interface.
+    - This is known as the **Organizationally Unique Identifier (OUI)**
+2. Device ID
+    - The reamining part is the **Device ID**. This is **unique to your NIC**.
+
 [![MAC Address][1]][1]
 
 [1]: ../images/networking/mac_address.png (mac_address.png)
