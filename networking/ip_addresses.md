@@ -2,6 +2,8 @@
 
 An **Internet Protocol (IP) address** can be used as a way of identifying a host on a network **for a period of time**.
 
+IP addresses exist in the 
+
 Then that IP address can then be associated with another device without the IP address changing.
 - IPv4 addresses
 - IPv6 addresses
@@ -69,4 +71,4 @@ IPv6 has a few benefits.
 
 
 [1]: ../images/networking/ipv4_octets.png (ipv4_octets.png)
-[2]: ..//images/networking/ipv6.png (ipv6.png)
+[2]: ../images/networking/ipv6.png (ipv6.png)
