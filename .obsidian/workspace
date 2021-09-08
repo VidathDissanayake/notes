@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "ec4abed0c99d2c89",
+    "type": "split",
+    "children": [
+      {
+        "id": "da221b98cb9ef461",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "928caeb06a88a4f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bff74ca96d20a7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0056b52acade1c15",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "373e2d9cfb23902f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "41e51428d597d2c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f07dbb2a73480092",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd36d79a9ba1326a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "da221b98cb9ef461",
+  "lastOpenFiles": [
+    "cheetsheets/markdown.md"
+  ]
+}
