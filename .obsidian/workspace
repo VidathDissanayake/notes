@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "da221b98cb9ef461",
+        "id": "c1a36fc10444d3fb",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -82,8 +82,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "da221b98cb9ef461",
+  "active": "c1a36fc10444d3fb",
   "lastOpenFiles": [
+    "networking/lan/topologies.md",
     "cheetsheets/markdown.md"
   ]
 }
