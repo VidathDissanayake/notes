@@ -9,3 +9,5 @@ There are three different editions of Burp Suite available.
 ## Burp Suite Community Edition
 
 Burp Suite community edition is free to use for any legal non-commercial purposes.
+
+For this reason, this is th
