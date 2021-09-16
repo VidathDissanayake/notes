@@ -1,8 +1,9 @@
 Tools in the [[Burp Suite]] framework 
 
--   **Proxy:** [[Proxy]] allows us to intercept and modify requests/responses when interacting with web applications.
--   **Repeater:** Repeater allows us to capture, modify, then resend the same request numerous times.
--   **Intruder:** Intruder allows us to spray an endpoint with requests. Used for [[bruteforcing]] and [[fuzzing]].
--   **Decoder:** Though less-used than the previously mentioned features, Decoder still provides a valuable service when transforming data -- either in terms of decoding captured information, or encoding a payload prior to sending it to the target. Whilst there are other services available to do the same job, doing this directly within Burp Suite can be very efficient.  
--   **Comparer:** As the name suggests, Comparer allows us to compare two pieces of data at either word or byte level. Again, this is not something that is unique to Burp Suite, but being able to send (potentially very large) pieces of data directly into a comparison tool with a single keyboard shortcut can speed things up considerably.  
--   **Sequencer:** We usually use Sequencer when assessing the randomness of tokens such as session cookie values or other supposedly random generated data. If the algorithm is not generating secure random values, then this could open up some devastating avenues for attack.
+- **Proxy:** [[Proxy]] allows us to intercept and modify requests/responses when interacting with web applications.
+- **Repeater:** [[Repeater]] allows us to capture, modify, then resend the same request numerous times.
+- **Intruder:** [[Intruder]] allows us to spray an endpoint with requests. Used for [[bruteforcing]] and [[fuzzing]].
+- **Decoder:** [[Decoder]] provides the ability to transforming data. Either in terms of [[decoding]] captured information, or [[encoding]] a payload prior to sending it to the target.
+- **Comparer:** [[Comparer]] allows us to compare two pieces of data at either word or byte level.
+- **Sequencer:** [[Sequencer]] is used for assessing the randomness of tokens such as session cookie values or other supposedly random generated data.
+- **Extender:** [[Extender]] allows quickly and easily load extensions into the framework, as well as providing a marketplace to download third-party modules (referred to as the "BApp Store").

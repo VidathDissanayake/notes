@@ -13,3 +13,5 @@ Burp Suite is also very commonly used when assessing mobile applications because
 This captured traffic can be **forwarded to ther parts of the framework** for further manipulation.
 
 This ability to intercept, view, and modify web requests prior to them being sent to the target server (or, in some cases, the responses before they are received by our browser), makes Burp Suite perfect for any kind of manual web app testing.
+
+There are different [[editions]] of Burp Suite.
