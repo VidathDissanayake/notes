@@ -12,6 +12,8 @@ Burp Suite community edition is **free to use for any legal non-commercial** pur
 
 Has a **subset of Professional edition** features. 
 
+Whilst Burp Community has a relatively limited feature-set compared to the Professional edition, it still has many superb tools available. [[tools/hacking/webapp/burpsuite/tools/README]]
+
 For this reason, this is the commonly used edition.
 
 
