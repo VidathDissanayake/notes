@@ -1,4 +1,6 @@
-Tools in the [[Burp Suite]] framework 
+# Tools in the Burp Suite Framework
+
+Main tools in the [[Burp Suite]] framework 
 
 - **Proxy:** [[Proxy]] allows us to intercept and modify requests/responses when interacting with web applications.
 - **Repeater:** [[Repeater]] allows us to capture, modify, then resend the same request numerous times.
