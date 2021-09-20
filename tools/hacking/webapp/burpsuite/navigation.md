@@ -16,10 +16,10 @@ Sub-tabs of modules can be selected from the second menu bar that will appear be
 
 In addition to the menu bar, Burp Suite also has keyboard shortcuts that allow quick navigation to key tabs. By default, these are:
 
-**Shortcut**  | **Does**  
-
-| `Ctrl + Shift + D` | Switch to the Dashboard  
-| `Ctrl + Shift + T` | Switch to the Target tab
-| `Ctrl + Shift + P` | Switch to the Proxy tab
-| `Ctrl + Shift + I` | Switch to the Intruder tab	|
-| `Ctrl + Shift + R` | Switch to the Repeater tab |
+|**Shortcut**  | **Does**  |
+|----------------------|------------------------------|
+| `Ctrl + Shift + D` | Switch to the Dashboard	    |
+| `Ctrl + Shift + T` | Switch to the Target tab		  |
+| `Ctrl + Shift + P` | Switch to the Proxy tab		  |
+| `Ctrl + Shift + I` | Switch to the Intruder tab	 |
+| `Ctrl + Shift + R` | Switch to the Repeater tab  |
