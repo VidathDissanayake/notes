@@ -6,4 +6,4 @@ Navigating around the [[Burp Suite]] GUI by default is done entirely using the t
 
 These allow to switch between [[modules]]. 
 
-Sub-tabs of modules can be selected from the second menu bar that will appear below the first one.
+Sub-tabs of modules can be selected from the second menu bar that will appear below the first one. These usually provide module specific 
