@@ -11,4 +11,4 @@ Main tools in the [[Burp Suite]] framework
 - **Decoder:** [[Decoder]] provides the ability to transforming data. Either in terms of [[decoding]] captured information, or [[encoding]] a payload prior to sending it to the target.
 - **Comparer:** [[Comparer]] allows us to compare two pieces of data at either word or byte level.
 - **Logger:** [[Logger]] logs all traffic.
-- **Extender:** [[Extender]] allows quickly and easily load extensions into the framework, as well as providing a marketplace to download third-party modules (referred to as the "BApp Store").
+- **Extender:** [[Extender]] allows quickly and easily load [[extensions]] into the framework, as well as providing a marketplace to download third-party modules (referred to as the "BApp Store").
