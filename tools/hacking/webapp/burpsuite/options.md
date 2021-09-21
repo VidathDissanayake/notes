@@ -8,7 +8,7 @@ There are two main types of options in [[Burp Suite]].
 
 User options apply every time Burp is opened.
 
-The settings here apply globally. They control the application. However, most of them **can be overwritten** by [[#Project Options]].
+The settings here apply globally. They control the application. However, most of them can be overridden by [[#Project Options]].
 
 There are four main sub-sections of the User options tab:
 - **Connections** allow us to control how Burp makes connections to targets. (Eg: Through a proxy.)
@@ -17,3 +17,10 @@ There are four main sub-sections of the User options tab:
 - **Misc** contains settings including the keybindings table (HotKeys).
 
 ## Project Options
+
+Project options will only apply to the current project.
+
+The options here can be used to override settings in [[#User Options]].
+
+There are five main sub-sections of the Project options tab:
+- **Connections** have many of the same options as the User options equivalent. It also has "Hostname Resolution" used to override default DNS resolution and map IPs to 
