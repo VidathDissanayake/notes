@@ -22,8 +22,11 @@ We can disable intercept by clicking the "intercept is on" button.
 
 Burp Suite will still (by default) be logging requests made through the proxy when the intercept is off. This can be very useful for going back and analysing prior requests, even if we didn't specifically capture them when they were made.
 
-The logs can be viewed by going to the "HTTP history" sub-tab. These requests can also be sent to other modules..
+These logs can be viewed by going to the "HTTP history" sub-tab. These requests can also be sent to other modules...
 
 
 ## WebSockets History
 
+Like [[#HTTP History]] Burp Suite also logs WebSockets history by default.
+
+These logs can be viewed by going to the "WebSockets history" sub-tab. These can also be sent to other modules.
