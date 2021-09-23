@@ -27,6 +27,10 @@ These logs can be viewed by going to the "HTTP history" sub-tab. These requests 
 
 ## WebSockets History
 
-Like [[#HTTP History]] Burp Suite also logs WebSockets history by default.
+Like [[#HTTP History]] Burp will also capture and log WebSocket communication which can be exceedingly helpful when analysing a web app.
 
 These logs can be viewed by going to the "WebSockets history" sub-tab. These can also be sent to other modules.
+
+
+## Options
+
