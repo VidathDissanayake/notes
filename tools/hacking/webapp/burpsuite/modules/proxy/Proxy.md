@@ -36,3 +36,6 @@ These logs can be viewed by going to the "WebSockets history" sub-tab. These can
 
 Proxy specific options can be found in the "Options" sub-tab.
 
+We can set which requests will be intercepted and any automatic replacing we need to do here.
+
+There are also request modification rules and other general settings.
