@@ -34,3 +34,5 @@ These logs can be viewed by going to the "WebSockets history" sub-tab. These can
 
 ## Options
 
+Proxy specific options can be found in the "Options" sub-tab.
+
