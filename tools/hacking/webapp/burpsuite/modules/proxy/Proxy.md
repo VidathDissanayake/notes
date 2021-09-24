@@ -4,6 +4,12 @@ The proxy module is the most important one of [[Burp Suite]] [[modules]].
 
 It allows us to capture requests and responses between ourselves and our target. These can then be manipulated or sent to other tools for further processing before being allowed to continue to their destination.
 
+There are two ways to proxy our traffic through Burp Suite.
+
+1.  We could use the embedded browser.
+2.  We can configure our local web browser to proxy our traffic through Burp (more common). For this, we can use [[FoxyProxy]] or change the proxy settings of the browser.
+
+B
 
 ## Intercept
 
