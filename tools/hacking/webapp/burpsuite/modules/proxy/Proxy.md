@@ -9,7 +9,7 @@ There are two ways to proxy our traffic through Burp Suite.
 1.  We could use the embedded browser.
 2.  We can configure our local web browser to proxy our traffic through Burp (more common). For this, we can use [[FoxyProxy]] or change the proxy settings of the browser.
 
-B
+By default, Burp opens the proxy listener on 127.0.0.1:8080
 
 ## Intercept
 
