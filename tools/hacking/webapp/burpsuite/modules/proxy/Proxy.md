@@ -47,4 +47,4 @@ We can set which requests will be intercepted and any automatic replacing we nee
 There are also request modification rules and other general settings.
 
 
-## Setting up C
+## Setting up HTTPS
