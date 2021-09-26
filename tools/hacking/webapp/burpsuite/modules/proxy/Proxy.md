@@ -45,6 +45,3 @@ Proxy specific options can be found in the "Options" sub-tab.
 We can set which requests will be intercepted and any automatic replacing we need to do here.
 
 There are also request modification rules and other general settings.
-
-
-## Setting up HTTPS
