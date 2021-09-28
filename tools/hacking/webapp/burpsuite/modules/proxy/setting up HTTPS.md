@@ -7,5 +7,9 @@ Portswigger **C**ertificate **A**uthority (CA) (The one used by Burp) isn't auth
 We have to manually add the CA certificate to our list of trusted certificate authorities.
 
 We need to,
-1. Get the certificate.
-2. Import the cer
+1. Download the certificate.
+2. Import the certificate to the browser.
+
+First, with the proxy activated, head to [http://burp/cert](http://burp/cert); this will download a file called `cacert.der`.
+
+Then find the place where you can upload the certificate in your browser (search in settings/preferences) and upload it as a Trusted Certificate Authority certificate.
