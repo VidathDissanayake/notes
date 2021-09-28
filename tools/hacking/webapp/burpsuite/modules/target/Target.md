@@ -16,3 +16,8 @@ The Site map can be especially useful if we want to map out an API, as whenever 
 ## Scope
 
 The Scope sub-tab allows us to control what we are targeting by either including or excluding domains/IPs.
+
+
+## Issue Definitions
+
+The Issue Definitions section gives us a huge list of web vulnerabilities (complete with descriptions and references) which we can draw from should we need citations for a report or help describing a vulnerability.
