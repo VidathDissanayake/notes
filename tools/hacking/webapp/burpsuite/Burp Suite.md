@@ -14,4 +14,4 @@ This captured traffic can be **forwarded to ther parts of the framework** for fu
 
 This ability to intercept, view, and modify web requests prior to them being sent to the target server (or, in some cases, the responses before they are received by our browser), makes Burp Suite perfect for any kind of manual web app testing.
 
-There are different [[editions]] of Burp Suite.
+There are different [editions](editions.md) of Burp Suite.

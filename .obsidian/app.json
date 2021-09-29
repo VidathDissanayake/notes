@@ -11,8 +11,13 @@
     "Portswigger",
     "Portswigger",
     "Javascript",
-    "webpage"
+    "webpage",
+    "licence",
+    "fuzzer",
+    "bruteforcer",
+    "Nessus"
   ],
+  "alwaysUpdateLinks": true,
   "useTab": false,
   "newFileLocation": "current",
   "newLinkFormat": "shortest",

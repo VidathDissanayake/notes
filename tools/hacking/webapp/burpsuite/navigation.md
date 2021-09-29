@@ -1,10 +1,10 @@
 # Navigation in Burp Suite
 
-Navigating around the [[Burp Suite]] GUI by default is done entirely using the top menu bars:
+Navigating around the [Burp Suite](Burp%20Suite.md) GUI by default is done entirely using the top menu bars:
 
-![[tabs.png]]
+![tabs](tabs.png)
 
-These allow to switch between [[modules]]s. 
+These allow to switch between [modules](modules.md). 
 
 These tabs can also be detatched into seperate windows. This can be done by clicking "Window" in the application menu at the top of the screen, then choosing to "Detach" tabs:
 
