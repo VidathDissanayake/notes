@@ -5,4 +5,4 @@ Cheetsheets for quick lookup!
 
 ## Languages
 
-- [markdown](cheetsheets/markdown.md)
+- [Markdown](cheetsheets/Markdown.md)

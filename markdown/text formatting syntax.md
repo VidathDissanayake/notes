@@ -1,5 +1,7 @@
 # Text Formatting
 
+Text formatting syntax in [Markdown](markdown/Markdown.md)
+
 ## Paragraphs
 
 To create paragraphs, use a blank line to separate one or more lines of text. Do not add indentation infront of paragraphs unless they are in a list to avoid unexpected formatting problems.

@@ -1,5 +1,6 @@
 # Markdown Cheat Sheet
 
+***For full details, see [Markdown](markdown/Markdown.md)***
 
 ## Basic Syntax
 

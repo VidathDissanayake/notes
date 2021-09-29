@@ -1,0 +1,1 @@
+# Bell-La Padula Model

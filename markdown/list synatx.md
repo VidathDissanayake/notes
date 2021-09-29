@@ -1,5 +1,7 @@
 # Lists
 
+List syntax in [Markdown](markdown/Markdown.md)
+
 There are 3 types of lists
 1. Unordered lists
 2. Ordered lists

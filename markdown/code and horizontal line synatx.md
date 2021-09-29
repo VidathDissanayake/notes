@@ -1,5 +1,7 @@
 # Code and Horizontal lines
 
+Code and Horizontal line syntax in [Markdown](markdown/Markdown.md)
+
 ## Code
 
 To add code inline, surround the code with `backticks` (`` ` ``).
