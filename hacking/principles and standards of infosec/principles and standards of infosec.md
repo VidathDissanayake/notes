@@ -16,6 +16,3 @@ These measures include,
 - [Thread Modelling and Incident Response]
   - [Threat Modelling]
   - [Incident Response]
-
-**References:**
-- [TryHackMe Principles of Security room](https://tryhackme.com/room/principlesofsecurity)
