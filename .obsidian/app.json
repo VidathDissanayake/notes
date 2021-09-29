@@ -1,0 +1,20 @@
+{
+  "spellcheck": true,
+  "attachmentFolderPath": "images",
+  "spellcheckDictionary": [
+    "analysing",
+    "WebSockets",
+    "WebSocket",
+    "colour",
+    "FoxyProxy",
+    "proxied",
+    "Portswigger",
+    "Portswigger",
+    "Javascript",
+    "webpage"
+  ],
+  "alwaysUpdateLinks": true,
+  "useTab": false,
+  "newFileLocation": "current",
+  "newLinkFormat": "absolute"
+}

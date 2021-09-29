@@ -1,6 +1,6 @@
 # Target
 
-The Target [[module]] in [[Burp Suite]].
+The Target [[modules]] in [[Burp Suite]].
 
 ## Sitemap
 

@@ -4,7 +4,7 @@ Navigating around the [[Burp Suite]] GUI by default is done entirely using the t
 
 ![[tabs.png]]
 
-These allow to switch between [[module]]s. 
+These allow to switch between [[modules]]s. 
 
 These tabs can also be detatched into seperate windows. This can be done by clicking "Window" in the application menu at the top of the screen, then choosing to "Detach" tabs:
 
