@@ -13,9 +13,10 @@
     "Javascript",
     "webpage"
   ],
+  "alwaysUpdateLinks": true,
   "useTab": false,
   "newFileLocation": "current",
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "shortest",
   "useMarkdownLinks": true,
   "showUnsupportedFiles": false
 }
