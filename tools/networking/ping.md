@@ -22,6 +22,4 @@ ping URL
 ```
 
 **Example:**
-[![Ping Example][1]][1]
-
-[1]: ../../images/tools/networking/ping.png (ping.png)
+![ping](ping.png)

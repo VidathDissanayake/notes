@@ -15,9 +15,14 @@
     "licence",
     "fuzzer",
     "bruteforcer",
-    "Nessus"
+    "Nessus",
+    "HotKeys",
+    "behaviour",
+    "Hostname",
+    "IPs",
+    "Colab",
+    "travelling"
   ],
-  "alwaysUpdateLinks": true,
   "useTab": false,
   "newFileLocation": "current",
   "newLinkFormat": "shortest",
