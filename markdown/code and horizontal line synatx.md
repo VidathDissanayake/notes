@@ -1,6 +1,6 @@
 # Code and Horizontal lines
 
-Code and Horizontal line syntax in [Markdown](markdown/Markdown.md)
+Code and Horizontal line syntax in [Markdown](markdown/Markdown.md).
 
 ## Code
 

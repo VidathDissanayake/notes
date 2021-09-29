@@ -12,7 +12,7 @@ These measures include,
 - [The CIA Triad and security models used to achieve CIA Triad](CIA%20triad.md)
   - [Bell-La Padula Model](Bell-La%20Padula%20model.md)
   - [Biba Mpdel](Biba%20model.md)
-- [Principles of privileges](principles%20of%20privilages.md)
+- [Principles of privileges](principles%20of%20privileges.md)
 - [Thread Modelling and Incident Response]
   - [Threat Modelling]
   - [Incident Response]

@@ -1,6 +1,6 @@
 # Text Formatting
 
-Text formatting syntax in [Markdown](markdown/Markdown.md)
+Text formatting syntax in [Markdown](markdown/Markdown.md).
 
 ## Paragraphs
 

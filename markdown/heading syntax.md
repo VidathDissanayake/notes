@@ -1,5 +1,7 @@
 # Headings
 
+Heading syntax in [Markdown](markdown/Markdown.md).
+
 There are 6 levels of headings. Headings start with a `#` and a `space`. Size of heading decreases when the number of `#` s increases.
 
 Alternatively adding any number of `=` on the line below will convert the line above to `Heading level 1` and adding any number of `-` on the line below will convert the line above to `Heading level 2`
