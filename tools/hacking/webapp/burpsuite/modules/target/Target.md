@@ -1,6 +1,6 @@
 # Target
 
-The Target [[module]] allows to set the scope and view a sitemap in [[Burp Suite]].
+The Target [[module]] in [[Burp Suite]].
 
 ## Sitemap
 
