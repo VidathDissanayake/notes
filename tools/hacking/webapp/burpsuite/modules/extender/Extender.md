@@ -1,4 +1,4 @@
-# Burp Suite Extensions
+# Burp Suite Extender
 
 Extensions can be added to [[Burp Suite]] through the [[Extender]] tab.
 

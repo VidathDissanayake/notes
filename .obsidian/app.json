@@ -13,8 +13,9 @@
     "Javascript",
     "webpage"
   ],
-  "alwaysUpdateLinks": true,
   "useTab": false,
   "newFileLocation": "current",
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": false
 }

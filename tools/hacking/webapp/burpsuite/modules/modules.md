@@ -1,4 +1,4 @@
-# Tools in the Burp Suite Framework
+# Modules in the Burp Suite Framework
 
 Main tools in the [[Burp Suite]] framework 
 
