@@ -1,8 +1,8 @@
 # MAC Addresses
 
-All **network interface cards (NICs)** have a unique  **12 character 48 bit hexadecimal number** address hardcoded it.
+All **network interface cards (NICs)** have a unique **12 character 48 bit hexadecimal number** address hardcoded in it.
 
-These 12 characters are seperated into **6 groups of 2** with **colons (:)** as seperators.
+These 12 characters are separated into **6 groups of 2** with **colons (:)** as separators.
 
 This address is known as the **Media Access Control (MAC)** address.
 
@@ -11,8 +11,6 @@ A MAC address is composed of **2 main sections**.
     - The **1st 24 bits (6 characters or 3 parts)** represent the **company** that made the network interface.
     - This is known as the **Organizationally Unique Identifier (OUI)**
 2. Device ID
-    - The reamining part is the **Device ID**. This is **unique to your NIC**.
+    - The remaining part is the **Device ID**. This is **unique to your NIC**.
 
-[![MAC Address][1]][1]
-
-[1]: ../images/networking/mac_address.png (mac_address.png)
+![mac_address](mac_address.png)

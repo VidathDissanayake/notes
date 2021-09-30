@@ -23,7 +23,7 @@ There are 2 versions of IP Addresses.
 
 An IP address is a **32 bit** number that is divided into four octets of **8 bits each**.
 
-[![IPv4 Octets][1]][1]
+![ipv4_octets](ipv4_octets.png)
 
 IPv4, uses a numbering system of **2^32** IP addresses (4.29 billion).
 
@@ -31,7 +31,7 @@ This number is calculated through a technique known as **IP addressing & subnett
 
 IP addresses can change from device to device but **cannot be active simultaneously more than once within the same network**.
 
-There are 2 types of ip address ranges.
+There are 2 types of IP address ranges.
 - Public IP addresses
 - Private IP addresses
 
@@ -50,12 +50,7 @@ These two devices will be able to use their **private IP addresses** to **commun
 
 However, any data sent to **the Internet from either of these devices** will be identified by the same **public IP address**. Public IP addresses are given by the **Internet Service Provider (ISP)** at a monthly fee.
 
-<br>
-
 ---
-
-<br>
-
 
 ## IPv6 Addresses
 
@@ -69,8 +64,4 @@ IPv6 has a few benefits.
 - Supports up to **2^128** of IP addresses (340 trillion-plus)
 - More efficient due to new methodologies
 
-[![IPv6][2]][2]
-
-
-[1]: ../images/networking/ipv4_octets.png (ipv4_octets.png)
-[2]: ../images/networking/ipv6.png (ipv6.png)
+![ipv6](ipv6.png)
