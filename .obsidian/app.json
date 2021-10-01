@@ -27,7 +27,8 @@
     "hardcoded",
     "ARPNET",
     "ARPNET",
-    "Defence"
+    "Defence",
+    "analyse"
   ],
   "useTab": false,
   "newFileLocation": "current",
