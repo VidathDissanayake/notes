@@ -19,4 +19,4 @@ Burp will then ask us whether we want to stop logging anything which isn't in sc
 Even though we disabled logging, that doesn't stop Burp Proxy from [intercepting](Proxy#Intercept) out of scope traffic. 
 
 To turn this off, we need to go into the [Options](Proxy#Options) sub-tab in [Proxy](Proxy.md) and select "`And URL Is in target scope`" from the Intercept Client Requests section:
-![disable_intercept_oos](disable_intercept_oos.png)
+![disable_intercept_oos](assets/disable_intercept_oos.png)

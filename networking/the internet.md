@@ -8,7 +8,7 @@ So, there are 2 main types of networks in the internet.
 - Private networks
 - Public networks
 
-![internet](internet.png)
+![internet](assets/internet.png)
 
 ---
 

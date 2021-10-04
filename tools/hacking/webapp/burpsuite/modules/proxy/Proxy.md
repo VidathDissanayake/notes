@@ -15,7 +15,7 @@ By default, Burp opens the proxy listener on 127.0.0.1:8080
 
 Intercept is on by default in Burp. When a request is captured, it looks like this:
 
-![request](request.png)
+![request](assets/request.png)
 
 At this point, the browser making the request will hang and we can forward (potentially after editing it) or drop the request. We get full control over our traffic.
 

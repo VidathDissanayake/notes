@@ -22,4 +22,4 @@ ping URL
 ```
 
 **Example:**
-![ping](ping.png)
+![ping](assets/ping.png)

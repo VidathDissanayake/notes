@@ -64,4 +64,4 @@ IPv6 has a few benefits.
 - Supports up to **2^128** of IP addresses (340 trillion-plus)
 - More efficient due to new methodologies
 
-![ipv6](ipv6.png)
+![ipv6](assets/ipv6.png)

@@ -2,13 +2,13 @@
 
 Navigating around the [Burp Suite](Burp%20Suite.md) GUI by default is done entirely using the top menu bars:
 
-![tabs](tabs.png)
+![tabs](assets/tabs.png)
 
 These allow to switch between [modules](modules.md). 
 
 These tabs can also be detached into separate windows. This can be done by clicking "Window" in the application menu at the top of the screen, then choosing to "Detach" tabs:
 
-![detach_windows](detach_windows.png)
+![detach_windows](assets/detach_windows.png)
 
 These can be reattached in the same way or by closing the detached window.
 
