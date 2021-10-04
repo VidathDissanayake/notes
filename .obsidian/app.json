@@ -34,5 +34,6 @@
   "newFileLocation": "current",
   "newLinkFormat": "shortest",
   "useMarkdownLinks": true,
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "./assets"
 }
