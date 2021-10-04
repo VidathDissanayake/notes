@@ -13,3 +13,10 @@ We have four display options here:
 3.  **Hex:** This view takes the raw response and gives us a byte view of it -- especially useful if the response is a binary file.
 4.  **Render (Only for response):** The render view renders the page as it would appear in your browser.
 
+---
+
+Just to the right of the view buttons is the "Show non-printable characters" button (`\n`). 
+
+This button allows us to display characters that usually wouldn't show up in the Pretty or Raw views. 
+
+For example, every line in the response will end with the characters `\r\n` -- these signify a carriage return followed by a newline and are part of how HTTP headers are interpreted.
