@@ -8,7 +8,7 @@ These allow to switch between [modules](modules.md).
 
 These tabs can also be detached into separate windows. This can be done by clicking "Window" in the application menu at the top of the screen, then choosing to "Detach" tabs:
 
-![detach_windows](assets/detach_windows.png)
+![detach windows](assets/detach%20windows.png)
 
 These can be reattached in the same way or by closing the detached window.
 

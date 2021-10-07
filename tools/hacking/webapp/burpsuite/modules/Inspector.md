@@ -8,7 +8,7 @@ Of these, the request sections can nearly always be altered, allowing us to add,
 
 For example, in the Request Attributes section, we can edit the parts of the request that deal with location, method and protocol; e.g. changing the resource we are looking to retrieve, altering the request from GET to another HTTP method, or switching protocol from HTTP/1 to HTTP/2:
 
-![Screenshot showing the layout of the request attributes section.](assets/request_attributes.png)
+![Screenshot showing the layout of the request attributes section.](assets/request%20attributes.png)
 
 The other sections available for viewing and/or editing are:  
 

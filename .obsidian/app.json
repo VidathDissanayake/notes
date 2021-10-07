@@ -29,7 +29,8 @@
     "ARPNET",
     "Defence",
     "analyse",
-    "TrueCrypt"
+    "TrueCrypt",
+    "webserver"
   ],
   "useTab": false,
   "newFileLocation": "current",

@@ -1,6 +1,6 @@
 # IP Addressing
 
-An **Internet Protocol (IP) address** can be used as a way of identifying a host on a network **for a period of time**.
+An Internet Protocol (IP) address can be used as a way of identifying a host on a network for a period of time.
 
 Then that IP address can then be associated with another device without the IP address changing.
 
@@ -21,23 +21,23 @@ There are 2 versions of IP Addresses.
 
 ***Note: Generally, an "IP address" is an IPv4 address unless specified as IPv6.***
 
-An IP address is a **32 bit** number that is divided into four octets of **8 bits each**.
+An IP address is a 32 bit number that is divided into four octets of 8 bits each.
 
-![ipv4_octets](assets/ipv4_octets.png)
+![ipv4 octets](assets/ipv4%20octets.png)
 
-IPv4, uses a numbering system of **2^32** IP addresses (4.29 billion).
+IPv4, uses a numbering system of 2^32 IP addresses (4.29 billion).
 
-This number is calculated through a technique known as **IP addressing & subnetting**.
+This number is calculated through a technique known as IP addressing & subnetting.
 
-IP addresses can change from device to device but **cannot be active simultaneously more than once within the same network**.
+IP addresses can change from device to device but cannot be active simultaneously more than once within the same network.
 
 There are 2 types of IP address ranges.
 - Public IP addresses
 - Private IP addresses
 
-Depending on **the location of the device**, the IP address can be private or public.
+Depending on the location of the device, the IP address can be private or public.
 
-A **public address** is used to identify the device **on the Internet**, whereas a **private address** is used to identify a device amongst other devices **in a private network**.
+A public address is used to identify the device on the Internet, whereas a private addss is used to identify a device amongst other devices in a private network.
 
 |Device Name     |IP Address   |IP Address Type|
 |:--------------:|:-----------:|:-------------:|
@@ -46,9 +46,9 @@ A **public address** is used to identify the device **on the Internet**, whereas
 |CMNatic-PC      |192.168.1.74 |Private        |
 |CMNatic-PC      |86.157.52.21 |Public         |
 
-These two devices will be able to use their **private IP addresses** to **communicate with each other**.
+These two devices will be able to use their private IP addresses to communicate with each other.
 
-However, any data sent to **the Internet from either of these devices** will be identified by the same **public IP address**. Public IP addresses are given by the **Internet Service Provider (ISP)** at a monthly fee.
+However, any data sent to the Internet from either of these devices will be identified by the same public IP address. Public IP addresses are given by the Internet Service Provider (ISP) at a monthly fee.
 
 ---
 
@@ -61,7 +61,7 @@ Cisco estimated that there will be approximately 50 billion devices connected to
 IPv6 is a new iteration of the Internet Protocol addressing scheme to help tackle this issue.
 
 IPv6 has a few benefits.
-- Supports up to **2^128** of IP addresses (340 trillion-plus)
+- Supports up to 2^128 of IP addresses (340 trillion-plus)
 - More efficient due to new methodologies
 
 ![ipv6](assets/ipv6.png)

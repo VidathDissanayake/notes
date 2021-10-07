@@ -9,7 +9,7 @@ Cryptography is used to protect data. There are many instances of cryptography b
 
 For example:
 - [Secure communication](secure%20communication/secure%20communication.md):
-    - web traffic: HTTPS
+    - web traffic: SSL/TLS(HTTPS)
     - wireless traffic: 802.11i WPA2(WiFi), GSM(Cell phone), Bluetooth
 - Encrypting files on a disk:
     - EFS, TrueCrypt

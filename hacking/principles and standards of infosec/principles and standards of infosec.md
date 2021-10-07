@@ -4,9 +4,9 @@
 
 There are some measures, protocols and frameworks in place that define what makes data secure.
 
-These measures, frameworks and protocols all play a small part in **"Defence in Depth"**.
+These measures, frameworks and protocols all play a small part in "Defence in Depth".
 
-Defence in Depth is the use of **multiple varied layers of security** to an organisation's systems and data in the hopes that multiple layers will **provide redundancy in an organisation's security perimeter**.
+Defence in Depth is the use of multiple varied layers of security to an organisation's systems and data in the hopes that multiple layers will provide redundancy in an organisation's security perimeter.
 
 These measures include,
 - [The CIA Triad and security models used to achieve CIA Triad](CIA%20triad.md)
