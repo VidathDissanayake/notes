@@ -8,7 +8,7 @@ Cryptography is using mathematical algorithms to encrypt data to protect data.
 Cryptography is used to protect data. There are many instances of cryptography being used. 
 
 For example:
-- Secure communication:
+- [Secure communication](secure%20communication/secure%20communication.md):
     - web traffic: HTTPS
     - wireless traffic: 802.11i WPA2(WiFi), GSM(Cell phone), Bluetooth
 - Encrypting files on a disk:
