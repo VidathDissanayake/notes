@@ -30,7 +30,9 @@
     "Defence",
     "analyse",
     "TrueCrypt",
-    "webserver"
+    "webserver",
+    "ciphertext",
+    "Cryptographic"
   ],
   "useTab": false,
   "newFileLocation": "current",

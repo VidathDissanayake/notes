@@ -31,7 +31,7 @@ Burp Suite professional edition requires an expensive licence. (₤319/$399 per 
 - Unrestricted access to add new [extensions](extensions.md) for greater functionality.
 - Access to the Burp Suite Collaborator (effectively providing a unique request catcher self-hosted or running on a Portswigger owned server).
 
-In short, Burp Pro is an *extremely* powerful tool.
+In short, Burp Pro is an _extremely_ powerful tool.
 
 
 ## Burp Suite Enterprise Edition

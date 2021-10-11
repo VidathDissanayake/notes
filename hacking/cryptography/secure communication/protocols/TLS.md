@@ -37,3 +37,4 @@ TLS has 2 parts.
 
 ## Handshake Protocol
 
+## Record Layer
