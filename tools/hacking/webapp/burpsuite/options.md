@@ -12,7 +12,7 @@ The settings here apply globally. They control the application. However, most of
 
 There are four main subsections of the User options tab:
 - **Connections** allow us to control how Burp makes connections to targets. (Eg: Through a proxy.)
-- **TLS** allows us to enable and disable various TLS options. We can also upload client certificates there if needed.
+- **TLS** allows us to enable and disable various [TLS](../../../../hacking/cryptography/secure%20communication/protocols/TLS.md) options. We can also upload client certificates there if needed.
 - **Display** allows us to change how Burp Suite looks. (E.g. Font, scale, dark mode.) Also allows configuring things like the rendering engine in [Repeater](Repeater.md).
 - **Misc** contains settings including the key bindings table (HotKeys), temp file location, proxy behaviour and other general settings. You can configure auto backup and REST API in [Burp Suite Professional Edition](editions#Burp%20Suite%20Professional%20Edition).
 
