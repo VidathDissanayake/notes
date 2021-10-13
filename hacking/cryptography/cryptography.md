@@ -15,3 +15,8 @@ For example:
 - Encrypting files on a disk:
     - EFS, TrueCrypt
 - Content protection: CSS(DVD), AACS(Blu-ray)
+
+There are 3 steps in cryptography.
+1. Precisely specify threat model.
+2. Propose a construction.
+3. Prove that breaking the construction under threat model will solve an underlying hard problem.
