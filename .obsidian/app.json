@@ -32,7 +32,13 @@
     "TrueCrypt",
     "webserver",
     "ciphertext",
-    "Cryptographic"
+    "Cryptographic",
+    "plaintext",
+    "decrypt",
+    "digrams",
+    "trigrams",
+    "Vigenere",
+    "SQLi"
   ],
   "useTab": false,
   "newFileLocation": "current",
