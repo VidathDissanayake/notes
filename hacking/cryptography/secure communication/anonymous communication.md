@@ -1,3 +1,0 @@
-# Anonymous Communication
-
-Mix net

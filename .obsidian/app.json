@@ -44,7 +44,7 @@
   "newFileLocation": "current",
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
-  "showUnsupportedFiles": false,
-  "attachmentFolderPath": "./assets",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./assets/images",
   "alwaysUpdateLinks": true
 }
