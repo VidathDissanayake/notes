@@ -13,4 +13,4 @@ A MAC address is composed of 2 main sections.
 2. Device ID
     - The remaining part is the Device ID. This is unique to your NIC.
 
-![mac address](assets/mac%20address.png)
+![mac address](assets/images/mac%20address.png)

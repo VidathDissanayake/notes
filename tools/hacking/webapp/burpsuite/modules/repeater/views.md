@@ -4,7 +4,7 @@ Repeater offers us various ways to present the responses to our requests -- thes
 
 We can see the available options by looking above the response box:
 
-![The four view buttons above the response text](assets/response%20views.png)  
+![The four view buttons above the response text](assets/images/response%20views.png)  
 
 We have four display options here:
 

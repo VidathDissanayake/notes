@@ -8,4 +8,4 @@ The [Repeater](Repeater.md) interface can be split into six main sections:
 5.  At the right-hand side of the window, we have the [Inspector](../Inspector.md)Inspector, which allows us to break requests apart to analyse and edit them in a slightly more intuitive way than with the raw editor.
 6.  Finally, above the Inspector, we have our target. Quite simply, this is the IP address or domain to which we are sending requests. When we send requests to Repeater from other parts of Burp Suite, this will be filled in automatically.
 
-![interface](assets/interface.png)
+![interface](assets/images/interface.png)

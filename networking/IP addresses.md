@@ -23,7 +23,7 @@ There are 2 versions of IP Addresses.
 
 An IP address is a 32 bit number that is divided into four octets of 8 bits each.
 
-![ipv4 octets](assets/ipv4%20octets.png)
+![ipv4 octets](assets/images/ipv4%20octets.png)
 
 IPv4, uses a numbering system of 2^32 IP addresses (4.29 billion).
 
@@ -64,4 +64,4 @@ IPv6 has a few benefits.
 - Supports up to 2^128 of IP addresses (340 trillion-plus)
 - More efficient due to new methodologies
 
-![ipv6](assets/ipv6.png)
+![ipv6](assets/images/ipv6.png)
