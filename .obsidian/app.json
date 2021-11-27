@@ -38,7 +38,10 @@
     "digrams",
     "trigrams",
     "Vigenere",
-    "SQLi"
+    "SQLi",
+    "macOS",
+    "distros",
+    "bourne"
   ],
   "useTab": false,
   "newFileLocation": "current",
