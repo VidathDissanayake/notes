@@ -37,7 +37,7 @@ There are 2 types of IP address ranges.
 
 Depending on the location of the device, the IP address can be private or public.
 
-A public address is used to identify the device on the Internet, whereas a private addss is used to identify a device amongst other devices in a private network.
+A public address is used to identify the device on [the internet](the%20internet.md), whereas a private addss is used to identify a device amongst other devices in a private network.
 
 |Device Name     |IP Address   |IP Address Type|
 |:--------------:|:-----------:|:-------------:|
@@ -48,7 +48,7 @@ A public address is used to identify the device on the Internet, whereas a priva
 
 These two devices will be able to use their private IP addresses to communicate with each other.
 
-However, any data sent to the Internet from either of these devices will be identified by the same public IP address. Public IP addresses are given by the Internet Service Provider (ISP) at a monthly fee.
+However, any data sent to [the internet](the%20internet.md) from either of these devices will be identified by the same public IP address. Public IP addresses are given by the Internet Service Provider (ISP) at a monthly fee.
 
 ---
 
@@ -56,7 +56,7 @@ However, any data sent to the Internet from either of these devices will be iden
 
 As more and more devices become connected, it is becoming increasingly harder to get a public address that isn't already in use.
 
-Cisco estimated that there will be approximately 50 billion devices connected to the internet by the end of 2021.
+Cisco estimated that there will be approximately 50 billion devices connected to [the internet](the%20internet.md) by the end of 2021.
 
 IPv6 is a new iteration of the Internet Protocol addressing scheme to help tackle this issue.
 

@@ -6,7 +6,7 @@ For example, when [web traffic](web%20traffic.md) is being transmitted, [TLS](pr
 
 The building block of secure communication is [symmetric encryption](symmetric%20encryption.md).
 
-The core of cryptography for secure communication consists of two parts.
+The core of [cryptography](../cryptography.md) for secure communication consists of two parts.
 1. Secret key establishment
 2. Secure communication
 

@@ -1,6 +1,6 @@
 # Lists
 
-List syntax in [Markdown](markdown/Markdown.md).
+List syntax in [Markdown](Markdown.md).
 
 There are 3 types of lists
 1. Unordered lists

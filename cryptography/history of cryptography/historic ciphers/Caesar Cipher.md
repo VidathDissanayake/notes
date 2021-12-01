@@ -6,4 +6,4 @@ So a=d, b=e, c=f, x=a, y=b, z=c and so on.
 
 ## Breaking Caesar Cipher
 
-This is essentially a substitution cipher where the key is fixed. Therefore, it is easy to find the message if it is known that the encryption is done using Caesar Cipher, as the key isn't secret.
+This is essentially a [Substitution Cipher](Substitution%20Cipher.md) where the key is fixed. Therefore, it is easy to find the message if it is known that the encryption is done using Caesar Cipher, as the key isn't secret.

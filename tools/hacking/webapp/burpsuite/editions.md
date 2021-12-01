@@ -8,18 +8,18 @@ There are three different editions of [Burp Suite](Burp%20Suite.md) available.
 
 ## Burp Suite Community Edition
 
-Burp Suite community edition is **free to use for any legal, non-commercial** purposes.
+[Burp Suite](Burp%20Suite.md) community edition is **free to use for any legal, non-commercial** purposes.
 
 Has a **subset of Professional edition** features. 
 
-Whilst Burp Community has a relatively limited feature-set compared to the Professional edition, it still has many superb [modules](modules.md) available.
+Whilst Burp Community has a relatively limited feature-set compared to the Professional edition, it still has many superb [modules](modules/modules.md) available.
 
 For this reason, this is the commonly used edition.
 
 
 ## Burp Suite Professional Edition
 
-Burp Suite professional edition requires an expensive licence. (₤319/$399 per year per person!)
+[Burp Suite](Burp%20Suite.md) professional edition requires an expensive licence. (₤319/$399 per year per person!)
 
 **Unrestricted version of Community edition.**
 
@@ -27,9 +27,9 @@ Burp Suite professional edition requires an expensive licence. (₤319/$399 per 
 - An automated vulnerability scanner.
 - A fuzzer/bruteforcer that isn't rate limited.
 - Saving projects for future use; report generation.
-- A built-in API to allow integration with other tools.
-- Unrestricted access to add new [extensions](extensions.md) for greater functionality.
-- Access to the Burp Suite Collaborator (effectively providing a unique request catcher self-hosted or running on a Portswigger owned server).
+- A built-in API to allow integration with other [tools](../../../tools.md).
+- Unrestricted access to add new [extensions](modules/extender/extensions.md) for greater functionality.
+- Access to the [Burp Suite](Burp%20Suite.md) Collaborator (effectively providing a unique request catcher self-hosted or running on a Portswigger owned server).
 
 In short, Burp Pro is an _extremely_ powerful tool.
 

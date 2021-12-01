@@ -32,7 +32,7 @@ TLS has 4 versions that have been released as of the time of writing.
 |TLS 1.3 |  2018   |          |
 
 TLS has 2 parts.
-1. Handshake Protocol - Establish shared secret key using public key cryptography.
+1. Handshake Protocol - Establish shared secret key using public key [cryptography](../../cryptography.md).
 2. Record Layer - Transmit data using shared secret key. Ensures [confidentiality](../../../principles%20and%20standards%20of%20infosec/CIA%20triad/CIA%20triad.md#Confidentiality) and [integrity](../../../principles%20and%20standards%20of%20infosec/CIA%20triad/CIA%20triad.md#Integrity).
 
 ## Handshake Protocol

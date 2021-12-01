@@ -1,5 +1,5 @@
 # Links and Images
 
-Link and image syntax in [Markdown](markdown/Markdown.md).
+Link and image syntax in [Markdown](Markdown.md).
 
 ## Links

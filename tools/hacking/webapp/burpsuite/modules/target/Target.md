@@ -1,6 +1,6 @@
 # Burp Suite Target
 
-The Target [module](modules.md) fo [Burp Suite](Burp%20Suite.md).
+The Target [module](../modules.md) fo [Burp Suite](../../Burp%20Suite.md).
 
 ## Sitemap
 

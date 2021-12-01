@@ -1,6 +1,6 @@
 # Text Formatting
 
-Text formatting syntax in [Markdown](markdown/Markdown.md).
+Text formatting syntax in [Markdown](Markdown.md).
 
 ## Paragraphs
 
@@ -151,7 +151,7 @@ Blockquotes can be nested by adding more `>` s.
 
 Blockquotes can contain multiple paragraphs. Add a `>` on the blank lines between the paragraphs.
 
-Blockquotes can contain other Markdown formatted elements. Not all elements can be used.
+Blockquotes can contain other [Markdown](Markdown.md) formatted elements. Not all elements can be used.
 
 It is good practice to put a blank line above and below a heading for compatibility.
 
