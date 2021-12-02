@@ -16,10 +16,10 @@ Sub-tabs of [modules](modules/modules.md) can be selected from the second menu b
 
 In addition to the menu bar, [Burp Suite](Burp%20Suite.md) also has keyboard shortcuts that allow quick navigation to key tabs. By default, these are:
 
-|	  Shortcut     |      	                   Does                             |
-|------------------|------------------------------------------------------------|
-| `Ctrl + Shift + D` | Switch to the [Dashboard](modules/dashboard/Dashboard.md)  |
-| `Ctrl + Shift + T` | Switch to the [Target](modules/target/Target.md) tab	      |
-| `Ctrl + Shift + P` | Switch to the [Proxy](modules/proxy/Proxy.md) tab	      |
-| `Ctrl + Shift + I` | Switch to the [Intruder](modules/intruder/Intruder.md) tab |
-| `Ctrl + Shift + R` | Switch to the [Repeater](modules/repeater/Repeater.md) tab |
+|	  Shortcut     |                             Does                              |
+|------------------|---------------------------------------------------------------|
+| `Ctrl + Shift + D` | Switch to the [Dashboard](modules/dashboard/Dashboard.md) tab |
+| `Ctrl + Shift + T` | Switch to the [Target](modules/target/Target.md) tab	         |
+| `Ctrl + Shift + P` | Switch to the [Proxy](modules/proxy/Proxy.md) tab	         |
+| `Ctrl + Shift + I` | Switch to the [Intruder](modules/intruder/Intruder.md) tab    |
+| `Ctrl + Shift + R` | Switch to the [Repeater](modules/repeater/Repeater.md) tab    |
