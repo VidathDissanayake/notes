@@ -42,7 +42,10 @@
     "macOS",
     "distros",
     "bourne",
-    "fibre"
+    "fibre",
+    "Datagrams",
+    "Datagram",
+    "PDUs"
   ],
   "useTab": false,
   "newFileLocation": "current",
