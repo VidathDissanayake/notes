@@ -1,4 +1,9 @@
 [
   "obsidian-git",
-  "obsidian-languagetool-plugin"
+  "obsidian-languagetool-plugin",
+  "markdown-prettifier",
+  "obsidian-dictionary-plugin",
+  "wikilinks-to-mdlinks-obsidian",
+  "code-block-copy",
+  "recent-files-obsidian"
 ]

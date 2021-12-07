@@ -1,0 +1,22 @@
+{
+  "recentFiles": [
+    {
+      "basename": "navigation",
+      "path": "tools/hacking/webapp/burpsuite/navigation.md"
+    },
+    {
+      "basename": "test",
+      "path": "networking/reference models/test.md"
+    },
+    {
+      "basename": "OSI Model",
+      "path": "networking/reference models/OSI Model.md"
+    },
+    {
+      "basename": "TCP IP Model",
+      "path": "networking/reference models/TCP IP Model.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}
