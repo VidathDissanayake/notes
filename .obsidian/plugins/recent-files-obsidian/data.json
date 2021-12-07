@@ -5,6 +5,10 @@
       "path": "networking/reference models/TCP IP Model.md"
     },
     {
+      "basename": "topologies",
+      "path": "networking/lan/topologies.md"
+    },
+    {
       "basename": "OSI Model",
       "path": "networking/reference models/OSI Model.md"
     },
