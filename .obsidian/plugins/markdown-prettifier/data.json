@@ -2,9 +2,9 @@
   "bullet": "-",
   "emphasis": "*",
   "rule": "-",
-  "createHeaderIfNotPresent": true,
+  "createHeaderIfNotPresent": false,
   "newHeaderTemplate": "\nCreated on {{date:YYYY-MM-DD HH:mm}}  by Vidath Dissanayake\n",
-  "updateHeader": true,
+  "updateHeader": false,
   "updateHeaderTemplate": "\nUpdated on {{date:YYYY-MM-DD HH:mm}}\n",
   "listItemIndent": "one",
   "newlinesAroundHeadings": true
