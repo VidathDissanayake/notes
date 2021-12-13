@@ -13,7 +13,7 @@ It is made up of 7 layers. These layers have different names, and the informatio
 
 | Layer | Name                                        | PDU                         |
 | ----- | ------------------------------------------- | --------------------------- |
-| 1     | [#Physical Layer](#Physical%20Layer.md)     | Bits                        |
+| 1     | [Physical Layer](#Physical%20Layer.md)      | Bits                        |
 | 2     | [Data Link Layer](#Data%20Link%20Layer)     | Frames                      |
 | 3     | [Network Layer](#Network%20Layer)           | Packets(TCP)/Datagrams(UDP) |
 | 4     | [Transport Layer](#Transport%20Layer)       | Segments                    |
@@ -28,24 +28,24 @@ To memorize these layers, the following mnemonic devices can be used.
 From Layer 1 to 7,
 
 - **P**lease **D**o **N**ot **T**hrow **S**ausage **P**izza **A**way
-	1. Please - Physical
-	2. Do - Data Link
-	3. Not - Network
-	4. Throw - Transport
-	5. Sausage - Session
-	6. Pizza - Presentation
-	7. Away - Application
+  1. Please - Physical
+  2. Do - Data Link
+  3. Not - Network
+  4. Throw - Transport
+  5. Sausage - Session
+  6. Pizza - Presentation
+  7. Away - Application
 
 From layer 7 to 1,
 
 - **A**ll **P**eople **S**eem **T**o **N**eed **D**ata **P**rocessing
-	1. All - Application
-	2. People - Presentation
-	3. Seem - Session
-	4. To - Transport
-	5. Need - Network
-	6. Data - Data Link
-	7. Processing - Physical
+  1. All - Application
+  2. People - Presentation
+  3. Seem - Session
+  4. To - Transport
+  5. Need - Network
+  6. Data - Data Link
+  7. Processing - Physical
 
 ## Physical Layer
 
@@ -57,7 +57,7 @@ This layer makes decisions on an Ethernet network based on [MAC addresses](../MA
 
 ## Network Layer
 
-Routers usually live in this layer. They make informed decisions based on [IP addresses](../IP%20address.md). A protocol used in this layer is the Internet Protocol (IP).
+Routers usually live in this layer. They make informed decisions based on [IP addresses](../IP%20address.md). A protocol used in this layer is the [Internet Protocol (IP).](../protocols/network%20layer/IP.md)
 
 ## Transport Layer
 
