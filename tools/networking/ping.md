@@ -2,11 +2,11 @@
 
 Ping is one of the most fundamental network tools.
 
-Ping uses ICMP (Internet Control Message Protocol) echo packets to determine the performance of a connection between devices.
-- ICMP echo request from local machine.
-- ICMP echo reply from target machine.
+Ping uses [ICMP](../../networking/protocols/network%20layer/ICMP.md) (Internet Control Message Protocol) echo packets to determine the performance of a connection between devices.
+- [ICMP](../../networking/protocols/network%20layer/ICMP.md) echo request from local machine.
+- [ICMP](../../networking/protocols/network%20layer/ICMP.md) echo reply from target machine.
 
-The time taken for ICMP packets travelling between devices is measured by ping.
+The time taken for [ICMP](../../networking/protocols/network%20layer/ICMP.md) packets travelling between devices is measured by ping.
 
 Pings can be performed against network devices or resources like websites.
 
