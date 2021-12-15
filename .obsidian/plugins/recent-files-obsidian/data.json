@@ -5,6 +5,22 @@
       "path": "networking/protocols/layer 4/TCP.md"
     },
     {
+      "basename": "ports",
+      "path": "networking/ports.md"
+    },
+    {
+      "basename": "the internet",
+      "path": "networking/the internet.md"
+    },
+    {
+      "basename": "cryptography",
+      "path": "cryptography/cryptography.md"
+    },
+    {
+      "basename": "setting up HTTPS",
+      "path": "tools/hacking/webapp/burpsuite/modules/proxy/setting up HTTPS.md"
+    },
+    {
       "basename": "TCP IP Model",
       "path": "networking/reference models/TCP IP Model.md"
     },
