@@ -11,15 +11,15 @@ It is made up of 7 layers. These layers have different names, and the informatio
 - Produces - Packets
 - Salvation - Segments
 
-| Layer | Name                                        | PDU                         |
-| ----- | ------------------------------------------- | --------------------------- |
-| 1     | [Physical Layer](#Physical%20Layer.md)      | Bits                        |
-| 2     | [Data Link Layer](#Data%20Link%20Layer)     | Frames                      |
-| 3     | [Network Layer](#Network%20Layer)           | Packets(TCP)/Datagrams(UDP) |
-| 4     | [Transport Layer](#Transport%20Layer)       | Segments                    |
-| 5     | [Session Layer](#Session%20Layer)           | Data                        |
-| 6     | [Presentation Layer](#Presentation%20Layer) | Data                        |
-| 7     | [Application Layer](#Application%20Layer)   | Data                        |
+| Layer | Name                                        | PDU                                                                                           |
+| ----- | ------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| 1     | [Physical Layer](#Physical%20Layer.md)      | Bits                                                                                          |
+| 2     | [Data Link Layer](#Data%20Link%20Layer)     | Frames                                                                                        |
+| 3     | [Network Layer](#Network%20Layer)           | Packets([TCP](../protocols/layer%204/TCP.md))/Datagrams([UDP](../protocols/layer%204/UDP.md)) |
+| 4     | [Transport Layer](#Transport%20Layer)       | Segments                                                                                      |
+| 5     | [Session Layer](#Session%20Layer)           | Data                                                                                          |
+| 6     | [Presentation Layer](#Presentation%20Layer) | Data                                                                                          |
+| 7     | [Application Layer](#Application%20Layer)   | Data                                                                                          |
 
 It is important to understand that every protocol doesn't fit neatly into a single layer. This is not the reality. There are protocols that work over multiple layers. **This is a reference model, not a reverence model!**
 
@@ -57,7 +57,7 @@ This layer makes decisions on an Ethernet network based on [MAC addresses](../MA
 
 ## Network Layer
 
-Routers usually live in this layer. They make informed decisions based on [IP addresses](../IP%20address.md). A protocol used in this layer is the [Internet Protocol (IP).](../protocols/network%20layer/IP.md)
+Routers usually live in this layer. They make informed decisions based on [IP addresses](../IP%20address.md). A protocol used in this layer is the [Internet Protocol (IP).](../protocols/layer%203/IP.md)
 
 ## Transport Layer
 
@@ -66,7 +66,7 @@ This layer is concerned with network connections. There are 2 basic types of con
 - Connection Oriented (Reliable) Connections
 - Connection Less (Unreliable) Connections
 
-Transmission Control Protocol (TCP) is a reliable connection protocol and User Datagram Protocol (UDP) is an unreliable connection protocol used in this layer.
+Transmission Control Protocol ([TCP](../protocols/layer%204/TCP.md)) is a reliable connection protocol and User Datagram Protocol ([UDP](../protocols/layer%204/UDP.md)) is an unreliable connection protocol used in this layer.
 
 ## Session Layer
 
@@ -78,4 +78,4 @@ This layer is about how data is presented or formatted. Examples would be JPEG/P
 
 ## Application Layer
 
-This layer is where application protocols that provide network functionality are. Examples are, HTTP used for insecure web browsing using TCP port 80 and HTTPS used for secure web browsing using TCP port 443.
+This layer is where application protocols that provide network functionality are. Examples are, HTTP used for insecure web browsing using [TCP](../protocols/layer%204/TCP.md) port 80 and HTTPS used for secure web browsing using [TCP](../protocols/layer%204/TCP.md) port 443.

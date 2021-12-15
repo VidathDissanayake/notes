@@ -10,16 +10,14 @@ There are variations of this model with different layer names and different numb
 
 ## Four Layer TCP/IP Model
 
-| Layer | Name                                                                                                  | PDU                         |
-| ----- | ----------------------------------------------------------------------------------------------------- | --------------------------- |
-| 1     | [Network Access Network Interface Link Layer](#Network%20Access%20Network%20Interface%20Link%20Layer) | Bits                        |
-| 2     | [Internet Layer](#Internet%20Layer)                                                                   | Packets(TCP)/Datagrams(UDP) |
-| 3     | [Transport Layer](#Transport%20Layer)                                                                 | Segments                    |
-| 4     | [Application Layer](#Application%20Layer)                                                             | Data                        |
+| Layer | Name                                                                                                  | PDU                                                                                           |
+| ----- | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| 1     | [Network Access Network Interface Link Layer](#Network%20Access%20Network%20Interface%20Link%20Layer) | Bits                                                                                          |
+| 2     | [Internet Layer](#Internet%20Layer)                                                                   | Packets([TCP](../protocols/layer%204/TCP.md))/Datagrams([UDP](../protocols/layer%204/UDP.md)) |
+| 3     | [Transport Layer](#Transport%20Layer)                                                                 | Segments                                                                                      |
+| 4     | [Application Layer](#Application%20Layer)                                                             | Data                                                                                          |
 
 ### Network Access/Network Interface/Link Layer
-
-
 
 ### Internet Layer
 
@@ -29,13 +27,13 @@ There are variations of this model with different layer names and different numb
 
 ## Five Layer TCP/IP Model
 
-| Layer | Name                                                                            | PDU                         |
-| ----- | ------------------------------------------------------------------------------- | --------------------------- |
-| 1     | [Physical Layer](#Physical%20Layer)                                             | Bits                        |
-| 2     | [Data Link/Network Interface Layer](#Data%20Link%20Network%20Interface%20Layer) | Frames                      |
-| 3     | [Internet Layer](#Internet%20Layer)                                             | Packets(TCP)/Datagrams(UDP) |
-| 4     | [Transport Layer](#Transport%20Layer)                                           | Segments                    |
-| 5     | [Application Layer](#Application%20Layer)                                       | Data                        |
+| Layer | Name                                                                            | PDU                                                                                           |
+| ----- | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| 1     | [Physical Layer](#Physical%20Layer)                                             | Bits                                                                                          |
+| 2     | [Data Link/Network Interface Layer](#Data%20Link%20Network%20Interface%20Layer) | Frames                                                                                        |
+| 3     | [Internet Layer](#Internet%20Layer)                                             | Packets([TCP](../protocols/layer%204/TCP.md))/Datagrams([UDP](../protocols/layer%204/UDP.md)) |
+| 4     | [Transport Layer](#Transport%20Layer)                                           | Segments                                                                                      |
+| 5     | [Application Layer](#Application%20Layer)                                       | Data                                                                                          |
 
 ### Physical Layer
 

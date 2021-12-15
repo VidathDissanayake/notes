@@ -48,7 +48,12 @@
     "PDUs",
     "Sri",
     "Dissanayake",
-    "Vidath"
+    "Vidath",
+    "stateful",
+    "retransmission",
+    "connectionless",
+    "retransmits",
+    "Acknowledgement"
   ],
   "useTab": false,
   "newFileLocation": "current",
