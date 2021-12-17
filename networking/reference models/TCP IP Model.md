@@ -2,7 +2,7 @@
 
 When the [OSI Model](OSI%20Model.md) was originally developed, it was not clear that we will be primarily running protocols of the TCP/IP suite. There were other contenders besides having [IP addresses](../IP%20address.md) in our devices. However, now it is clear that we are in a IP based world, so TCP/IP model might be more suitable.
 
-The TCP/IP Model is also called the Department of Defence (DOD) Model.
+The TCP/IP Model is also called the Department of Defence (DOD) Model as it was created by the Department of Defence. This was actually before the [TCP/IP Model](TCP%20IP%20Model.md) was introduced.
 
 Commonly, this model combines the first 2 layers of the [OSI Model](OSI%20Model.md) into one layer and the last 3 layers of the [OSI Model](OSI%20Model.md) into another layer.
 
