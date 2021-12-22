@@ -6,5 +6,7 @@
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./assets/images"
+  "attachmentFolderPath": "./assets/images",
+  "legacyEditor": false,
+  "livePreview": true
 }
