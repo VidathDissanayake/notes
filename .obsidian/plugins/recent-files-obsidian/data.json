@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "reverse engineering",
+      "path": "reverse engineering/reverse engineering.md"
+    },
+    {
+      "basename": "TCP",
+      "path": "networking/protocols/layer 4/TCP.md"
+    },
+    {
       "basename": "ciphertext only attack",
       "path": "cryptography/attacks/ciphertext only attack.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "UDP",
       "path": "networking/protocols/layer 4/UDP.md"
-    },
-    {
-      "basename": "TCP",
-      "path": "networking/protocols/layer 4/TCP.md"
     },
     {
       "basename": "IP",
