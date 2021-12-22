@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "ciphertext only attack",
+      "path": "cryptography/attacks/ciphertext only attack.md"
+    },
+    {
+      "basename": "IP address",
+      "path": "networking/IP address.md"
+    },
+    {
+      "basename": "MAC address",
+      "path": "networking/MAC address.md"
+    },
+    {
+      "basename": "networking",
+      "path": "networking/networking.md"
+    },
+    {
+      "basename": "ports",
+      "path": "networking/ports.md"
+    },
+    {
+      "basename": "the internet",
+      "path": "networking/the internet.md"
+    },
+    {
+      "basename": "Caesar Cipher",
+      "path": "cryptography/history of cryptography/historic ciphers/Caesar Cipher.md"
+    },
+    {
+      "basename": "Substitution Cipher",
+      "path": "cryptography/history of cryptography/historic ciphers/Substitution Cipher.md"
+    },
+    {
+      "basename": "Vigenere Cipher",
+      "path": "cryptography/history of cryptography/historic ciphers/Vigenere Cipher.md"
+    },
+    {
+      "basename": "historic ciphers",
+      "path": "cryptography/history of cryptography/historic ciphers/historic ciphers.md"
+    },
+    {
+      "basename": "cryptocurrency",
+      "path": "cryptography/cryptocurrency/cryptocurrency.md"
+    },
+    {
       "basename": "UDP",
       "path": "networking/protocols/layer 4/UDP.md"
     },
@@ -19,14 +63,6 @@
     {
       "basename": "ICMP",
       "path": "networking/protocols/layer 3/ICMP.md"
-    },
-    {
-      "basename": "ports",
-      "path": "networking/ports.md"
-    },
-    {
-      "basename": "the internet",
-      "path": "networking/the internet.md"
     },
     {
       "basename": "cryptography",
@@ -59,10 +95,6 @@
     {
       "basename": "modules",
       "path": "tools/hacking/webapp/burpsuite/modules/modules.md"
-    },
-    {
-      "basename": "IP address",
-      "path": "networking/IP address.md"
     },
     {
       "basename": "topologies",

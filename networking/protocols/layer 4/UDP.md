@@ -14,3 +14,15 @@ Below is a visual representation of the UDP header.
 
 ![udp header](assets/images/udp%20header.png)
 
+- [Source Port](#Source%20Port): A 16-bit field that identifies the port initiating the connection.
+- [Destination Port](#Destination%20Port): A 16-bit field that identifies the port receiving the connection.
+- [Length](#Length):
+- [Checksum](#Checksum): A 16-bit field used for error checking both the header and the payload of the segment.
+
+## Source Port
+
+## Destination Port
+
+## Length
+
+## Checksum
