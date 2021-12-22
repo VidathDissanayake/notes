@@ -1,1 +1,10 @@
-{}
+{
+  "spellcheckDictionary": [
+    "PSH"
+  ],
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./assets/images"
+}

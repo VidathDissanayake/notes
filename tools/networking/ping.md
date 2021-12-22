@@ -11,7 +11,7 @@ The time taken for [ICMP](../../networking/protocols/layer%203/ICMP.md) packets 
 
 Pings can be performed against [network devices](../../networking/devices/network%20devices.md) or resources like websites.
 
-Ping is usually pre-installed in almost all OSs.
+Ping is usually pre-installed in almost all OSes.
 
 **Syntax:**
 
