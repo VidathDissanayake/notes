@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "assembly",
+      "path": "programming/assembly/assembly.md"
+    },
+    {
       "basename": "reverse engineering",
       "path": "reverse engineering/reverse engineering.md"
     },
