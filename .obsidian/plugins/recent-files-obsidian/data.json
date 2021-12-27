@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "INE",
+      "path": "courses and certs/ine/INE.md"
+    },
+    {
+      "basename": "courses and certs",
+      "path": "courses and certs/courses and certs.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "wireshark",
+      "path": "tools/hacking/network/wireshark/wireshark.md"
+    },
+    {
       "basename": "assembly",
       "path": "programming/assembly/assembly.md"
     },
