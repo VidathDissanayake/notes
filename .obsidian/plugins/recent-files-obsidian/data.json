@@ -5,12 +5,16 @@
       "path": "courses and certs/ine/pts and ejpt/penetration testing prerequisites/introduction/The Information Security Field.md"
     },
     {
-      "basename": "INE",
-      "path": "courses and certs/ine/INE.md"
+      "basename": "navigation",
+      "path": "tools/hacking/webapp/burpsuite/navigation.md"
     },
     {
       "basename": "OWASP ZAP",
       "path": "tools/hacking/webapp/owasp zap/OWASP ZAP.md"
+    },
+    {
+      "basename": "INE",
+      "path": "courses and certs/ine/INE.md"
     },
     {
       "basename": "Burp Suite",
@@ -139,10 +143,6 @@
     {
       "basename": "topologies",
       "path": "networking/lan/topologies.md"
-    },
-    {
-      "basename": "navigation",
-      "path": "tools/hacking/webapp/burpsuite/navigation.md"
     }
   ],
   "omittedPaths": [],
