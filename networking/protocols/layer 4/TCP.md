@@ -1,6 +1,6 @@
 # Transmission Control Protocol (TCP)
 
-> Created: Vidath Dissanayake | 2021/12/15 | Sri Lanka
+> Vidath Dissanayake | Sri Lanka
 
 TCP is a reliable protocol or a connection oriented protocol as it sets up a connection between the two devices that are communicating and acknowledges receiving of packets and retransmits dropped packets to prevent the data from being corrupted.
 
