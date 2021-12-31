@@ -5,156 +5,200 @@
       "path": "courses and certs/ine/pts and ejpt/penetration testing prerequisites/introduction/The Information Security Field.md"
     },
     {
-      "basename": "courses and certs",
-      "path": "courses and certs/courses and certs.md"
-    },
-    {
-      "basename": "INE",
-      "path": "courses and certs/ine/INE.md"
-    },
-    {
-      "basename": "types of hackers",
-      "path": "hacking/types of hackers.md"
-    },
-    {
-      "basename": "hacking",
-      "path": "hacking/hacking.md"
-    },
-    {
-      "basename": "HTTP",
-      "path": "networking/protocols/layer 7/HTTP.md"
-    },
-    {
-      "basename": "nework protocols",
-      "path": "networking/protocols/nework protocols.md"
-    },
-    {
-      "basename": "Caesar Cipher",
-      "path": "cryptography/history of cryptography/historic ciphers/Caesar Cipher.md"
-    },
-    {
-      "basename": "cryptocurrency",
-      "path": "cryptography/cryptocurrency/cryptocurrency.md"
-    },
-    {
-      "basename": "ciphertext only attack",
-      "path": "cryptography/attacks/ciphertext only attack.md"
-    },
-    {
-      "basename": "TCP",
-      "path": "networking/protocols/layer 4/TCP.md"
-    },
-    {
-      "basename": "UDP",
-      "path": "networking/protocols/layer 4/UDP.md"
-    },
-    {
-      "basename": "IP",
-      "path": "networking/protocols/layer 3/IP.md"
-    },
-    {
-      "basename": "ICMP",
-      "path": "networking/protocols/layer 3/ICMP.md"
-    },
-    {
-      "basename": "ports",
-      "path": "networking/ports.md"
-    },
-    {
-      "basename": "networking",
-      "path": "networking/networking.md"
-    },
-    {
-      "basename": "navigation",
-      "path": "tools/hacking/webapp/burpsuite/navigation.md"
-    },
-    {
-      "basename": "OWASP ZAP",
-      "path": "tools/hacking/webapp/owasp zap/OWASP ZAP.md"
-    },
-    {
-      "basename": "Burp Suite",
-      "path": "tools/hacking/webapp/burpsuite/Burp Suite.md"
-    },
-    {
-      "basename": "Intruder",
-      "path": "tools/hacking/webapp/burpsuite/modules/intruder/Intruder.md"
+      "basename": "RCE",
+      "path": "hacking/attacks and vulnerabilities/multiple/RCE.md"
     },
     {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "wireshark",
-      "path": "tools/hacking/network/wireshark/wireshark.md"
+      "basename": "Windows",
+      "path": "windows/Windows.md"
     },
     {
-      "basename": "assembly",
-      "path": "programming/assembly/assembly.md"
-    },
-    {
-      "basename": "reverse engineering",
-      "path": "reverse engineering/reverse engineering.md"
-    },
-    {
-      "basename": "IP address",
-      "path": "networking/IP address.md"
-    },
-    {
-      "basename": "MAC address",
-      "path": "networking/MAC address.md"
-    },
-    {
-      "basename": "the internet",
-      "path": "networking/the internet.md"
-    },
-    {
-      "basename": "Substitution Cipher",
-      "path": "cryptography/history of cryptography/historic ciphers/Substitution Cipher.md"
-    },
-    {
-      "basename": "Vigenere Cipher",
-      "path": "cryptography/history of cryptography/historic ciphers/Vigenere Cipher.md"
-    },
-    {
-      "basename": "historic ciphers",
-      "path": "cryptography/history of cryptography/historic ciphers/historic ciphers.md"
+      "basename": "tools",
+      "path": "tools/tools.md"
     },
     {
       "basename": "ping",
       "path": "tools/networking/ping.md"
     },
     {
-      "basename": "cryptography",
-      "path": "cryptography/cryptography.md"
+      "basename": "networking tools",
+      "path": "tools/networking/networking tools.md"
     },
     {
-      "basename": "setting up HTTPS",
-      "path": "tools/hacking/webapp/burpsuite/modules/proxy/setting up HTTPS.md"
+      "basename": "FoxyProxy",
+      "path": "tools/hacking/webapp/foxyproxy/FoxyProxy.md"
     },
     {
-      "basename": "TCP IP Model",
-      "path": "networking/reference models/TCP IP Model.md"
+      "basename": "OWASP ZAP",
+      "path": "tools/hacking/webapp/owasp zap/OWASP ZAP.md"
     },
     {
-      "basename": "OSI Model",
-      "path": "networking/reference models/OSI Model.md"
+      "basename": "options",
+      "path": "tools/hacking/webapp/burpsuite/options.md"
     },
     {
-      "basename": "network devices",
-      "path": "networking/devices/network devices.md"
+      "basename": "navigation",
+      "path": "tools/hacking/webapp/burpsuite/navigation.md"
     },
     {
-      "basename": "layer 2 switch",
-      "path": "networking/devices/layer 2/layer 2 switch.md"
+      "basename": "editions",
+      "path": "tools/hacking/webapp/burpsuite/editions.md"
+    },
+    {
+      "basename": "Burp Suite",
+      "path": "tools/hacking/webapp/burpsuite/Burp Suite.md"
     },
     {
       "basename": "modules",
       "path": "tools/hacking/webapp/burpsuite/modules/modules.md"
     },
     {
+      "basename": "Inspector",
+      "path": "tools/hacking/webapp/burpsuite/modules/Inspector.md"
+    },
+    {
+      "basename": "Target",
+      "path": "tools/hacking/webapp/burpsuite/modules/target/Target.md"
+    },
+    {
+      "basename": "repeater interface",
+      "path": "tools/hacking/webapp/burpsuite/modules/repeater/repeater interface.md"
+    },
+    {
+      "basename": "repeater views",
+      "path": "tools/hacking/webapp/burpsuite/modules/repeater/repeater views.md"
+    },
+    {
+      "basename": "Repeater",
+      "path": "tools/hacking/webapp/burpsuite/modules/repeater/Repeater.md"
+    },
+    {
+      "basename": "setting up HTTPS",
+      "path": "tools/hacking/webapp/burpsuite/modules/proxy/setting up HTTPS.md"
+    },
+    {
+      "basename": "scoping",
+      "path": "tools/hacking/webapp/burpsuite/modules/proxy/scoping.md"
+    },
+    {
+      "basename": "Proxy",
+      "path": "tools/hacking/webapp/burpsuite/modules/proxy/Proxy.md"
+    },
+    {
+      "basename": "Burp Suite browser",
+      "path": "tools/hacking/webapp/burpsuite/modules/proxy/Burp Suite browser.md"
+    },
+    {
+      "basename": "Intruder",
+      "path": "tools/hacking/webapp/burpsuite/modules/intruder/Intruder.md"
+    },
+    {
+      "basename": "Burp extensions",
+      "path": "tools/hacking/webapp/burpsuite/modules/extender/Burp extensions.md"
+    },
+    {
+      "basename": "Extender",
+      "path": "tools/hacking/webapp/burpsuite/modules/extender/Extender.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "tools/hacking/webapp/burpsuite/modules/dashboard/Dashboard.md"
+    },
+    {
+      "basename": "wireshark",
+      "path": "tools/hacking/network/wireshark/wireshark.md"
+    },
+    {
+      "basename": "reverse engineering",
+      "path": "reverse engineering/reverse engineering.md"
+    },
+    {
+      "basename": "programming",
+      "path": "programming/programming.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "programming/SQL/SQL.md"
+    },
+    {
+      "basename": "DBMS",
+      "path": "programming/SQL/DBMS.md"
+    },
+    {
+      "basename": "database",
+      "path": "programming/SQL/database.md"
+    },
+    {
+      "basename": "python",
+      "path": "programming/python/python.md"
+    },
+    {
+      "basename": "bash",
+      "path": "programming/bash/bash.md"
+    },
+    {
+      "basename": "assembly",
+      "path": "programming/assembly/assembly.md"
+    },
+    {
       "basename": "topologies",
-      "path": "networking/lan/topologies.md"
+      "path": "network/topologies.md"
+    },
+    {
+      "basename": "the internet",
+      "path": "network/the internet.md"
+    },
+    {
+      "basename": "ports",
+      "path": "network/ports.md"
+    },
+    {
+      "basename": "network",
+      "path": "network/network.md"
+    },
+    {
+      "basename": "reference models",
+      "path": "network/reference models/reference models.md"
+    },
+    {
+      "basename": "OSI Model",
+      "path": "network/reference models/OSI Model.md"
+    },
+    {
+      "basename": "MAC address",
+      "path": "network/MAC address.md"
+    },
+    {
+      "basename": "NIC",
+      "path": "network/devices/layer 2/NIC.md"
+    },
+    {
+      "basename": "IP address",
+      "path": "network/protocols/layer 3/IP/IP address.md"
+    },
+    {
+      "basename": "public network",
+      "path": "network/types of networks/public network.md"
+    },
+    {
+      "basename": "private network",
+      "path": "network/types of networks/private network.md"
+    },
+    {
+      "basename": "TCP IP Model",
+      "path": "network/reference models/TCP IP Model.md"
+    },
+    {
+      "basename": "IP",
+      "path": "network/protocols/layer 3/IP/IP.md"
+    },
+    {
+      "basename": "nework protocols",
+      "path": "network/protocols/nework protocols.md"
     }
   ],
   "omittedPaths": [],

@@ -1,5 +1,7 @@
 # Navigation in Burp Suite
 
+> Vidath Dissanayake | Sri Lanka
+
 Navigating around the [Burp Suite](Burp%20Suite.md) GUI by default is done entirely using the top menu bars:
 
 ![tabs](assets/images/tabs.png)

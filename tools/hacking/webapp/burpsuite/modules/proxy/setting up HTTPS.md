@@ -1,5 +1,7 @@
 # Setting up HTTPS in Burp Suite Proxy Module
 
+> Vidath Dissanayake | Sri Lanka
+
 To use HTTPS functionality in [Burp Suite](../../Burp%20Suite.md) [Proxy](Proxy.md) module, there is some setting up that needs to be done.
 
 Portswigger **C**ertificate **A**uthority (CA) (The one used by Burp) isn't authorized to secure the connection on browsers, as it isn't in the trusted list.

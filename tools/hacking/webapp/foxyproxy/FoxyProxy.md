@@ -1,4 +1,7 @@
 # FoxyProxy
+
+> Vidath Dissanayake | Sri Lanka
+
 FoxyProxy is an browser extension that allows us to save proxy profiles, meaning we can quickly and easily switch our proxy profiles in a matter of clicks, then disable the proxy just as easily.
 
 There are two versions of FoxyProxy: 

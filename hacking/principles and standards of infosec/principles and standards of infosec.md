@@ -1,5 +1,7 @@
 # Principles and Standards of Information Security
 
+> Vidath Dissanayake | Sri Lanka
+
 ## Principles of Information Security
 
 There are some measures, protocols and frameworks in place that define what makes data secure.

@@ -1,5 +1,7 @@
 # Secure Multi-Party Computation
 
+> Vidath Dissanayake | Sri Lanka
+
 The goal of secure multi-party computation is to take the secret input of multiple parties and take use a function on those inputs to determine an value while keeping all else secret.
 
 E.g. 

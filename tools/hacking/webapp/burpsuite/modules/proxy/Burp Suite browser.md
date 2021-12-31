@@ -1,11 +1,13 @@
 # Burp Suite Browser
 
+> Vidath Dissanayake | Sri Lanka
+
 [Burp Suite](../../Burp%20Suite.md) comes with a Chromium browser that is pre-configured to use the Burp [Proxy](Proxy.md).
 
 We can start the Burp Browser with the "Open Browser" button in the [Proxy](Proxy.md) tab:
 ![open browser](assets/images/open%20browser.png)
 
-If we are running on Linux as the root user, [Burp Suite](../../Burp%20Suite.md) is unable to create a sandbox environment to start the Burp Browser in, causing it to throw an error and die:
+If we are running on [Linux](../../../../../../linux/Linux.md) as the root user, [Burp Suite](../../Burp%20Suite.md) is unable to create a sandbox environment to start the Burp Browser in, causing it to throw an error and die:
 ![browser sandbox error](assets/images/browser%20sandbox%20error.png)
 
 There are two simple solutions to this:

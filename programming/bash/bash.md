@@ -1,6 +1,8 @@
 # Bash
 
-Bash, also known as shell, is a scripting language that runs within the terminal on most Linux distros, as well as macOS.
+> Vidath Dissanayake | Sri Lanka
+
+Bash, also known as shell, is a scripting language that runs within the terminal on most [Linux](../../linux/Linux.md) distros, as well as macOS.
 
 Bash is an acronym for "*bourne again shell*".
 

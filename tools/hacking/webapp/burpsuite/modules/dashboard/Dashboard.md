@@ -1,5 +1,7 @@
 # Burp Suite Dashboard
 
+> Vidath Dissanayake | Sri Lanka
+
 The [Burp Suite](../../Burp%20Suite.md) Dashboard consists of 4 quadrants. 
 
 ![quadrants](assets/images/quadrants.png)

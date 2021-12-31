@@ -1,5 +1,7 @@
 # Burp Suite Repeater
 
+> Vidath Dissanayake | Sri Lanka
+
 Repeater is a [Burp Suite](../../Burp%20Suite.md) [module](../modules.md) that allows us to craft and/or relay intercepted requests to a target at will.
 
-It also provides a [GUI](interface.md) for writing the request payload and numerous [views](views.md) (including a rendering engine for a graphical view) of the response.
+It also provides a [GUI](repeater%20interface.md) for writing the request payload and numerous [repeater views](repeater%20views.md) (including a rendering engine for a graphical view) of the response.

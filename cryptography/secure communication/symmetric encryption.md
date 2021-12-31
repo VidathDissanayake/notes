@@ -1,5 +1,7 @@
 # Symmetric Ciphers
 
+> Vidath Dissanayake | Sri Lanka
+
 Symmetric ciphers are the building blocks of [secure communication](secure%20communication.md).
 
 In symmetric ciphers, the two parties share a secret key (_k_) that only they know.

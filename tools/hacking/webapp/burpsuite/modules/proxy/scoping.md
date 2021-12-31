@@ -1,5 +1,7 @@
 # Scoping
 
+> Vidath Dissanayake | Sri Lanka
+
 If [Burp Suite](../../Burp%20Suite.md) is capturing all traffic that goes through the [Proxy](Proxy.md), things can get cluttered.
 
 The solution to this is scoping.

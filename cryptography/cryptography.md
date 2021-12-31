@@ -1,5 +1,7 @@
 # Cryptography
 
+> Vidath Dissanayake | Sri Lanka
+
 Cryptography is using mathematical algorithms to encrypt data to protect data.
 
 Cryptographic algorithms are publicly known. It is important to use public algorithms and not proprietary algorithms. This is because public algorithms are peer-reviewed by hundreds of people over many years and proven hard to crack.

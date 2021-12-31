@@ -4,19 +4,7 @@
 
 ## Infosec Culture
 
-Information Security has deep roots in the underground hacking scene. 
-
-The term "hacker" was born in the 1960s in MIT. It refers to people who try to understand how a computer system works, find new ways to use and break them rather than just using it. These people are usually very curious, intelligent, and motivated to pursue knowledge.
-
-Hackers and infosec professionals seek to use computer systems, bypassing restrictions imposed by vendors and programmers to find security any security issues in the system. To perform an attack on a system, you need to have a deep understanding of how it works.
-
-There is always something new to learn in the vast field of information security. Hackers explore and improve their skills daily. Hackers are curious and hungry for knowledge.
-
-Hacking is not only related to computers. It's a lifestyle applied to even [telephone lines](https://en.wikipedia.org/wiki/John_Draper) and [people](https://www.mitnicksecurity.com/about/kevin-mitnick-worlds-most-famous-hacker-biography).
-
-[The Conscience of a Hacker](http://phrack.org/issues/7/3.html), also known as The Hacker's Manifesto written by The Mentor, gives an idea about the ideals of the underground hacking community. 
-
-Being an infosec professional means pursuing knowledge, being honest and never stop challenging yourself and colleagues. 
+Refer to [hacking](../../../../../hacking/hacking.md).
 
 ## Career Opportunities
 
@@ -26,17 +14,33 @@ Recently, governments have had to face a broad range of cyber threats including 
 
 Companies and governments need to set up software and hardware defences. They also need to train their organization to make sure that secure applications are developed, proper defensive measure are taken and proper use of company data are in place.
 
-To test these defences, a penetration tester should be hired. Penetration testers, also called pentesters, are professionals hired to simulate a hacking attack against a network, a computer system, a web application or the entire organization. They master the same tools that malicious hackers use to find any and all vulnerabilities present in the system. They work as freelancers, in an IT security company or as in-house employees. Furthermore, they can also be specialists in,
+To test these defences, a penetration tester should be hired. Penetration testers, also called pentesters, are professionals hired to simulate a hacking attack against a [network](../../../../../network/network.md), a computer system, a web application or the entire organization. They master the same [tools](../../../../../tools/tools.md) that malicious hackers use to find any and all vulnerabilities present in the system. They work as freelancers, in an IT security company or as in-house employees. Furthermore, they can also be specialists in,
 - System attacks
 - Web applications
 - Malware analysis
-- Reverse engineering
+- [reverse engineering](../../../../../reverse%20engineering/reverse%20engineering.md)
 - Mobile applications and more.
 
 The demand for penetration testers is on a steady growth. To have a successful pentesting career, you need to be passionate, skilled, and hungry for knowledge.
 
 ## Information Security Terms
 
-Refer to [types of hackers](../../../../../hacking/types%20of%20hackers.md).
+Refer to [types of hackers](../../../../../hacking/types%20of%20hackers/types%20of%20hackers.md).
 
 A user is someone who uses the computer system. It can be an employee of the client or an external user. A malicious user is someone who misuses or attacks the computer system and applications.
+
+The root or Administrator users have high privileges and manage the [network](../../../../../network/network.md) or system. Privileges are the actions that the user is allowed to do. The higher the privileges, the more control the user has over the system.
+
+Security through obscurity is the use of secrecy of design, implementation, and configuration to provide security. However, this cannot stop a skilled and motivated attacker.
+
+An attack is any kind of action aimed at misuse or taking control over a computer system or an application. Some examples of attacks are,
+- Getting unauthorized access to an admin area.
+- Stealing user passwords.
+- Causing denial of service.
+- Eavesdropping on communications.
+
+Refer to [priv esc](../../../../../hacking/attacks%20and%20vulnerabilities/multiple/priv%20esc.md)
+
+Refer to [DoS](../../../../../hacking/attacks%20and%20vulnerabilities/multiple/DoS.md)
+
+Refer to [RCE](../../../../../hacking/attacks%20and%20vulnerabilities/multiple/RCE.md)

@@ -1,5 +1,7 @@
 # Editions
 
+> Vidath Dissanayake | Sri Lanka
+
 There are three different editions of [Burp Suite](Burp%20Suite.md) available.
 
 1. **Burp Suite Community** edition
@@ -28,7 +30,7 @@ For this reason, this is the commonly used edition.
 - A fuzzer/bruteforcer that isn't rate limited.
 - Saving projects for future use; report generation.
 - A built-in API to allow integration with other [tools](../../../tools.md).
-- Unrestricted access to add new [extensions](modules/extender/extensions.md) for greater functionality.
+- Unrestricted access to add new [Burp extensions](modules/extender/Burp%20extensions.md) for greater functionality.
 - Access to the [Burp Suite](Burp%20Suite.md) Collaborator (effectively providing a unique request catcher self-hosted or running on a Portswigger owned server).
 
 In short, Burp Pro is an _extremely_ powerful tool.

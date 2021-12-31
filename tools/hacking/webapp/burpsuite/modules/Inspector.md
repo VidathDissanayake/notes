@@ -1,6 +1,8 @@
 # Inspector
 
-Inspector available in both [Proxy](proxy/Proxy.md) and [Repeater](repeater/Repeater.md) provides a high level overview of [HTTP](../../../../../networking/protocols/layer%207/HTTP.md) requests and responses.
+> Vidath Dissanayake | Sri Lanka
+
+Inspector available in both [Proxy](proxy/Proxy.md) and [Repeater](repeater/Repeater.md) provides a high level overview of [HTTP](../../../../../network/protocols/layer%207/HTTP.md) requests and responses.
 
 ![Inspector](assets/images/inspector.png)
 

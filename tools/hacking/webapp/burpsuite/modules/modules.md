@@ -1,5 +1,7 @@
 # Modules in the Burp Suite Framework
 
+> Vidath Dissanayake | Sri Lanka
+
 Main tools in the [Burp Suite](../Burp%20Suite.md) framework 
 
 - **Dashboard:** [Dashboard](dashboard/Dashboard.md) gives a overview of what Burp is duing.
@@ -11,4 +13,4 @@ Main tools in the [Burp Suite](../Burp%20Suite.md) framework
 - **Decoder:** [Decoder](Decoder) provides the ability to transforming data. Either in terms of [decoding](decoding) captured information, or [encoding](encoding) a payload prior to sending it to the [Target](target/Target.md).
 - **Comparer:** [Comparer](Comparer) allows us to compare two pieces of data at either word or byte level.
 - **Logger:** [Logger](Logger) logs all traffic.
-- **Extender:** [Extender](extender/Extender.md) allows quickly and easily load [extensions](extender/extensions.md) into the framework, as well as providing a marketplace to download third-party modules (referred to as the "BApp Store").
+- **Extender:** [Extender](extender/Extender.md) allows quickly and easily load [Burp extensions](extender/Burp%20extensions.md) into the framework, as well as providing a marketplace to download third-party modules (referred to as the "BApp Store").

@@ -1,5 +1,7 @@
 # Options for Configuring Burp Suite
 
+> Vidath Dissanayake | Sri Lanka
+
 There are two main types of options in [Burp Suite](Burp%20Suite.md).
 - Global settings (User options tab).
 - Project-specific settings (Project options tab)

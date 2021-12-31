@@ -1,5 +1,7 @@
 # Substitution Cipher
 
+> Vidath Dissanayake | Sri Lanka
+
 A substitution cipher is a symmetric cipher where each character is mapped to a different character. This mapping is defined in the key called the substitution table.
 
 ## Breaking Substitution Cipher
