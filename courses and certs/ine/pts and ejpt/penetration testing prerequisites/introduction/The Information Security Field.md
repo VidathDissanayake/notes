@@ -1,5 +1,7 @@
 # The Information Security Field
 
+> Vidath Dissanayake | Sri Lanka
+
 ## Infosec Culture
 
 Information Security has deep roots in the underground hacking scene. 
@@ -34,4 +36,8 @@ To test these defences, a penetration tester should be hired. Penetration tester
 The demand for penetration testers is on a steady growth. To have a successful pentesting career, you need to be passionate, skilled, and hungry for knowledge.
 
 ## Information Security Terms
+
+Refer to [types of hackers](../../../../../hacking/types%20of%20hackers.md).
+
+A user is someone who uses the computer system. It can be an employee of the client or an external user. A malicious user is someone who misuses or attacks the computer system and applications.
 

@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "types of hackers",
-      "path": "hacking/types of hackers.md"
-    },
-    {
       "basename": "The Information Security Field",
       "path": "courses and certs/ine/pts and ejpt/penetration testing prerequisites/introduction/The Information Security Field.md"
     },
     {
+      "basename": "courses and certs",
+      "path": "courses and certs/courses and certs.md"
+    },
+    {
+      "basename": "INE",
+      "path": "courses and certs/ine/INE.md"
+    },
+    {
+      "basename": "types of hackers",
+      "path": "hacking/types of hackers.md"
+    },
+    {
+      "basename": "hacking",
+      "path": "hacking/hacking.md"
+    },
+    {
       "basename": "HTTP",
       "path": "networking/protocols/layer 7/HTTP.md"
+    },
+    {
+      "basename": "nework protocols",
+      "path": "networking/protocols/nework protocols.md"
     },
     {
       "basename": "Caesar Cipher",
@@ -23,14 +39,6 @@
     {
       "basename": "ciphertext only attack",
       "path": "cryptography/attacks/ciphertext only attack.md"
-    },
-    {
-      "basename": "courses and certs",
-      "path": "courses and certs/courses and certs.md"
-    },
-    {
-      "basename": "INE",
-      "path": "courses and certs/ine/INE.md"
     },
     {
       "basename": "TCP",
@@ -139,10 +147,6 @@
     {
       "basename": "layer 2 switch",
       "path": "networking/devices/layer 2/layer 2 switch.md"
-    },
-    {
-      "basename": "nework protocols",
-      "path": "networking/protocols/nework protocols.md"
     },
     {
       "basename": "modules",
