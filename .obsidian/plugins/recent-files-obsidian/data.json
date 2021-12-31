@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "cryptographic protocols",
+      "path": "cryptography/secure communication/protocols/cryptographic protocols.md"
+    },
+    {
+      "basename": "web traffic",
+      "path": "cryptography/secure communication/web traffic.md"
+    },
+    {
+      "basename": "TLS",
+      "path": "cryptography/secure communication/protocols/TLS.md"
+    },
+    {
+      "basename": "clear-text protocols",
+      "path": "cryptography/secure communication/protocols/clear-text protocols.md"
+    },
+    {
+      "basename": "Cryptography & VPNs",
+      "path": "courses and certs/ine/pts and ejpt/penetration testing prerequisites/introduction/Cryptography & VPNs.md"
+    },
+    {
+      "basename": "SSL",
+      "path": "cryptography/secure communication/protocols/SSL.md"
+    },
+    {
       "basename": "The Information Security Field",
       "path": "courses and certs/ine/pts and ejpt/penetration testing prerequisites/introduction/The Information Security Field.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "NIC",
       "path": "network/devices/layer 2/NIC.md"
-    },
-    {
-      "basename": "IP address",
-      "path": "network/protocols/layer 3/IP/IP address.md"
-    },
-    {
-      "basename": "public network",
-      "path": "network/types of networks/public network.md"
-    },
-    {
-      "basename": "private network",
-      "path": "network/types of networks/private network.md"
-    },
-    {
-      "basename": "TCP IP Model",
-      "path": "network/reference models/TCP IP Model.md"
-    },
-    {
-      "basename": "IP",
-      "path": "network/protocols/layer 3/IP/IP.md"
-    },
-    {
-      "basename": "nework protocols",
-      "path": "network/protocols/nework protocols.md"
     }
   ],
   "omittedPaths": [],

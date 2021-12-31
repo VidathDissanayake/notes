@@ -4,7 +4,8 @@
     "priv",
     "esc",
     "Priv",
-    "Taher"
+    "Taher",
+    "shellcode"
   ],
   "newFileLocation": "current",
   "newLinkFormat": "relative",
