@@ -8,8 +8,8 @@
     "shellcode"
   ],
   "newFileLocation": "current",
-  "newLinkFormat": "relative",
-  "useMarkdownLinks": true,
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./assets/images",
   "legacyEditor": false,

@@ -5,12 +5,40 @@
       "path": "cryptography/secure communication/protocols/VPN.md"
     },
     {
-      "basename": "cryptographic tunnels",
-      "path": "cryptography/secure communication/protocols/cryptographic tunnels.md"
+      "basename": "Cryptography & VPNs",
+      "path": "courses and certs/ine/pts and ejpt/penetration testing prerequisites/introduction/Cryptography & VPNs.md"
+    },
+    {
+      "basename": "The Information Security Field",
+      "path": "courses and certs/ine/pts and ejpt/penetration testing prerequisites/introduction/The Information Security Field.md"
+    },
+    {
+      "basename": "editions",
+      "path": "tools/hacking/webapp/burpsuite/editions.md"
+    },
+    {
+      "basename": "Burp Suite",
+      "path": "tools/hacking/webapp/burpsuite/Burp Suite.md"
+    },
+    {
+      "basename": "TLS",
+      "path": "cryptography/secure communication/protocols/TLS.md"
+    },
+    {
+      "basename": "anonymous communication",
+      "path": "cryptography/secure communication/anonymous communication.md"
+    },
+    {
+      "basename": "web traffic",
+      "path": "cryptography/secure communication/web traffic.md"
     },
     {
       "basename": "cryptographic protocols",
       "path": "cryptography/secure communication/protocols/cryptographic protocols.md"
+    },
+    {
+      "basename": "cryptographic tunnels",
+      "path": "cryptography/secure communication/protocols/cryptographic tunnels.md"
     },
     {
       "basename": "SSL",
@@ -23,22 +51,6 @@
     {
       "basename": "clear-text protocols",
       "path": "cryptography/secure communication/protocols/clear-text protocols.md"
-    },
-    {
-      "basename": "Cryptography & VPNs",
-      "path": "courses and certs/ine/pts and ejpt/penetration testing prerequisites/introduction/Cryptography & VPNs.md"
-    },
-    {
-      "basename": "web traffic",
-      "path": "cryptography/secure communication/web traffic.md"
-    },
-    {
-      "basename": "TLS",
-      "path": "cryptography/secure communication/protocols/TLS.md"
-    },
-    {
-      "basename": "The Information Security Field",
-      "path": "courses and certs/ine/pts and ejpt/penetration testing prerequisites/introduction/The Information Security Field.md"
     },
     {
       "basename": "RCE",
@@ -79,14 +91,6 @@
     {
       "basename": "navigation",
       "path": "tools/hacking/webapp/burpsuite/navigation.md"
-    },
-    {
-      "basename": "editions",
-      "path": "tools/hacking/webapp/burpsuite/editions.md"
-    },
-    {
-      "basename": "Burp Suite",
-      "path": "tools/hacking/webapp/burpsuite/Burp Suite.md"
     },
     {
       "basename": "modules",
@@ -195,10 +199,6 @@
     {
       "basename": "network",
       "path": "network/network.md"
-    },
-    {
-      "basename": "reference models",
-      "path": "network/reference models/reference models.md"
     }
   ],
   "omittedPaths": [],
