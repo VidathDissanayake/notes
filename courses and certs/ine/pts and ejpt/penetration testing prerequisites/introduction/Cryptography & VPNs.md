@@ -6,3 +6,6 @@
 
 Refer to [clear-text protocols](../../../../../cryptography/secure%20communication/protocols/clear-text%20protocols.md).
 
+## Cryptographic Protocols
+
+Refer to [cryptographic protocols](../../../../../cryptography/secure%20communication/protocols/cryptographic%20protocols.md).

@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "VPN",
+      "path": "cryptography/secure communication/protocols/VPN.md"
+    },
+    {
+      "basename": "cryptographic tunnels",
+      "path": "cryptography/secure communication/protocols/cryptographic tunnels.md"
+    },
+    {
       "basename": "cryptographic protocols",
       "path": "cryptography/secure communication/protocols/cryptographic protocols.md"
     },
     {
-      "basename": "web traffic",
-      "path": "cryptography/secure communication/web traffic.md"
+      "basename": "SSL",
+      "path": "cryptography/secure communication/protocols/SSL.md"
     },
     {
-      "basename": "TLS",
-      "path": "cryptography/secure communication/protocols/TLS.md"
+      "basename": "cryptographic tunnel",
+      "path": "cryptography/secure communication/protocols/assets/images/cryptographic tunnel.png"
     },
     {
       "basename": "clear-text protocols",
@@ -21,8 +29,12 @@
       "path": "courses and certs/ine/pts and ejpt/penetration testing prerequisites/introduction/Cryptography & VPNs.md"
     },
     {
-      "basename": "SSL",
-      "path": "cryptography/secure communication/protocols/SSL.md"
+      "basename": "web traffic",
+      "path": "cryptography/secure communication/web traffic.md"
+    },
+    {
+      "basename": "TLS",
+      "path": "cryptography/secure communication/protocols/TLS.md"
     },
     {
       "basename": "The Information Security Field",
@@ -187,18 +199,6 @@
     {
       "basename": "reference models",
       "path": "network/reference models/reference models.md"
-    },
-    {
-      "basename": "OSI Model",
-      "path": "network/reference models/OSI Model.md"
-    },
-    {
-      "basename": "MAC address",
-      "path": "network/MAC address.md"
-    },
-    {
-      "basename": "NIC",
-      "path": "network/devices/layer 2/NIC.md"
     }
   ],
   "omittedPaths": [],
