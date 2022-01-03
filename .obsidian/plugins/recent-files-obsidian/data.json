@@ -5,6 +5,14 @@
       "path": "cryptography/secure communication/protocols/VPN.md"
     },
     {
+      "basename": "packet sniffing",
+      "path": "hacking/attacks and vulnerabilities/network/sniffing/packet sniffing.md"
+    },
+    {
+      "basename": "wireshark",
+      "path": "tools/hacking/network/wireshark/wireshark.md"
+    },
+    {
       "basename": "Cryptography & VPNs",
       "path": "courses and certs/ine/pts and ejpt/penetration testing prerequisites/introduction/Cryptography & VPNs.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Dashboard",
       "path": "tools/hacking/webapp/burpsuite/modules/dashboard/Dashboard.md"
-    },
-    {
-      "basename": "wireshark",
-      "path": "tools/hacking/network/wireshark/wireshark.md"
-    },
-    {
-      "basename": "reverse engineering",
-      "path": "reverse engineering/reverse engineering.md"
     }
   ],
   "omittedPaths": [],
