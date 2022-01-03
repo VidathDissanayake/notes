@@ -6,7 +6,7 @@ A substitution cipher is a symmetric cipher where each character is mapped to a 
 
 ## Breaking Substitution Cipher
 
-Let's assume that the substitution cipher uses the English language and only the 26 letters of the English alphabet. This will mean that the key space is 26! (26 factorial). 26! is roughly 2^88. Which means the substitution cipher key is about 88 bits. This is a pretty large key space.
+Let's assume that the substitution cipher uses the English language and only the 26 letters of the English alphabet. This will mean that the key space is 26! (26 factorial). 26! is roughly 2^88, which means the substitution cipher key is about 88 bits. This is a pretty large key space.
 
 So, to crack the cipher, we can use letter frequencies.
 

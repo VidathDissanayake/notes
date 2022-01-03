@@ -13,24 +13,44 @@
       "path": "courses and certs/ine/pts and ejpt/penetration testing prerequisites/introduction/The Information Security Field.md"
     },
     {
-      "basename": "editions",
-      "path": "tools/hacking/webapp/burpsuite/editions.md"
+      "basename": "INE",
+      "path": "courses and certs/ine/INE.md"
     },
     {
-      "basename": "Burp Suite",
-      "path": "tools/hacking/webapp/burpsuite/Burp Suite.md"
+      "basename": "courses and certs",
+      "path": "courses and certs/courses and certs.md"
     },
     {
-      "basename": "TLS",
-      "path": "cryptography/secure communication/protocols/TLS.md"
+      "basename": "ciphertext only attack",
+      "path": "cryptography/attacks/ciphertext only attack.md"
     },
     {
-      "basename": "anonymous communication",
-      "path": "cryptography/secure communication/anonymous communication.md"
+      "basename": "cryptocurrency",
+      "path": "cryptography/cryptocurrency/cryptocurrency.md"
     },
     {
-      "basename": "web traffic",
-      "path": "cryptography/secure communication/web traffic.md"
+      "basename": "Caesar Cipher",
+      "path": "cryptography/history of cryptography/historic ciphers/Caesar Cipher.md"
+    },
+    {
+      "basename": "historic ciphers",
+      "path": "cryptography/history of cryptography/historic ciphers/historic ciphers.md"
+    },
+    {
+      "basename": "Substitution Cipher",
+      "path": "cryptography/history of cryptography/historic ciphers/Substitution Cipher.md"
+    },
+    {
+      "basename": "Vigenere Cipher",
+      "path": "cryptography/history of cryptography/historic ciphers/Vigenere Cipher.md"
+    },
+    {
+      "basename": "history of cryptography",
+      "path": "cryptography/history of cryptography/history of cryptography.md"
+    },
+    {
+      "basename": "clear-text protocols",
+      "path": "cryptography/secure communication/protocols/clear-text protocols.md"
     },
     {
       "basename": "cryptographic protocols",
@@ -41,16 +61,40 @@
       "path": "cryptography/secure communication/protocols/cryptographic tunnels.md"
     },
     {
+      "basename": "TLS",
+      "path": "cryptography/secure communication/protocols/TLS.md"
+    },
+    {
       "basename": "SSL",
       "path": "cryptography/secure communication/protocols/SSL.md"
     },
     {
-      "basename": "cryptographic tunnel",
-      "path": "cryptography/secure communication/protocols/assets/images/cryptographic tunnel.png"
+      "basename": "cryptography",
+      "path": "cryptography/cryptography.md"
     },
     {
-      "basename": "clear-text protocols",
-      "path": "cryptography/secure communication/protocols/clear-text protocols.md"
+      "basename": "hacking",
+      "path": "hacking/hacking.md"
+    },
+    {
+      "basename": "Burp Suite",
+      "path": "tools/hacking/webapp/burpsuite/Burp Suite.md"
+    },
+    {
+      "basename": "editions",
+      "path": "tools/hacking/webapp/burpsuite/editions.md"
+    },
+    {
+      "basename": "anonymous communication",
+      "path": "cryptography/secure communication/anonymous communication.md"
+    },
+    {
+      "basename": "web traffic",
+      "path": "cryptography/secure communication/web traffic.md"
+    },
+    {
+      "basename": "cryptographic tunnel",
+      "path": "cryptography/secure communication/protocols/assets/images/cryptographic tunnel.png"
     },
     {
       "basename": "RCE",
@@ -155,50 +199,6 @@
     {
       "basename": "reverse engineering",
       "path": "reverse engineering/reverse engineering.md"
-    },
-    {
-      "basename": "programming",
-      "path": "programming/programming.md"
-    },
-    {
-      "basename": "SQL",
-      "path": "programming/SQL/SQL.md"
-    },
-    {
-      "basename": "DBMS",
-      "path": "programming/SQL/DBMS.md"
-    },
-    {
-      "basename": "database",
-      "path": "programming/SQL/database.md"
-    },
-    {
-      "basename": "python",
-      "path": "programming/python/python.md"
-    },
-    {
-      "basename": "bash",
-      "path": "programming/bash/bash.md"
-    },
-    {
-      "basename": "assembly",
-      "path": "programming/assembly/assembly.md"
-    },
-    {
-      "basename": "topologies",
-      "path": "network/topologies.md"
-    },
-    {
-      "basename": "the internet",
-      "path": "network/the internet.md"
-    },
-    {
-      "basename": "ports",
-      "path": "network/ports.md"
-    },
-    {
-      "basename": "network",
-      "path": "network/network.md"
     }
   ],
   "omittedPaths": [],

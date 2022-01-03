@@ -18,7 +18,7 @@ To test these defences, a penetration tester should be hired. Penetration tester
 - System attacks
 - Web applications
 - Malware analysis
-- [reverse engineering](../../../../../reverse%20engineering/reverse%20engineering.md)
+- [Reverse engineering](../../../../../reverse%20engineering/reverse%20engineering.md)
 - Mobile applications and more.
 
 The demand for penetration testers is on a steady growth. To have a successful pentesting career, you need to be passionate, skilled, and hungry for knowledge.
@@ -39,8 +39,8 @@ An attack is any kind of action aimed at misuse or taking control over a compute
 - Causing denial of service.
 - Eavesdropping on communications.
 
-Refer to [priv esc](../../../../../hacking/attacks%20and%20vulnerabilities/multiple/priv%20esc.md)
+Refer to [priv esc](../../../../../hacking/attacks%20and%20vulnerabilities/multiple/priv%20esc.md).
 
-Refer to [DoS](../../../../../hacking/attacks%20and%20vulnerabilities/multiple/DoS.md)
+Refer to [DoS](../../../../../hacking/attacks%20and%20vulnerabilities/multiple/DoS.md).
 
-Refer to [RCE](../../../../../hacking/attacks%20and%20vulnerabilities/multiple/RCE.md)
+Refer to [RCE](../../../../../hacking/attacks%20and%20vulnerabilities/multiple/RCE.md).

@@ -12,4 +12,4 @@ Refer to [cryptographic protocols](../../../../../cryptography/secure%20communic
 
 ## Virtual Private Networks
 
-Refer to [VPN](cryptography/secure%20communication/protocols/VPN.md)s. 
+Refer to [VPN](../../../../../cryptography/secure%20communication/protocols/VPN.md). 
