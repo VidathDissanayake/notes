@@ -1,3 +1,3 @@
-# Packet Sniffing
+# Sniffing
 
 > Vidath Dissanayake | Sri Lanka

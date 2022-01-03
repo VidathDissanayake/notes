@@ -12,5 +12,6 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./assets/images",
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "alwaysUpdateLinks": true
 }

@@ -1,24 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "VPN",
-      "path": "cryptography/secure communication/protocols/VPN.md"
+      "basename": "binary notation",
+      "path": "general/encoding/binary notation.md"
     },
     {
-      "basename": "packet sniffing",
-      "path": "hacking/attacks and vulnerabilities/network/sniffing/packet sniffing.md"
+      "basename": "decimal notation",
+      "path": "general/encoding/decimal notation.md"
     },
     {
-      "basename": "wireshark",
-      "path": "tools/hacking/network/wireshark/wireshark.md"
+      "basename": "Binary Arithmetic Basics",
+      "path": "courses and certs/ine/pts and ejpt/penetration testing prerequisites/introduction/Binary Arithmetic Basics.md"
+    },
+    {
+      "basename": "The Information Security Field",
+      "path": "courses and certs/ine/pts and ejpt/penetration testing prerequisites/introduction/The Information Security Field.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "HTTP(S) Traffic Sniffing Lab",
+      "path": "courses and certs/ine/pts and ejpt/penetration testing prerequisites/introduction/HTTP(S) Traffic Sniffing Lab.md"
     },
     {
       "basename": "Cryptography & VPNs",
       "path": "courses and certs/ine/pts and ejpt/penetration testing prerequisites/introduction/Cryptography & VPNs.md"
     },
     {
-      "basename": "The Information Security Field",
-      "path": "courses and certs/ine/pts and ejpt/penetration testing prerequisites/introduction/The Information Security Field.md"
+      "basename": "Wireshark Introduction",
+      "path": "courses and certs/ine/pts and ejpt/penetration testing prerequisites/introduction/Wireshark Introduction.md"
+    },
+    {
+      "basename": "Wireshark",
+      "path": "tools/hacking/network/wireshark/Wireshark.md"
+    },
+    {
+      "basename": "sniffing",
+      "path": "hacking/attacks and vulnerabilities/network/sniffing/sniffing.md"
+    },
+    {
+      "basename": "VPN",
+      "path": "cryptography/secure communication/protocols/VPN.md"
     },
     {
       "basename": "INE",
@@ -109,10 +133,6 @@
       "path": "hacking/attacks and vulnerabilities/multiple/RCE.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "Windows",
       "path": "windows/Windows.md"
     },
@@ -175,30 +195,6 @@
     {
       "basename": "scoping",
       "path": "tools/hacking/webapp/burpsuite/modules/proxy/scoping.md"
-    },
-    {
-      "basename": "Proxy",
-      "path": "tools/hacking/webapp/burpsuite/modules/proxy/Proxy.md"
-    },
-    {
-      "basename": "Burp Suite browser",
-      "path": "tools/hacking/webapp/burpsuite/modules/proxy/Burp Suite browser.md"
-    },
-    {
-      "basename": "Intruder",
-      "path": "tools/hacking/webapp/burpsuite/modules/intruder/Intruder.md"
-    },
-    {
-      "basename": "Burp extensions",
-      "path": "tools/hacking/webapp/burpsuite/modules/extender/Burp extensions.md"
-    },
-    {
-      "basename": "Extender",
-      "path": "tools/hacking/webapp/burpsuite/modules/extender/Extender.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "tools/hacking/webapp/burpsuite/modules/dashboard/Dashboard.md"
     }
   ],
   "omittedPaths": [],
