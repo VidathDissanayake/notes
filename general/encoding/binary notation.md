@@ -18,3 +18,4 @@ $_2$ is placed at the end of the binary number as its base to show that it is a 
 Eg:
 - $1 + 1 = 10_2$
 - $111 + 1 = 1000_2$
+
