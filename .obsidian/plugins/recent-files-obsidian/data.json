@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "hex",
+      "path": "general/encoding/hex/hex.md"
+    },
+    {
+      "basename": "XOR operation",
+      "path": "general/arithmetic/bitwise/XOR operation.md"
+    },
+    {
+      "basename": "OR operation",
+      "path": "general/arithmetic/bitwise/OR operation.md"
+    },
+    {
+      "basename": "AND operation",
+      "path": "general/arithmetic/bitwise/AND operation.md"
+    },
+    {
+      "basename": "NOT operation",
+      "path": "general/arithmetic/bitwise/NOT operation.md"
+    },
+    {
       "basename": "bitwise operations",
       "path": "general/arithmetic/bitwise/bitwise operations.md"
     },
@@ -13,24 +33,8 @@
       "path": "tools/hacking/webapp/burpsuite/modules/proxy/Proxy.md"
     },
     {
-      "basename": "XOR operation",
-      "path": "general/arithmetic/bitwise/XOR operation.md"
-    },
-    {
-      "basename": "NOT operation",
-      "path": "general/arithmetic/bitwise/NOT operation.md"
-    },
-    {
-      "basename": "OR operation",
-      "path": "general/arithmetic/bitwise/OR operation.md"
-    },
-    {
       "basename": "bit",
       "path": "general/arithmetic/bitwise/bit.md"
-    },
-    {
-      "basename": "AND operation",
-      "path": "general/arithmetic/bitwise/AND operation.md"
     },
     {
       "basename": "binary conversion",
@@ -195,10 +199,6 @@
     {
       "basename": "navigation",
       "path": "tools/hacking/webapp/burpsuite/navigation.md"
-    },
-    {
-      "basename": "modules",
-      "path": "tools/hacking/webapp/burpsuite/modules/modules.md"
     }
   ],
   "omittedPaths": [],
