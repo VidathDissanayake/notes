@@ -4,7 +4,7 @@
 
 When data is being communicated, [cryptography](../cryptography.md) is used to make sure that an attacker can't eavesdrop or tamper with the data being exchanged.
 
-For example, when [web traffic](web%20traffic.md) is being transmitted, [TLS](protocols/TLS.md) is used to encrypt the insecure HTTP protocol and convert it into the secure HTTPS protocol.
+For example, when [web traffic](web%20traffic.md) is being transmitted, [TLS](secure%20communication%20protocols/TLS.md) is used to encrypt the insecure HTTP protocol and convert it into the secure HTTPS protocol.
 
 The building block of secure communication is [symmetric encryption](symmetric%20encryption.md).
 

@@ -2,7 +2,7 @@
 
 > Vidath Dissanayake | Sri Lanka
 
-The OSI Model or the Open Systems Interconnect Model is one of the most famous [network](../network.md) [reference models](reference%20models.md).
+The OSI Model or the Open Systems Interconnect Model is one of the most famous [network](../network.md) [reference model](reference%20model.md).
 
 It is made up of 7 layers. These layers have different names, and the information passing through different layers are referred to using different names called PDUs (Protocol Data Units). The first 4 layers have different PDUs and the last 3 have the same PDU - Data. To remember, the PDUs of 1st 4 layers, we can use the following mnemonic device.
 
@@ -17,7 +17,7 @@ It is made up of 7 layers. These layers have different names, and the informatio
 | ----- | ------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | 1     | [Physical Layer](#Physical%20Layer.md)      | Bits                                                                                          |
 | 2     | [Data Link Layer](#Data%20Link%20Layer)     | Frames                                                                                        |
-| 3     | [Network Layer](#Network%20Layer)           | Packets([TCP](../protocols/layer%204/TCP.md))/Datagrams([UDP](../protocols/layer%204/UDP.md)) |
+| 3     | [Network Layer](#Network%20Layer)           | Packets([TCP](../communication%20protocol/layer%204/TCP.md))/Datagrams([UDP](../communication%20protocol/layer%204/UDP.md)) |
 | 4     | [Transport Layer](#Transport%20Layer)       | Segments                                                                                      |
 | 5     | [Session Layer](#Session%20Layer)           | Data                                                                                          |
 | 6     | [Presentation Layer](#Presentation%20Layer) | Data                                                                                          |
@@ -59,7 +59,7 @@ This layer makes decisions on an Ethernet [network](../network.md) based on [MAC
 
 ## Network Layer
 
-Routers usually live in this layer. They make informed decisions based on [IP addresses](../protocols/layer%203/IP/IP%20address.md). A protocol used in this layer is the [Internet Protocol (IP).](../protocols/layer%203/IP/IP.md)
+Routers usually live in this layer. They make informed decisions based on [IP addresses](../communication%20protocol/layer%203/IP/IP%20address.md). A protocol used in this layer is the [Internet Protocol (IP).](../communication%20protocol/layer%203/IP/IP.md)
 
 ## Transport Layer
 
@@ -68,7 +68,7 @@ This layer is concerned with [network](../network.md) connections. There are 2 b
 - Connection Oriented (Reliable) Connections
 - Connection Less (Unreliable) Connections
 
-Transmission Control Protocol ([TCP](../protocols/layer%204/TCP.md)) is a reliable connection protocol and User Datagram Protocol ([UDP](../protocols/layer%204/UDP.md)) is an unreliable connection protocol used in this layer.
+Transmission Control Protocol ([TCP](../communication%20protocol/layer%204/TCP.md)) is a reliable connection protocol and User Datagram Protocol ([UDP](../communication%20protocol/layer%204/UDP.md)) is an unreliable connection protocol used in this layer.
 
 ## Session Layer
 
@@ -80,4 +80,4 @@ This layer is about how data is presented or formatted. Examples would be JPEG/P
 
 ## Application Layer
 
-This layer is where application protocols that provide [network](../network.md) functionality are. Examples are, HTTP used for insecure web browsing using [TCP](../protocols/layer%204/TCP.md) port 80 and HTTPS used for secure web browsing using [TCP](../protocols/layer%204/TCP.md) port 443.
+This layer is where application protocols that provide [network](../network.md) functionality are. Examples are, HTTP used for insecure web browsing using [TCP](../communication%20protocol/layer%204/TCP.md) port 80 and HTTPS used for secure web browsing using [TCP](../communication%20protocol/layer%204/TCP.md) port 443.

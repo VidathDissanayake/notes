@@ -1,24 +1,108 @@
 {
   "recentFiles": [
     {
-      "basename": "hex conversion",
-      "path": "general/encoding/hex/hex conversion.md"
+      "basename": "modules",
+      "path": "tools/hacking/webapp/Burp Suite/modules/modules.md"
+    },
+    {
+      "basename": "Windows priv esc",
+      "path": "hacking/attacks and vulnerabilities/windows/Windows priv esc.md"
+    },
+    {
+      "basename": "Linux priv esc",
+      "path": "hacking/attacks and vulnerabilities/linux/Linux priv esc.md"
+    },
+    {
+      "basename": "Active Directory priv esc",
+      "path": "hacking/attacks and vulnerabilities/active directory/Active Directory priv esc.md"
+    },
+    {
+      "basename": "clear-text protocol",
+      "path": "cryptography/secure communication/secure communication protocols/clear-text protocol.md"
+    },
+    {
+      "basename": "Protocols - Study Guide",
+      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Neworking/Protocols - Study Guide.md"
+    },
+    {
+      "basename": "communication protocol",
+      "path": "network/communication protocol/communication protocol.md"
+    },
+    {
+      "basename": "Decoder",
+      "path": "tools/hacking/webapp/Burp Suite/modules/Decoder/Decoder.md"
+    },
+    {
+      "basename": "decoding",
+      "path": "general/encoding and decoding/decoding.md"
+    },
+    {
+      "basename": "encoding",
+      "path": "general/encoding and decoding/encoding.md"
+    },
+    {
+      "basename": "Comparer",
+      "path": "tools/hacking/webapp/Burp Suite/modules/Comparer/Comparer.md"
+    },
+    {
+      "basename": "Sequencer",
+      "path": "tools/hacking/webapp/Burp Suite/modules/Sequencer/Sequencer.md"
+    },
+    {
+      "basename": "Logger",
+      "path": "tools/hacking/webapp/Burp Suite/modules/Logger/Logger.md"
+    },
+    {
+      "basename": "Extender",
+      "path": "tools/hacking/webapp/Burp Suite/modules/Extender/Extender.md"
+    },
+    {
+      "basename": "Proxy",
+      "path": "tools/hacking/webapp/Burp Suite/modules/Proxy/Proxy.md"
+    },
+    {
+      "basename": "Inspector",
+      "path": "tools/hacking/webapp/Burp Suite/modules/Inspector.md"
+    },
+    {
+      "basename": "Wireshark Introduction - Study Guide",
+      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Introduction/Wireshark Introduction - Study Guide.md"
+    },
+    {
+      "basename": "The Information Security Field - Study Guide",
+      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Introduction/The Information Security Field - Study Guide.md"
+    },
+    {
+      "basename": "Cryptography & VPNs - Study Guide",
+      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Introduction/Cryptography & VPNs - Study Guide.md"
+    },
+    {
+      "basename": "Binary Arithmetic Basics - Study Guide",
+      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Introduction/Binary Arithmetic Basics - Study Guide.md"
     },
     {
       "basename": "binary conversion",
-      "path": "general/encoding/binary/binary conversion.md"
-    },
-    {
-      "basename": "hex",
-      "path": "general/encoding/hex/hex.md"
-    },
-    {
-      "basename": "decimal",
-      "path": "general/encoding/decimal/decimal.md"
+      "path": "general/encoding and decoding/binary/binary conversion.md"
     },
     {
       "basename": "binary",
-      "path": "general/encoding/binary/binary.md"
+      "path": "general/encoding and decoding/binary/binary.md"
+    },
+    {
+      "basename": "hex conversion",
+      "path": "general/encoding and decoding/hex/hex conversion.md"
+    },
+    {
+      "basename": "hex",
+      "path": "general/encoding and decoding/hex/hex.md"
+    },
+    {
+      "basename": "decimal conversion",
+      "path": "general/encoding and decoding/decimal/decimal conversion.md"
+    },
+    {
+      "basename": "decimal",
+      "path": "general/encoding and decoding/decimal/decimal.md"
     },
     {
       "basename": "XOR operation",
@@ -37,16 +121,12 @@
       "path": "general/arithmetic/bitwise/NOT operation.md"
     },
     {
-      "basename": "bitwise operations",
-      "path": "general/arithmetic/bitwise/bitwise operations.md"
+      "basename": "bitwise operation",
+      "path": "general/arithmetic/bitwise/bitwise operation.md"
     },
     {
       "basename": "Burp Suite",
-      "path": "tools/hacking/webapp/burpsuite/Burp Suite.md"
-    },
-    {
-      "basename": "Proxy",
-      "path": "tools/hacking/webapp/burpsuite/modules/proxy/Proxy.md"
+      "path": "tools/hacking/webapp/Burp Suite/Burp Suite.md"
     },
     {
       "basename": "bit",
@@ -54,15 +134,7 @@
     },
     {
       "basename": "options",
-      "path": "tools/hacking/webapp/burpsuite/options.md"
-    },
-    {
-      "basename": "Binary Arithmetic Basics",
-      "path": "courses and certs/ine/pts and ejpt/penetration testing prerequisites/introduction/Binary Arithmetic Basics.md"
-    },
-    {
-      "basename": "The Information Security Field",
-      "path": "courses and certs/ine/pts and ejpt/penetration testing prerequisites/introduction/The Information Security Field.md"
+      "path": "tools/hacking/webapp/Burp Suite/options.md"
     },
     {
       "basename": "README",
@@ -70,15 +142,7 @@
     },
     {
       "basename": "HTTP(S) Traffic Sniffing Lab",
-      "path": "courses and certs/ine/pts and ejpt/penetration testing prerequisites/introduction/HTTP(S) Traffic Sniffing Lab.md"
-    },
-    {
-      "basename": "Cryptography & VPNs",
-      "path": "courses and certs/ine/pts and ejpt/penetration testing prerequisites/introduction/Cryptography & VPNs.md"
-    },
-    {
-      "basename": "Wireshark Introduction",
-      "path": "courses and certs/ine/pts and ejpt/penetration testing prerequisites/introduction/Wireshark Introduction.md"
+      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Introduction/HTTP(S) Traffic Sniffing Lab.md"
     },
     {
       "basename": "Wireshark",
@@ -90,11 +154,11 @@
     },
     {
       "basename": "VPN",
-      "path": "cryptography/secure communication/protocols/VPN.md"
+      "path": "cryptography/secure communication/secure communication protocols/VPN.md"
     },
     {
       "basename": "INE",
-      "path": "courses and certs/ine/INE.md"
+      "path": "courses and certs/INE/INE.md"
     },
     {
       "basename": "courses and certs",
@@ -129,76 +193,12 @@
       "path": "cryptography/history of cryptography/history of cryptography.md"
     },
     {
-      "basename": "clear-text protocols",
-      "path": "cryptography/secure communication/protocols/clear-text protocols.md"
-    },
-    {
-      "basename": "cryptographic protocols",
-      "path": "cryptography/secure communication/protocols/cryptographic protocols.md"
-    },
-    {
-      "basename": "cryptographic tunnels",
-      "path": "cryptography/secure communication/protocols/cryptographic tunnels.md"
-    },
-    {
-      "basename": "TLS",
-      "path": "cryptography/secure communication/protocols/TLS.md"
-    },
-    {
-      "basename": "SSL",
-      "path": "cryptography/secure communication/protocols/SSL.md"
-    },
-    {
-      "basename": "cryptography",
-      "path": "cryptography/cryptography.md"
-    },
-    {
-      "basename": "hacking",
-      "path": "hacking/hacking.md"
-    },
-    {
-      "basename": "editions",
-      "path": "tools/hacking/webapp/burpsuite/editions.md"
-    },
-    {
-      "basename": "anonymous communication",
-      "path": "cryptography/secure communication/anonymous communication.md"
-    },
-    {
-      "basename": "web traffic",
-      "path": "cryptography/secure communication/web traffic.md"
+      "basename": "cryptographic protocol",
+      "path": "cryptography/secure communication/secure communication protocols/cryptographic protocol.md"
     },
     {
       "basename": "cryptographic tunnel",
-      "path": "cryptography/secure communication/protocols/assets/images/cryptographic tunnel.png"
-    },
-    {
-      "basename": "RCE",
-      "path": "hacking/attacks and vulnerabilities/multiple/RCE.md"
-    },
-    {
-      "basename": "Windows",
-      "path": "windows/Windows.md"
-    },
-    {
-      "basename": "tools",
-      "path": "tools/tools.md"
-    },
-    {
-      "basename": "ping",
-      "path": "tools/networking/ping.md"
-    },
-    {
-      "basename": "networking tools",
-      "path": "tools/networking/networking tools.md"
-    },
-    {
-      "basename": "FoxyProxy",
-      "path": "tools/hacking/webapp/foxyproxy/FoxyProxy.md"
-    },
-    {
-      "basename": "OWASP ZAP",
-      "path": "tools/hacking/webapp/owasp zap/OWASP ZAP.md"
+      "path": "cryptography/secure communication/secure communication protocols/cryptographic tunnel.md"
     }
   ],
   "omittedPaths": [],
