@@ -2,7 +2,7 @@
 
 > Vidath Dissanayake | Sri Lanka
 
-[Repeater](Repeater.md) offers us various ways to present the responses to our requests -- these range from hex output all the way up to a fully rendered version of the page.
+[Repeater](Repeater.md) offers us various ways to present the responses to our requests -- these range from [hex](../../../../../../general/encoding/hex/hex.md) output all the way up to a fully rendered version of the page.
 
 We can see the available options by looking above the response box:
 

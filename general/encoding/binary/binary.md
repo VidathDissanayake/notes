@@ -1,8 +1,8 @@
-# Binary Notation
+# Binary
 
 > Vidath Dissanayake | Sri Lanka
 
-Binary arithmetic is important because computers represent data in binary format. It is also essential for network addressing and computer logic operations.
+Binary is important because computers represent data in binary format. It is also essential for network addressing and computer logic operations.
 
 Binary notation uses 2 symbols to represent numbers.
 

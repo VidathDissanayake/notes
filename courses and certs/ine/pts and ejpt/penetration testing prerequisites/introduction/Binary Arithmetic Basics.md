@@ -2,4 +2,4 @@
 
 > Vidath Dissanayake | Sri Lanka
 
-Refer to [binary notation](../../../../../general/encoding/binary/binary%20notation.md).
+Refer to [binary](../../../../../general/encoding/binary/binary.md).

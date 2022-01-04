@@ -1,4 +1,4 @@
-# Decimal Notation
+# Decimal
 
 > Vidath Dissanayake | Sri Lanka
 

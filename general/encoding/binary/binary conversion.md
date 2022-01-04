@@ -4,7 +4,7 @@
 
 ## Decimal to Binary
 
-To convert a decimal number to binary, you have to:
+To convert a [decimal](../decimal/decimal.md) number to [binary](binary.md), you have to:
 1. Divide it by 2 and take note of the remainder.
 2. Divide the quotient of the last operation by 2 and take note of the remainder.
 3. Continue till the quotient is 0.

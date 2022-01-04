@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "hex conversion",
+      "path": "general/encoding/hex/hex conversion.md"
+    },
+    {
+      "basename": "binary conversion",
+      "path": "general/encoding/binary/binary conversion.md"
+    },
+    {
       "basename": "hex",
       "path": "general/encoding/hex/hex.md"
+    },
+    {
+      "basename": "decimal",
+      "path": "general/encoding/decimal/decimal.md"
+    },
+    {
+      "basename": "binary",
+      "path": "general/encoding/binary/binary.md"
     },
     {
       "basename": "XOR operation",
@@ -37,20 +53,8 @@
       "path": "general/arithmetic/bitwise/bit.md"
     },
     {
-      "basename": "binary conversion",
-      "path": "general/encoding/binary/binary conversion.md"
-    },
-    {
-      "basename": "binary notation",
-      "path": "general/encoding/binary/binary notation.md"
-    },
-    {
       "basename": "options",
       "path": "tools/hacking/webapp/burpsuite/options.md"
-    },
-    {
-      "basename": "decimal notation",
-      "path": "general/encoding/decimal/decimal notation.md"
     },
     {
       "basename": "Binary Arithmetic Basics",
@@ -195,10 +199,6 @@
     {
       "basename": "OWASP ZAP",
       "path": "tools/hacking/webapp/owasp zap/OWASP ZAP.md"
-    },
-    {
-      "basename": "navigation",
-      "path": "tools/hacking/webapp/burpsuite/navigation.md"
     }
   ],
   "omittedPaths": [],
