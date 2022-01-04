@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "bitwise operations",
+      "path": "general/arithmetic/bitwise/bitwise operations.md"
+    },
+    {
+      "basename": "Burp Suite",
+      "path": "tools/hacking/webapp/burpsuite/Burp Suite.md"
+    },
+    {
+      "basename": "Proxy",
+      "path": "tools/hacking/webapp/burpsuite/modules/proxy/Proxy.md"
+    },
+    {
+      "basename": "XOR operation",
+      "path": "general/arithmetic/bitwise/XOR operation.md"
+    },
+    {
+      "basename": "NOT operation",
+      "path": "general/arithmetic/bitwise/NOT operation.md"
+    },
+    {
+      "basename": "OR operation",
+      "path": "general/arithmetic/bitwise/OR operation.md"
+    },
+    {
+      "basename": "bit",
+      "path": "general/arithmetic/bitwise/bit.md"
+    },
+    {
+      "basename": "AND operation",
+      "path": "general/arithmetic/bitwise/AND operation.md"
+    },
+    {
+      "basename": "binary conversion",
+      "path": "general/encoding/binary/binary conversion.md"
+    },
+    {
       "basename": "binary notation",
-      "path": "general/encoding/binary notation.md"
+      "path": "general/encoding/binary/binary notation.md"
+    },
+    {
+      "basename": "options",
+      "path": "tools/hacking/webapp/burpsuite/options.md"
     },
     {
       "basename": "decimal notation",
-      "path": "general/encoding/decimal notation.md"
+      "path": "general/encoding/decimal/decimal notation.md"
     },
     {
       "basename": "Binary Arithmetic Basics",
@@ -109,10 +149,6 @@
       "path": "hacking/hacking.md"
     },
     {
-      "basename": "Burp Suite",
-      "path": "tools/hacking/webapp/burpsuite/Burp Suite.md"
-    },
-    {
       "basename": "editions",
       "path": "tools/hacking/webapp/burpsuite/editions.md"
     },
@@ -157,44 +193,12 @@
       "path": "tools/hacking/webapp/owasp zap/OWASP ZAP.md"
     },
     {
-      "basename": "options",
-      "path": "tools/hacking/webapp/burpsuite/options.md"
-    },
-    {
       "basename": "navigation",
       "path": "tools/hacking/webapp/burpsuite/navigation.md"
     },
     {
       "basename": "modules",
       "path": "tools/hacking/webapp/burpsuite/modules/modules.md"
-    },
-    {
-      "basename": "Inspector",
-      "path": "tools/hacking/webapp/burpsuite/modules/Inspector.md"
-    },
-    {
-      "basename": "Target",
-      "path": "tools/hacking/webapp/burpsuite/modules/target/Target.md"
-    },
-    {
-      "basename": "repeater interface",
-      "path": "tools/hacking/webapp/burpsuite/modules/repeater/repeater interface.md"
-    },
-    {
-      "basename": "repeater views",
-      "path": "tools/hacking/webapp/burpsuite/modules/repeater/repeater views.md"
-    },
-    {
-      "basename": "Repeater",
-      "path": "tools/hacking/webapp/burpsuite/modules/repeater/Repeater.md"
-    },
-    {
-      "basename": "setting up HTTPS",
-      "path": "tools/hacking/webapp/burpsuite/modules/proxy/setting up HTTPS.md"
-    },
-    {
-      "basename": "scoping",
-      "path": "tools/hacking/webapp/burpsuite/modules/proxy/scoping.md"
     }
   ],
   "omittedPaths": [],

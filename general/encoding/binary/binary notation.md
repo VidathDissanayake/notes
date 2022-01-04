@@ -15,7 +15,7 @@ When counting with binary, you start with 0 and increment one. Then you will rea
 
 $_2$ is placed at the end of the binary number as its base to show that it is a binary number.
 
-Eg:
+E.g:
 - $1 + 1 = 10_2$
 - $111 + 1 = 1000_2$
 
