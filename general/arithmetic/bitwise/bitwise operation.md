@@ -2,7 +2,7 @@
 
 > Vidath Dissanayake | Sri Lanka
 
-A computer can directly manipulate a [bit](bit.md) by using bitwise operations. These are used a lot in network programming and [Assembly](../../../programming/Assembly/Assembly.md) programming.
+A computer can directly manipulate a [bit](../../../network/reference%20models/OSI%20Model/PDU/bit.md) by using bitwise operations. These are used a lot in network programming and [Assembly](../../../programming/Assembly/Assembly.md) programming.
 
 There are several bitwise operations.
 - [OR operation](OR%20operation.md)

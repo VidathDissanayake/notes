@@ -6,7 +6,7 @@ An [Internet Protocol (IP)](IP.md)) address can be used as a way of identifying 
 
 Then that IP address can then be associated with another device without the IP address changing.
 
-IP addresses exist in the [Network Layer](../../../reference%20models/OSI%20Model.md#Network%20Layer) of the [OSI Model](../../../reference%20models/OSI%20Model.md).
+IP addresses exist in the [Network Layer](../../../reference%20models/OSI%20Model/layers/Network%20Layer.md) of the [OSI Model](../../../reference%20models/OSI%20Model/OSI%20Model.md).
 
 There are 2 versions of IP Addresses.
 - IPv4 addresses

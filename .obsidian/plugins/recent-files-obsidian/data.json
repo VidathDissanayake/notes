@@ -1,6 +1,110 @@
 {
   "recentFiles": [
     {
+      "basename": "payload",
+      "path": "network/communication protocol/structure of a protocol/payload.md"
+    },
+    {
+      "basename": "header",
+      "path": "network/communication protocol/structure of a protocol/header.md"
+    },
+    {
+      "basename": "structure of a protocol",
+      "path": "network/communication protocol/structure of a protocol/structure of a protocol.md"
+    },
+    {
+      "basename": "header and payload",
+      "path": "network/communication protocol/structure of a protocol/assets/images/header and payload.png"
+    },
+    {
+      "basename": "communication protocol",
+      "path": "network/communication protocol/communication protocol.md"
+    },
+    {
+      "basename": "PDU",
+      "path": "network/reference models/OSI Model/PDU/PDU.md"
+    },
+    {
+      "basename": "Wi-Fi",
+      "path": "network/communication protocol/multi layer/layer 1 and 2/Wi-Fi.md"
+    },
+    {
+      "basename": "data",
+      "path": "network/reference models/OSI Model/PDU/data.md"
+    },
+    {
+      "basename": "OSI Model",
+      "path": "network/reference models/OSI Model/OSI Model.md"
+    },
+    {
+      "basename": "Physical Layer",
+      "path": "network/reference models/OSI Model/layers/Physical Layer.md"
+    },
+    {
+      "basename": "Application Layer",
+      "path": "network/reference models/OSI Model/layers/Application Layer.md"
+    },
+    {
+      "basename": "Data Link Layer",
+      "path": "network/reference models/OSI Model/layers/Data Link Layer.md"
+    },
+    {
+      "basename": "bit",
+      "path": "network/reference models/OSI Model/PDU/bit.md"
+    },
+    {
+      "basename": "packet",
+      "path": "network/reference models/OSI Model/PDU/packet.md"
+    },
+    {
+      "basename": "Protocols - Study Guide",
+      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Neworking/Protocols - Study Guide.md"
+    },
+    {
+      "basename": "segment",
+      "path": "network/reference models/OSI Model/PDU/segment.md"
+    },
+    {
+      "basename": "datagram",
+      "path": "network/reference models/OSI Model/PDU/datagram.md"
+    },
+    {
+      "basename": "frame",
+      "path": "network/reference models/OSI Model/PDU/frame.md"
+    },
+    {
+      "basename": "network",
+      "path": "network/network.md"
+    },
+    {
+      "basename": "TCP",
+      "path": "network/communication protocol/layer 4/TCP.md"
+    },
+    {
+      "basename": "Transport Layer",
+      "path": "network/reference models/OSI Model/layers/Transport Layer.md"
+    },
+    {
+      "basename": "Presentation Layer",
+      "path": "network/reference models/OSI Model/layers/Presentation Layer.md"
+    },
+    {
+      "basename": "Session Layer",
+      "path": "network/reference models/OSI Model/layers/Session Layer.md"
+    },
+    {
+      "basename": "Network Layer",
+      "path": "network/reference models/OSI Model/layers/Network Layer.md"
+    },
+    {
+      "basename": "IP address",
+      "path": "network/communication protocol/layer 3/IP/IP address.md"
+    },
+    {
+      "basename": "MAC address",
+      "path": "network/MAC address.md"
+    },
+    {
       "basename": "modules",
       "path": "tools/hacking/webapp/Burp Suite/modules/modules.md"
     },
@@ -19,14 +123,6 @@
     {
       "basename": "clear-text protocol",
       "path": "cryptography/secure communication/secure communication protocols/clear-text protocol.md"
-    },
-    {
-      "basename": "Protocols - Study Guide",
-      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Neworking/Protocols - Study Guide.md"
-    },
-    {
-      "basename": "communication protocol",
-      "path": "network/communication protocol/communication protocol.md"
     },
     {
       "basename": "Decoder",
@@ -103,102 +199,6 @@
     {
       "basename": "decimal",
       "path": "general/encoding and decoding/decimal/decimal.md"
-    },
-    {
-      "basename": "XOR operation",
-      "path": "general/arithmetic/bitwise/XOR operation.md"
-    },
-    {
-      "basename": "OR operation",
-      "path": "general/arithmetic/bitwise/OR operation.md"
-    },
-    {
-      "basename": "AND operation",
-      "path": "general/arithmetic/bitwise/AND operation.md"
-    },
-    {
-      "basename": "NOT operation",
-      "path": "general/arithmetic/bitwise/NOT operation.md"
-    },
-    {
-      "basename": "bitwise operation",
-      "path": "general/arithmetic/bitwise/bitwise operation.md"
-    },
-    {
-      "basename": "Burp Suite",
-      "path": "tools/hacking/webapp/Burp Suite/Burp Suite.md"
-    },
-    {
-      "basename": "bit",
-      "path": "general/arithmetic/bitwise/bit.md"
-    },
-    {
-      "basename": "options",
-      "path": "tools/hacking/webapp/Burp Suite/options.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "HTTP(S) Traffic Sniffing Lab",
-      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Introduction/HTTP(S) Traffic Sniffing Lab.md"
-    },
-    {
-      "basename": "Wireshark",
-      "path": "tools/hacking/network/wireshark/Wireshark.md"
-    },
-    {
-      "basename": "sniffing",
-      "path": "hacking/attacks and vulnerabilities/network/sniffing/sniffing.md"
-    },
-    {
-      "basename": "VPN",
-      "path": "cryptography/secure communication/secure communication protocols/VPN.md"
-    },
-    {
-      "basename": "INE",
-      "path": "courses and certs/INE/INE.md"
-    },
-    {
-      "basename": "courses and certs",
-      "path": "courses and certs/courses and certs.md"
-    },
-    {
-      "basename": "ciphertext only attack",
-      "path": "cryptography/attacks/ciphertext only attack.md"
-    },
-    {
-      "basename": "cryptocurrency",
-      "path": "cryptography/cryptocurrency/cryptocurrency.md"
-    },
-    {
-      "basename": "Caesar Cipher",
-      "path": "cryptography/history of cryptography/historic ciphers/Caesar Cipher.md"
-    },
-    {
-      "basename": "historic ciphers",
-      "path": "cryptography/history of cryptography/historic ciphers/historic ciphers.md"
-    },
-    {
-      "basename": "Substitution Cipher",
-      "path": "cryptography/history of cryptography/historic ciphers/Substitution Cipher.md"
-    },
-    {
-      "basename": "Vigenere Cipher",
-      "path": "cryptography/history of cryptography/historic ciphers/Vigenere Cipher.md"
-    },
-    {
-      "basename": "history of cryptography",
-      "path": "cryptography/history of cryptography/history of cryptography.md"
-    },
-    {
-      "basename": "cryptographic protocol",
-      "path": "cryptography/secure communication/secure communication protocols/cryptographic protocol.md"
-    },
-    {
-      "basename": "cryptographic tunnel",
-      "path": "cryptography/secure communication/secure communication protocols/cryptographic tunnel.md"
     }
   ],
   "omittedPaths": [],

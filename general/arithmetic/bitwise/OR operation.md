@@ -2,7 +2,7 @@
 
 > Vidath Dissanayake | Sri Lanka
 
-OR performs a Logical OR between the [bits](bit.md) of the operands. Which means if at least one [bit](bit.md) that is being compared is 1, the result is 1. If both [bits](bit.md) are 0, then the result is 0. A plus sign (+) is used to represent the OR operation as it is essentially an addition of the [bits](bit.md).
+OR performs a Logical OR between the [bits](../../../network/reference%20models/OSI%20Model/PDU/bit.md) of the operands. Which means if at least one [bit](../../../network/reference%20models/OSI%20Model/PDU/bit.md) that is being compared is 1, the result is 1. If both [bits](../../../network/reference%20models/OSI%20Model/PDU/bit.md) are 0, then the result is 0. A plus sign (+) is used to represent the OR operation as it is essentially an addition of the [bits](../../../network/reference%20models/OSI%20Model/PDU/bit.md).
 
 E.g:
 

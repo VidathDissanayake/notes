@@ -29,7 +29,7 @@ Each time the information is sent, the following happens. Let's assume that the 
 2. The server sends [[#ACK]] 2 saying it is ready to receive segment 2.
 3. The client doubles the number of segments (window size).
 4. The server sends an [[#ACK]], with the sequence number of the next segment that it expects, base on the last segment received in sequence. If a segment was dropped, it can be identified because of this.
-5. If the [[#ACK]] number received by the client is a segment that the client already transmitted, it will reduce the window size and transmit again. If not, the client will double the windows size until a packet is dropped.
+5. If the [[#ACK]] number received by the client is a segment that the client already transmitted, it will reduce the window size and transmit again. If not, the client will double the windows size until a [packet](../../reference%20models/OSI%20Model/PDU/packet.md) is dropped.
 
 
 ## TCP Header

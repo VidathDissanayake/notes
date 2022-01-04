@@ -2,7 +2,7 @@
 
 > Vidath Dissanayake | Sri Lanka
 
-XOR performs Logical Exclusive OR between the [bits](bit.md) of its operands. If only one of the [bits](bit.md) being compared is 1, then the result is 1. If both are 0 or if both are 1, the result is 0. XOR is symbolized by a plus sign inside a circle (⊕).
+XOR performs Logical Exclusive OR between the [bits](../../../network/reference%20models/OSI%20Model/PDU/bit.md) of its operands. If only one of the [bits](../../../network/reference%20models/OSI%20Model/PDU/bit.md) being compared is 1, then the result is 1. If both are 0 or if both are 1, the result is 0. XOR is symbolized by a plus sign inside a circle (⊕).
 
 E.g:
 

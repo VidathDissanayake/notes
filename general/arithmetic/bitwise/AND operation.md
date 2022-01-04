@@ -2,7 +2,7 @@
 
 > Vidath Dissanayake | Sri Lanka
 
-AND performs a Logical AND between the bits of the operands. Which means, if both [bits](bit.md) that are being compared are 1, then the result is 1. Otherwise, it's 0. A dot (.) is used to represent the AND operation as it is essentially a multiplication of the two [bits](bit.md)
+AND performs a Logical AND between the bits of the operands. Which means, if both [bits](../../../network/reference%20models/OSI%20Model/PDU/bit.md) that are being compared are 1, then the result is 1. Otherwise, it's 0. A dot (.) is used to represent the AND operation as it is essentially a multiplication of the two [bits](../../../network/reference%20models/OSI%20Model/PDU/bit.md)
 
 E.g:
 
