@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "payload",
-      "path": "network/communication protocol/structure of a protocol/payload.md"
+      "basename": "encapsulation",
+      "path": "network/reference models/encapsulation.md"
+    },
+    {
+      "basename": "IP",
+      "path": "network/communication protocol/OSI/layer 3/IP/IP.md"
+    },
+    {
+      "basename": "TCP IP Model",
+      "path": "network/reference models/TCP IP Model/TCP IP Model.md"
+    },
+    {
+      "basename": "bit",
+      "path": "network/reference models/OSI Model/PDU/bit.md"
+    },
+    {
+      "basename": "TCP",
+      "path": "network/communication protocol/OSI/layer 4/TCP.md"
+    },
+    {
+      "basename": "IP address",
+      "path": "network/communication protocol/OSI/layer 3/IP/IP address.md"
+    },
+    {
+      "basename": "byte",
+      "path": "network/reference models/OSI Model/PDU/other data units/byte.md"
+    },
+    {
+      "basename": "ICMP",
+      "path": "network/communication protocol/OSI/layer 3/ICMP.md"
     },
     {
       "basename": "header",
       "path": "network/communication protocol/structure of a protocol/header.md"
+    },
+    {
+      "basename": "UDP",
+      "path": "network/communication protocol/OSI/layer 4/UDP.md"
+    },
+    {
+      "basename": "payload",
+      "path": "network/communication protocol/structure of a protocol/payload.md"
     },
     {
       "basename": "structure of a protocol",
@@ -26,7 +62,7 @@
     },
     {
       "basename": "Wi-Fi",
-      "path": "network/communication protocol/multi layer/layer 1 and 2/Wi-Fi.md"
+      "path": "network/communication protocol/OSI/multi layer/layer 1 and 2/Wi-Fi.md"
     },
     {
       "basename": "data",
@@ -47,10 +83,6 @@
     {
       "basename": "Data Link Layer",
       "path": "network/reference models/OSI Model/layers/Data Link Layer.md"
-    },
-    {
-      "basename": "bit",
-      "path": "network/reference models/OSI Model/PDU/bit.md"
     },
     {
       "basename": "packet",
@@ -77,10 +109,6 @@
       "path": "network/network.md"
     },
     {
-      "basename": "TCP",
-      "path": "network/communication protocol/layer 4/TCP.md"
-    },
-    {
       "basename": "Transport Layer",
       "path": "network/reference models/OSI Model/layers/Transport Layer.md"
     },
@@ -95,10 +123,6 @@
     {
       "basename": "Network Layer",
       "path": "network/reference models/OSI Model/layers/Network Layer.md"
-    },
-    {
-      "basename": "IP address",
-      "path": "network/communication protocol/layer 3/IP/IP address.md"
     },
     {
       "basename": "MAC address",
@@ -171,34 +195,6 @@
     {
       "basename": "Cryptography & VPNs - Study Guide",
       "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Introduction/Cryptography & VPNs - Study Guide.md"
-    },
-    {
-      "basename": "Binary Arithmetic Basics - Study Guide",
-      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Introduction/Binary Arithmetic Basics - Study Guide.md"
-    },
-    {
-      "basename": "binary conversion",
-      "path": "general/encoding and decoding/binary/binary conversion.md"
-    },
-    {
-      "basename": "binary",
-      "path": "general/encoding and decoding/binary/binary.md"
-    },
-    {
-      "basename": "hex conversion",
-      "path": "general/encoding and decoding/hex/hex conversion.md"
-    },
-    {
-      "basename": "hex",
-      "path": "general/encoding and decoding/hex/hex.md"
-    },
-    {
-      "basename": "decimal conversion",
-      "path": "general/encoding and decoding/decimal/decimal conversion.md"
-    },
-    {
-      "basename": "decimal",
-      "path": "general/encoding and decoding/decimal/decimal.md"
     }
   ],
   "omittedPaths": [],

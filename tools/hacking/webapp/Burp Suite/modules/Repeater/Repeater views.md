@@ -12,7 +12,7 @@ We have four display options here:
 
 1.  **Pretty:** This is the default option. It takes the raw response and attempts to beautify it slightly, making it easier to read.
 2.  **Raw:** The pure, un-beautified response from the server.
-3.  **Hex:** This view takes the raw response and gives us a byte view of it -- especially useful if the response is a binary file.
+3.  **Hex:** This view takes the raw response and gives us a [byte](../../../../../../network/reference%20models/OSI%20Model/PDU/other%20data%20units/byte.md) view of it -- especially useful if the response is a binary file.
 4.  **Render (Only for response):** The render view renders the page as it would appear in your browser.
 
 ---

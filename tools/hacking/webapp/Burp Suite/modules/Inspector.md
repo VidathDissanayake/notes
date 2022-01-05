@@ -2,7 +2,7 @@
 
 > Vidath Dissanayake | Sri Lanka
 
-Inspector available in both [Proxy](Proxy/Proxy.md) and [Repeater](Repeater/Repeater.md) provides a high level overview of [HTTP](../../../../../network/communication%20protocol/layer%207/HTTP.md) requests and responses.
+Inspector available in both [Proxy](Proxy/Proxy.md) and [Repeater](Repeater/Repeater.md) provides a high level overview of [HTTP](../../../../../network/communication%20protocol/OSI/layer%207/HTTP.md) requests and responses.
 
 ![Inspector](assets/images/inspector.png)
 

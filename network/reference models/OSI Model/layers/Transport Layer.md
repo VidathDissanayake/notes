@@ -7,4 +7,4 @@ This layer is concerned with [network](../../../network.md) connections. There a
 - Connection Oriented (Reliable) Connections
 - Connection Less (Unreliable) Connections
 
-Transmission Control Protocol ([TCP](../../../communication%20protocol/layer%204/TCP.md)) is a reliable connection protocol and User Datagram Protocol ([UDP](../../../communication%20protocol/layer%204/UDP.md)) is an unreliable connection protocol used in this layer.
+Transmission Control Protocol ([TCP](../../../communication%20protocol/OSI/layer%204/TCP.md)) is a reliable connection protocol and User Datagram Protocol ([UDP](../../../communication%20protocol/OSI/layer%204/UDP.md)) is an unreliable connection protocol used in this layer.
