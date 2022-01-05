@@ -15,13 +15,13 @@ It is made up of 7 layers. These layers have different names, and the informatio
 
 | Layer | Name                                                 | PDU                                                                                                                               |
 | ----- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| 1     | [Physical Layer](layers/Physical%20Layer.md)         | [Bit](PDU/bit.md)                                                                                                                              |
-| 2     | [Data Link Layer](layers/Data%20Link%20Layer.md)     | Frame                                                                                                                            |
-| 3     | [Network Layer](layers/Network%20Layer.md)           | [Packet](PDU/packet.md)([TCP](../../communication%20protocol/OSI/layer%204/TCP.md))/Datagram([UDP](../../communication%20protocol/OSI/layer%204/UDP.md)) |
-| 4     | [Transport Layer](layers/Transport%20Layer.md)       | Segment                                                                                                                          |
-| 5     | [Session Layer](layers/Session%20Layer.md)           | Data                                                                                                                              |
-| 6     | [Presentation Layer](layers/Presentation%20Layer.md) | Data                                                                                                                              |
-| 7     | [Application Layer](layers/Application%20Layer.md)   | Data                                                                                                                              |
+| 1     | [Physical Layer](../layers/Physical%20Layer.md)         | [Bit](PDU/bit.md)                                                                                                                              |
+| 2     | [Data Link Layer](../layers/Data%20Link%20Layer.md)     | Frame                                                                                                                            |
+| 3     | [Network Layer](../layers/Network%20Layer.md)           | [Packet](PDU/packet.md)([TCP](../../communication%20protocol/OSI/layer%204/TCP.md))/Datagram([UDP](../../communication%20protocol/OSI/layer%204/UDP.md)) |
+| 4     | [Transport Layer](../layers/Transport%20Layer.md)       | Segment                                                                                                                          |
+| 5     | [Session Layer](../layers/Session%20Layer.md)           | Data                                                                                                                              |
+| 6     | [Presentation Layer](../layers/Presentation%20Layer.md) | Data                                                                                                                              |
+| 7     | [Application Layer](../layers/Application%20Layer.md)   | Data                                                                                                                              |
 
 It is important to understand that every protocol doesn't fit neatly into a single layer. This is not the reality. There are protocols that work over multiple layers. **This is a reference model, not a reverence model!**
 

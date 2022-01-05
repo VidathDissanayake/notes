@@ -1,16 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "encapsulation",
-      "path": "network/reference models/encapsulation.md"
-    },
-    {
       "basename": "IP",
       "path": "network/communication protocol/OSI/layer 3/IP/IP.md"
     },
     {
+      "basename": "Internet Protocols (IP) - Study Guide",
+      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Neworking/Internet Protocols (IP) - Study Guide.md"
+    },
+    {
+      "basename": "Protocols - Study Guide",
+      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Neworking/Protocols - Study Guide.md"
+    },
+    {
+      "basename": "encapsulation",
+      "path": "network/reference models/encapsulation.md"
+    },
+    {
+      "basename": "Data Link Layer",
+      "path": "network/reference models/layers/Data Link Layer.md"
+    },
+    {
+      "basename": "Network Layer",
+      "path": "network/reference models/layers/Network Layer.md"
+    },
+    {
+      "basename": "Physical Layer",
+      "path": "network/reference models/layers/Physical Layer.md"
+    },
+    {
+      "basename": "Presentation Layer",
+      "path": "network/reference models/layers/Presentation Layer.md"
+    },
+    {
+      "basename": "Session Layer",
+      "path": "network/reference models/layers/Session Layer.md"
+    },
+    {
+      "basename": "Transport Layer",
+      "path": "network/reference models/layers/Transport Layer.md"
+    },
+    {
       "basename": "TCP IP Model",
       "path": "network/reference models/TCP IP Model/TCP IP Model.md"
+    },
+    {
+      "basename": "TCP IP encapsulation",
+      "path": "network/reference models/assets/images/TCP IP encapsulation.png"
+    },
+    {
+      "basename": "OSI Model",
+      "path": "network/reference models/OSI Model/OSI Model.md"
     },
     {
       "basename": "bit",
@@ -69,28 +109,12 @@
       "path": "network/reference models/OSI Model/PDU/data.md"
     },
     {
-      "basename": "OSI Model",
-      "path": "network/reference models/OSI Model/OSI Model.md"
-    },
-    {
-      "basename": "Physical Layer",
-      "path": "network/reference models/OSI Model/layers/Physical Layer.md"
-    },
-    {
       "basename": "Application Layer",
-      "path": "network/reference models/OSI Model/layers/Application Layer.md"
-    },
-    {
-      "basename": "Data Link Layer",
-      "path": "network/reference models/OSI Model/layers/Data Link Layer.md"
+      "path": "network/reference models/layers/Application Layer.md"
     },
     {
       "basename": "packet",
       "path": "network/reference models/OSI Model/PDU/packet.md"
-    },
-    {
-      "basename": "Protocols - Study Guide",
-      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Neworking/Protocols - Study Guide.md"
     },
     {
       "basename": "segment",
@@ -107,22 +131,6 @@
     {
       "basename": "network",
       "path": "network/network.md"
-    },
-    {
-      "basename": "Transport Layer",
-      "path": "network/reference models/OSI Model/layers/Transport Layer.md"
-    },
-    {
-      "basename": "Presentation Layer",
-      "path": "network/reference models/OSI Model/layers/Presentation Layer.md"
-    },
-    {
-      "basename": "Session Layer",
-      "path": "network/reference models/OSI Model/layers/Session Layer.md"
-    },
-    {
-      "basename": "Network Layer",
-      "path": "network/reference models/OSI Model/layers/Network Layer.md"
     },
     {
       "basename": "MAC address",
@@ -191,10 +199,6 @@
     {
       "basename": "The Information Security Field - Study Guide",
       "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Introduction/The Information Security Field - Study Guide.md"
-    },
-    {
-      "basename": "Cryptography & VPNs - Study Guide",
-      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Introduction/Cryptography & VPNs - Study Guide.md"
     }
   ],
   "omittedPaths": [],
