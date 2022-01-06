@@ -2,7 +2,9 @@
 
 > Vidath Dissanayake | Sri Lanka
 
-An [Internet Protocol (IP)](IP.md)) address can be used as a way of identifying a host on a [network](../../../../network.md) for a period of time.
+Similar to mail, [IP](IP.md) uses an addressing scheme to deliver packets to the right destination.
+
+An [Internet Protocol (IP)](IP.md) address can be used as a way of identifying a host on a [network](../../../../network.md) for a period of time.
 
 Then that IP address can then be associated with another device without the IP address changing.
 

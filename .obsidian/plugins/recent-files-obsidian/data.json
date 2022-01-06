@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "IP address",
+      "path": "network/communication protocol/OSI/layer 3/IP/IP address.md"
+    },
+    {
       "basename": "IP",
       "path": "network/communication protocol/OSI/layer 3/IP/IP.md"
+    },
+    {
+      "basename": "Internet Layer",
+      "path": "network/reference models/layers/Internet Layer.md"
+    },
+    {
+      "basename": "Network Layer",
+      "path": "network/reference models/layers/Network Layer.md"
     },
     {
       "basename": "Internet Protocols (IP) - Study Guide",
@@ -19,10 +31,6 @@
     {
       "basename": "Data Link Layer",
       "path": "network/reference models/layers/Data Link Layer.md"
-    },
-    {
-      "basename": "Network Layer",
-      "path": "network/reference models/layers/Network Layer.md"
     },
     {
       "basename": "Physical Layer",
@@ -59,10 +67,6 @@
     {
       "basename": "TCP",
       "path": "network/communication protocol/OSI/layer 4/TCP.md"
-    },
-    {
-      "basename": "IP address",
-      "path": "network/communication protocol/OSI/layer 3/IP/IP address.md"
     },
     {
       "basename": "byte",
@@ -195,10 +199,6 @@
     {
       "basename": "Wireshark Introduction - Study Guide",
       "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Introduction/Wireshark Introduction - Study Guide.md"
-    },
-    {
-      "basename": "The Information Security Field - Study Guide",
-      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Introduction/The Information Security Field - Study Guide.md"
     }
   ],
   "omittedPaths": [],
