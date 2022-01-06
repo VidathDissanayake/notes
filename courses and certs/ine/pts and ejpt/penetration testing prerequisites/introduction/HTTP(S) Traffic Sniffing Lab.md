@@ -2,7 +2,7 @@
 
 > Vidath Dissanayake | Sri Lanka
 
-After capturing the login with [HTTP](../../../../../network/communication%20protocol/layer%207/HTTP.md), we can see the login information in clear text.
+After capturing the login with [HTTP](../../../../../network/communication%20protocol/OSI/layer%207/HTTP.md), we can see the login information in clear text.
 
 ![HTTP capture](assets/images/HTTP%20capture.png)
 
