@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "cryptography",
+      "path": "cryptography/cryptography.md"
+    },
+    {
       "basename": "IP address",
       "path": "network/communication protocol/OSI/layer 3/IP/IP address.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Inspector",
       "path": "tools/hacking/webapp/Burp Suite/modules/Inspector.md"
-    },
-    {
-      "basename": "Wireshark Introduction - Study Guide",
-      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Introduction/Wireshark Introduction - Study Guide.md"
     }
   ],
   "omittedPaths": [],
