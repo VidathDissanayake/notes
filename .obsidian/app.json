@@ -5,7 +5,8 @@
     "esc",
     "Priv",
     "shellcode",
-    "PDUs"
+    "PDUs",
+    "netmask"
   ],
   "newFileLocation": "current",
   "newLinkFormat": "relative",

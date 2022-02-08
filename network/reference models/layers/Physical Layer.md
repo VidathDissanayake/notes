@@ -9,4 +9,4 @@ This layer is concerned with getting bits on the wire. This is the physical hard
 E.g:
 - As electricity though coper wires.
 - As light through fibre optic cables.
-- As radio waves through air in [Wi-Fi](../../../communication%20protocol/OSI/multi%20layer/layer%201%20and%202/Wi-Fi.md).
+- As radio waves through air in [Wi-Fi](../../communication%20protocol/TCP%20IP%20layer%201/Wi-Fi.md).
