@@ -6,7 +6,7 @@ Refer to [communication protocol](../../../../../network/communication%20protoco
 
 ## Packets
 
-Refer to [packet](../../../../../network/reference%20models/OSI%20Model/PDU/packet.md), [structure of a protocol](../../../../../network/communication%20protocol/structure%20of%20a%20protocol/structure%20of%20a%20protocol.md), [IP](../../../../../network/communication%20protocol/OSI/layer%203/IP/IP.md).
+Refer to [packet](../../../../../network/reference%20models/OSI%20Model/PDU/packet.md), [structure of a protocol](../../../../../network/communication%20protocol/structure%20of%20a%20protocol/structure%20of%20a%20protocol.md), [IP](../../../../../network/communication%20protocol/TCP%20IP%20layer%202/OSI%20layer%203/IP/IP.md).
 
 ## Protocol Layers
 
