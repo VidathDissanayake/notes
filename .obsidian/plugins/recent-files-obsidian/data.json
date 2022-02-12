@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "IP address",
+      "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP address.md"
+    },
+    {
       "basename": "subnet mask",
       "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/subnet mask.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "IP header",
       "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP header.md"
-    },
-    {
-      "basename": "IP address",
-      "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP address.md"
     },
     {
       "basename": "reserved IP addresses",

@@ -33,5 +33,14 @@
       ],
       "key": "P"
     }
+  ],
+  "obsidian-orthography:check-orthography": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "K"
+    }
   ]
 }
