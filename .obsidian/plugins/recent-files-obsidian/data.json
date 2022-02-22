@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "setting up HTTPS",
+      "path": "tools/hacking/webapp/Burp Suite/modules/Proxy/setting up HTTPS.md"
+    },
+    {
       "basename": "IP address",
       "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP address.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Sequencer",
       "path": "tools/hacking/webapp/Burp Suite/modules/Sequencer/Sequencer.md"
-    },
-    {
-      "basename": "Logger",
-      "path": "tools/hacking/webapp/Burp Suite/modules/Logger/Logger.md"
     }
   ],
   "omittedPaths": [],
