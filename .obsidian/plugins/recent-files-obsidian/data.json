@@ -5,20 +5,20 @@
       "path": "courses and certs/UoM/Web Design for Begginers/1. Introduction to the World Wide Web, Internet and Protocols/1. Introduction to the World Wide Web, Internet and Protocols.md"
     },
     {
-      "basename": "IP address",
-      "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP address.md"
-    },
-    {
-      "basename": "ipv4 octets",
-      "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/assets/images/ipv4 octets.png"
+      "basename": "URL",
+      "path": "network/the Internet/URL.md"
     },
     {
       "basename": "the Internet",
       "path": "network/the Internet/the Internet.md"
     },
     {
-      "basename": "URL",
-      "path": "network/the Internet/URL.md"
+      "basename": "IP address",
+      "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP address.md"
+    },
+    {
+      "basename": "ipv4 octets",
+      "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/assets/images/ipv4 octets.png"
     },
     {
       "basename": "WWW",
@@ -195,10 +195,6 @@
     {
       "basename": "Internet Layer",
       "path": "network/reference models/layers/Internet Layer.md"
-    },
-    {
-      "basename": "Data Link Layer",
-      "path": "network/reference models/layers/Data Link Layer.md"
     }
   ],
   "omittedPaths": [],
