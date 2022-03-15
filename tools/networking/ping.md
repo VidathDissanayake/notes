@@ -1,6 +1,8 @@
 # ICMP Ping
 
 > Vidath Dissanayake | Sri Lanka
+> Tags: #tools/networking 
+> Links: [networking tools](networking%20tools.md)
 
 Ping is one of the most fundamental network tools.
 

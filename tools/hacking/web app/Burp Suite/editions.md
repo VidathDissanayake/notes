@@ -1,6 +1,8 @@
 # Editions
 
 > Vidath Dissanayake | Sri Lanka
+> Tags: #tools/hacking/web_app 
+> Links: [Burp Suite](Burp%20Suite.md)
 
 There are three different editions of [Burp Suite](Burp%20Suite.md) available.
 

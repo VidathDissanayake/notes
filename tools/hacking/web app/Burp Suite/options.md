@@ -1,6 +1,8 @@
 # Options for Configuring Burp Suite
 
 > Vidath Dissanayake | Sri Lanka
+> Tags: #tools/hacking/web_app 
+> Links: [Burp Suite](Burp%20Suite.md)
 
 There are two main types of options in [Burp Suite](Burp%20Suite.md).
 - Global settings (User options tab).

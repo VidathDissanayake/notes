@@ -1,5 +1,5 @@
-# Networking Tools
+# Hacking Tools
 
 > Vidath Dissanayake | Sri Lanka
-> Tags: #tools/networking
+> Tags: #tools/hacking 
 > Links: [tools](../tools.md)

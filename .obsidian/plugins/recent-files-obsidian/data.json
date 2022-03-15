@@ -1,6 +1,86 @@
 {
   "recentFiles": [
     {
+      "basename": "modules",
+      "path": "tools/hacking/web app/Burp Suite/modules/modules.md"
+    },
+    {
+      "basename": "options",
+      "path": "tools/hacking/web app/Burp Suite/options.md"
+    },
+    {
+      "basename": "navigation",
+      "path": "tools/hacking/web app/Burp Suite/navigation.md"
+    },
+    {
+      "basename": "editions",
+      "path": "tools/hacking/web app/Burp Suite/editions.md"
+    },
+    {
+      "basename": "Burp Suite",
+      "path": "tools/hacking/web app/Burp Suite/Burp Suite.md"
+    },
+    {
+      "basename": "FoxyProxy",
+      "path": "tools/hacking/web app/FoxyProxy/FoxyProxy.md"
+    },
+    {
+      "basename": "Proxy",
+      "path": "tools/hacking/web app/Burp Suite/modules/Proxy/Proxy.md"
+    },
+    {
+      "basename": "OWASP ZAP",
+      "path": "tools/hacking/web app/OWASP ZAP/OWASP ZAP.md"
+    },
+    {
+      "basename": "web app hacking tools",
+      "path": "tools/hacking/web app/web app hacking tools.md"
+    },
+    {
+      "basename": "network hacking tools",
+      "path": "tools/hacking/network/network hacking tools.md"
+    },
+    {
+      "basename": "Wireshark",
+      "path": "tools/hacking/network/wireshark/Wireshark.md"
+    },
+    {
+      "basename": "hacking tools",
+      "path": "tools/hacking/hacking tools.md"
+    },
+    {
+      "basename": "networking tools",
+      "path": "tools/networking/networking tools.md"
+    },
+    {
+      "basename": "ping",
+      "path": "tools/networking/ping.md"
+    },
+    {
+      "basename": "ICMP",
+      "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/ICMP.md"
+    },
+    {
+      "basename": "tools",
+      "path": "tools/tools.md"
+    },
+    {
+      "basename": "1.1 Introduction to Networking and WWW",
+      "path": "courses and certs/UoM/Web Design for Begginers/1. Introduction to the World Wide Web, Internet and Protocols/1.1 Introduction to Networking and WWW.md"
+    },
+    {
+      "basename": "Windows",
+      "path": "windows/Windows.md"
+    },
+    {
+      "basename": "UoM",
+      "path": "courses and certs/UoM/UoM.md"
+    },
+    {
+      "basename": "UoM Web Design for Begginers",
+      "path": "courses and certs/UoM/Web Design for Begginers/UoM Web Design for Begginers.md"
+    },
+    {
       "basename": "TLS",
       "path": "cryptography/secure communication/secure communication protocols/TLS.md"
     },
@@ -15,18 +95,6 @@
     {
       "basename": "web development",
       "path": "programming/Web/web development.md"
-    },
-    {
-      "basename": "1.1 Introduction to Networking and WWW",
-      "path": "courses and certs/UoM/Web Design for Begginers/1. Introduction to the World Wide Web, Internet and Protocols/1.1 Introduction to Networking and WWW.md"
-    },
-    {
-      "basename": "UoM Web Design for Begginers",
-      "path": "courses and certs/UoM/Web Design for Begginers/UoM Web Design for Begginers.md"
-    },
-    {
-      "basename": "UoM",
-      "path": "courses and certs/UoM/UoM.md"
     },
     {
       "basename": "decoding",
@@ -62,7 +130,7 @@
     },
     {
       "basename": "setting up HTTPS",
-      "path": "tools/hacking/webapp/Burp Suite/modules/Proxy/setting up HTTPS.md"
+      "path": "tools/hacking/web app/Burp Suite/modules/Proxy/setting up HTTPS.md"
     },
     {
       "basename": "subnet mask",
@@ -131,74 +199,6 @@
     {
       "basename": "bit",
       "path": "network/reference models/OSI Model/PDU/bit.md"
-    },
-    {
-      "basename": "TCP",
-      "path": "network/communication protocol/TCP IP layer 3/OSI layer 4/TCP.md"
-    },
-    {
-      "basename": "byte",
-      "path": "network/reference models/OSI Model/PDU/other data units/byte.md"
-    },
-    {
-      "basename": "ICMP",
-      "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/ICMP.md"
-    },
-    {
-      "basename": "UDP",
-      "path": "network/communication protocol/TCP IP layer 3/OSI layer 4/UDP.md"
-    },
-    {
-      "basename": "header and payload",
-      "path": "network/communication protocol/structure of a protocol/assets/images/header and payload.png"
-    },
-    {
-      "basename": "communication protocol",
-      "path": "network/communication protocol/communication protocol.md"
-    },
-    {
-      "basename": "PDU",
-      "path": "network/reference models/OSI Model/PDU/PDU.md"
-    },
-    {
-      "basename": "Wi-Fi",
-      "path": "network/communication protocol/TCP IP layer 1/Wi-Fi.md"
-    },
-    {
-      "basename": "data",
-      "path": "network/reference models/OSI Model/PDU/data.md"
-    },
-    {
-      "basename": "packet",
-      "path": "network/reference models/OSI Model/PDU/packet.md"
-    },
-    {
-      "basename": "segment",
-      "path": "network/reference models/OSI Model/PDU/segment.md"
-    },
-    {
-      "basename": "datagram",
-      "path": "network/reference models/OSI Model/PDU/datagram.md"
-    },
-    {
-      "basename": "frame",
-      "path": "network/reference models/OSI Model/PDU/frame.md"
-    },
-    {
-      "basename": "network",
-      "path": "network/network.md"
-    },
-    {
-      "basename": "MAC address",
-      "path": "network/MAC address.md"
-    },
-    {
-      "basename": "modules",
-      "path": "tools/hacking/webapp/Burp Suite/modules/modules.md"
-    },
-    {
-      "basename": "Windows priv esc",
-      "path": "hacking/attacks and vulnerabilities/windows/Windows priv esc.md"
     }
   ],
   "omittedPaths": [],

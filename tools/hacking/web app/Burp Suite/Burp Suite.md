@@ -1,6 +1,8 @@
 # Burp Suite
 
 > Vidath Dissanayake | Sri Lanka
+> Tags: #tools/hacking/web_app 
+> Links: [web app hacking tools](../web%20app%20hacking%20tools.md)
 
 Burp Suite is the industry standard tool for web application hacking, and is essential in any web penetration test.
 
