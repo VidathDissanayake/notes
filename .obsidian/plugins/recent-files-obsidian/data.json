@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "TLS",
+      "path": "cryptography/secure communication/secure communication protocols/TLS.md"
+    },
+    {
+      "basename": "cryptographic protocol",
+      "path": "cryptography/secure communication/secure communication protocols/cryptographic protocol.md"
+    },
+    {
+      "basename": "SSL",
+      "path": "cryptography/secure communication/secure communication protocols/SSL.md"
+    },
+    {
       "basename": "web development",
       "path": "programming/Web/web development.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Windows priv esc",
       "path": "hacking/attacks and vulnerabilities/windows/Windows priv esc.md"
-    },
-    {
-      "basename": "Linux priv esc",
-      "path": "hacking/attacks and vulnerabilities/linux/Linux priv esc.md"
-    },
-    {
-      "basename": "Active Directory priv esc",
-      "path": "hacking/attacks and vulnerabilities/active directory/Active Directory priv esc.md"
-    },
-    {
-      "basename": "clear-text protocol",
-      "path": "cryptography/secure communication/secure communication protocols/clear-text protocol.md"
     }
   ],
   "omittedPaths": [],
