@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "1. Introduction to the World Wide Web, Internet and Protocols",
+      "path": "courses and certs/UoM/Web Design for Begginers/1. Introduction to the World Wide Web, Internet and Protocols/1. Introduction to the World Wide Web, Internet and Protocols.md"
+    },
+    {
+      "basename": "IP address",
+      "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP address.md"
+    },
+    {
+      "basename": "ipv4 octets",
+      "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/assets/images/ipv4 octets.png"
+    },
+    {
+      "basename": "the Internet",
+      "path": "network/the Internet/the Internet.md"
+    },
+    {
+      "basename": "URL",
+      "path": "network/the Internet/URL.md"
+    },
+    {
+      "basename": "WWW",
+      "path": "network/the Internet/WWW.md"
+    },
+    {
+      "basename": "topology",
+      "path": "network/topology.md"
+    },
+    {
+      "basename": "HTTP",
+      "path": "network/communication protocol/TCP IP layer 4/OSI layer 7/HTTP.md"
+    },
+    {
+      "basename": "UoM Web Design for Beginners",
+      "path": "courses and certs/UoM/Web Design for Begginers/UoM Web Design for Beginners.md"
+    },
+    {
+      "basename": "uses of internet",
+      "path": "courses and certs/UoM/Web Design for Begginers/1. Introduction to the World Wide Web, Internet and Protocols/assets/images/uses of internet.jpeg"
+    },
+    {
+      "basename": "MAC address",
+      "path": "network/MAC address.md"
+    },
+    {
+      "basename": "network",
+      "path": "network/network.md"
+    },
+    {
+      "basename": "port",
+      "path": "network/port.md"
+    },
+    {
       "basename": "modules",
       "path": "tools/hacking/web app/Burp Suite/modules/modules.md"
     },
@@ -65,20 +117,12 @@
       "path": "tools/tools.md"
     },
     {
-      "basename": "1.1 Introduction to Networking and WWW",
-      "path": "courses and certs/UoM/Web Design for Begginers/1. Introduction to the World Wide Web, Internet and Protocols/1.1 Introduction to Networking and WWW.md"
-    },
-    {
       "basename": "Windows",
       "path": "windows/Windows.md"
     },
     {
       "basename": "UoM",
       "path": "courses and certs/UoM/UoM.md"
-    },
-    {
-      "basename": "UoM Web Design for Begginers",
-      "path": "courses and certs/UoM/Web Design for Begginers/UoM Web Design for Begginers.md"
     },
     {
       "basename": "TLS",
@@ -107,10 +151,6 @@
     {
       "basename": "IP header",
       "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP header.md"
-    },
-    {
-      "basename": "IP address",
-      "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP address.md"
     },
     {
       "basename": "IP",
@@ -159,46 +199,6 @@
     {
       "basename": "Data Link Layer",
       "path": "network/reference models/layers/Data Link Layer.md"
-    },
-    {
-      "basename": "Application Layer",
-      "path": "network/reference models/layers/Application Layer.md"
-    },
-    {
-      "basename": "Protocols - Study Guide",
-      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Neworking/Protocols - Study Guide.md"
-    },
-    {
-      "basename": "cryptography",
-      "path": "cryptography/cryptography.md"
-    },
-    {
-      "basename": "Network Layer",
-      "path": "network/reference models/layers/Network Layer.md"
-    },
-    {
-      "basename": "encapsulation",
-      "path": "network/reference models/encapsulation.md"
-    },
-    {
-      "basename": "Presentation Layer",
-      "path": "network/reference models/layers/Presentation Layer.md"
-    },
-    {
-      "basename": "Session Layer",
-      "path": "network/reference models/layers/Session Layer.md"
-    },
-    {
-      "basename": "TCP IP encapsulation",
-      "path": "network/reference models/assets/images/TCP IP encapsulation.png"
-    },
-    {
-      "basename": "OSI Model",
-      "path": "network/reference models/OSI Model/OSI Model.md"
-    },
-    {
-      "basename": "bit",
-      "path": "network/reference models/OSI Model/PDU/bit.md"
     }
   ],
   "omittedPaths": [],

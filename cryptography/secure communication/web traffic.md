@@ -2,4 +2,4 @@
 
 > Vidath Dissanayake | Sri Lanka
 
-[TLS](secure%20communication%20protocols/TLS.md) protocol is used to secure data being sent over [the internet](../../network/the%20internet.md).
+[TLS](secure%20communication%20protocols/TLS.md) protocol is used to secure data being sent over [the Internet](../../network/the%20Internet/the%20Internet.md).
