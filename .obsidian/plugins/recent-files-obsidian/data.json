@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "DNS",
+      "path": "network/the Internet/DNS.md"
+    },
+    {
+      "basename": "the Internet",
+      "path": "network/the Internet/the Internet.md"
+    },
+    {
+      "basename": "mac address",
+      "path": "network/assets/images/mac address.png"
+    },
+    {
       "basename": "1. Introduction to the World Wide Web, Internet and Protocols",
       "path": "courses and certs/UoM/Web Design for Begginers/1. Introduction to the World Wide Web, Internet and Protocols/1. Introduction to the World Wide Web, Internet and Protocols.md"
     },
     {
       "basename": "URL",
       "path": "network/the Internet/URL.md"
-    },
-    {
-      "basename": "the Internet",
-      "path": "network/the Internet/the Internet.md"
     },
     {
       "basename": "IP address",
@@ -191,10 +199,6 @@
     {
       "basename": "Physical Layer",
       "path": "network/reference models/layers/Physical Layer.md"
-    },
-    {
-      "basename": "Internet Layer",
-      "path": "network/reference models/layers/Internet Layer.md"
     }
   ],
   "omittedPaths": [],
