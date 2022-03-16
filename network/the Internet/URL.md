@@ -2,6 +2,6 @@
 
 > Vidath Dissanayake | Sri Lanka
 > Tags: #network/internet 
-> Links:
+> Links: [the Internet](the%20Internet.md)
 
 ## Structure of a URL

@@ -2,5 +2,6 @@
 
 > Vidath Dissanayake | Sri Lanka
 > Tags: #network/internet 
+> Links: [the Internet](the%20Internet.md)
 
 ![how dns works](assets/images/how%20dns%20works.png)
