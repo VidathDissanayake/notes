@@ -1,6 +1,7 @@
 # Symmetric Ciphers
 
 > Vidath Dissanayake | Sri Lanka
+> Tags: #crypto/secure_com
 
 Symmetric ciphers are the building blocks of [secure communication](secure%20communication.md).
 

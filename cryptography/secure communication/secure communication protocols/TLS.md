@@ -1,6 +1,7 @@
 # TLS (Transport Layer Security)
 
 > Vidath Dissanayake | Sri Lanka
+> Tags: #crypto/secure_com/protocols
 
 TLS (Transport Layer Security) is the successor to [SSL](SSL.md). However, [SSL](SSL.md) is widely known, so [SSL](SSL.md) is used to refer to TLS too.
 

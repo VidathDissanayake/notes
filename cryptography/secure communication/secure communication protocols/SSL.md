@@ -1,6 +1,7 @@
 # SSL (Secure Socket Layer)
 
 > Vidath Dissanayake | Sri Lanka
+> Tags: #crypto/secure_com/protocols
 
 SSL is the predecessor of [TLS](TLS.md)
 

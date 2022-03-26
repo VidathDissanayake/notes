@@ -1,6 +1,7 @@
 # Secure Communication
 
 > Vidath Dissanayake | Sri Lanka
+> Tags: #crypto/secure_com
 
 When data is being communicated, [cryptography](../cryptography.md) is used to make sure that an attacker can't eavesdrop or tamper with the data being exchanged.
 

@@ -1,8 +1,100 @@
 {
   "recentFiles": [
     {
+      "basename": "Windows",
+      "path": "windows/Windows.md"
+    },
+    {
+      "basename": "UoM",
+      "path": "courses/UoM/UoM.md"
+    },
+    {
+      "basename": "Inspector",
+      "path": "tools/hacking/web app/Burp Suite/modules/Inspector.md"
+    },
+    {
+      "basename": "tools",
+      "path": "tools/tools.md"
+    },
+    {
+      "basename": "1. Introduction to the World Wide Web, Internet and Protocols",
+      "path": "courses/UoM/Web Design for Begginers/1. Introduction to the World Wide Web, Internet and Protocols/1. Introduction to the World Wide Web, Internet and Protocols.md"
+    },
+    {
+      "basename": "AND operation",
+      "path": "general/arithmetic/bitwise/AND operation.md"
+    },
+    {
+      "basename": "embedded system",
+      "path": "embedded systems/embedded system.md"
+    },
+    {
+      "basename": "VPN",
+      "path": "cryptography/secure communication/secure communication protocols/VPN.md"
+    },
+    {
+      "basename": "TLS",
+      "path": "cryptography/secure communication/secure communication protocols/TLS.md"
+    },
+    {
+      "basename": "SSL",
+      "path": "cryptography/secure communication/secure communication protocols/SSL.md"
+    },
+    {
+      "basename": "cryptographic tunnel",
+      "path": "cryptography/secure communication/secure communication protocols/cryptographic tunnel.md"
+    },
+    {
+      "basename": "cryptographic protocol",
+      "path": "cryptography/secure communication/secure communication protocols/cryptographic protocol.md"
+    },
+    {
+      "basename": "clear-text protocol",
+      "path": "cryptography/secure communication/secure communication protocols/clear-text protocol.md"
+    },
+    {
+      "basename": "symmetric encryption",
+      "path": "cryptography/secure communication/symmetric encryption.md"
+    },
+    {
       "basename": "cryptography",
       "path": "cryptography/cryptography.md"
+    },
+    {
+      "basename": "zero knowledge",
+      "path": "cryptography/secure communication/zero knowledge.md"
+    },
+    {
+      "basename": "web traffic",
+      "path": "cryptography/secure communication/web traffic.md"
+    },
+    {
+      "basename": "trusted authority",
+      "path": "cryptography/secure communication/trusted authority.md"
+    },
+    {
+      "basename": "secure multi-party computation",
+      "path": "cryptography/secure communication/secure multi-party computation.md"
+    },
+    {
+      "basename": "secure communication",
+      "path": "cryptography/secure communication/secure communication.md"
+    },
+    {
+      "basename": "anonymous communication",
+      "path": "cryptography/secure communication/anonymous communication.md"
+    },
+    {
+      "basename": "digital signature",
+      "path": "cryptography/secure communication/digital signature.md"
+    },
+    {
+      "basename": "privately outsourcing computation",
+      "path": "cryptography/secure communication/privately outsourcing computation.md"
+    },
+    {
+      "basename": "Cryptography & VPNs - Study Guide",
+      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/Cryptography & VPNs - Study Guide.md"
     },
     {
       "basename": "history of cryptography",
@@ -33,40 +125,24 @@
       "path": "cryptography/attacks/ciphertext only attack.md"
     },
     {
-      "basename": "Windows",
-      "path": "windows/Windows.md"
-    },
-    {
       "basename": "Wireshark Introduction - Study Guide",
-      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Introduction/Wireshark Introduction - Study Guide.md"
+      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/Wireshark Introduction - Study Guide.md"
     },
     {
       "basename": "The Information Security Field - Study Guide",
-      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Introduction/The Information Security Field - Study Guide.md"
+      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/The Information Security Field - Study Guide.md"
     },
     {
       "basename": "HTTP(S) Traffic Sniffing Lab",
-      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Introduction/HTTP(S) Traffic Sniffing Lab.md"
-    },
-    {
-      "basename": "Cryptography & VPNs - Study Guide",
-      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Introduction/Cryptography & VPNs - Study Guide.md"
+      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/HTTP(S) Traffic Sniffing Lab.md"
     },
     {
       "basename": "Binary Arithmetic Basics - Study Guide",
-      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Introduction/Binary Arithmetic Basics - Study Guide.md"
-    },
-    {
-      "basename": "UoM",
-      "path": "courses and certs/UoM/UoM.md"
+      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/Binary Arithmetic Basics - Study Guide.md"
     },
     {
       "basename": "DNS",
       "path": "network/the Internet/DNS.md"
-    },
-    {
-      "basename": "1. Introduction to the World Wide Web, Internet and Protocols",
-      "path": "courses and certs/UoM/Web Design for Begginers/1. Introduction to the World Wide Web, Internet and Protocols/1. Introduction to the World Wide Web, Internet and Protocols.md"
     },
     {
       "basename": "IP",
@@ -74,11 +150,11 @@
     },
     {
       "basename": "UoM Web Design for Beginners",
-      "path": "courses and certs/UoM/Web Design for Begginers/UoM Web Design for Beginners.md"
+      "path": "courses/UoM/Web Design for Begginers/UoM Web Design for Beginners.md"
     },
     {
       "basename": "courses and certs",
-      "path": "courses and certs/courses and certs.md"
+      "path": "courses/courses and certs.md"
     },
     {
       "basename": "the Internet",
@@ -118,87 +194,11 @@
     },
     {
       "basename": "uses of internet",
-      "path": "courses and certs/UoM/Web Design for Begginers/1. Introduction to the World Wide Web, Internet and Protocols/assets/images/uses of internet.jpeg"
+      "path": "courses/UoM/Web Design for Begginers/1. Introduction to the World Wide Web, Internet and Protocols/assets/images/uses of internet.jpeg"
     },
     {
       "basename": "MAC address",
       "path": "network/MAC address.md"
-    },
-    {
-      "basename": "network",
-      "path": "network/network.md"
-    },
-    {
-      "basename": "port",
-      "path": "network/port.md"
-    },
-    {
-      "basename": "modules",
-      "path": "tools/hacking/web app/Burp Suite/modules/modules.md"
-    },
-    {
-      "basename": "options",
-      "path": "tools/hacking/web app/Burp Suite/options.md"
-    },
-    {
-      "basename": "navigation",
-      "path": "tools/hacking/web app/Burp Suite/navigation.md"
-    },
-    {
-      "basename": "editions",
-      "path": "tools/hacking/web app/Burp Suite/editions.md"
-    },
-    {
-      "basename": "Burp Suite",
-      "path": "tools/hacking/web app/Burp Suite/Burp Suite.md"
-    },
-    {
-      "basename": "FoxyProxy",
-      "path": "tools/hacking/web app/FoxyProxy/FoxyProxy.md"
-    },
-    {
-      "basename": "Proxy",
-      "path": "tools/hacking/web app/Burp Suite/modules/Proxy/Proxy.md"
-    },
-    {
-      "basename": "OWASP ZAP",
-      "path": "tools/hacking/web app/OWASP ZAP/OWASP ZAP.md"
-    },
-    {
-      "basename": "web app hacking tools",
-      "path": "tools/hacking/web app/web app hacking tools.md"
-    },
-    {
-      "basename": "network hacking tools",
-      "path": "tools/hacking/network/network hacking tools.md"
-    },
-    {
-      "basename": "Wireshark",
-      "path": "tools/hacking/network/wireshark/Wireshark.md"
-    },
-    {
-      "basename": "hacking tools",
-      "path": "tools/hacking/hacking tools.md"
-    },
-    {
-      "basename": "networking tools",
-      "path": "tools/networking/networking tools.md"
-    },
-    {
-      "basename": "ping",
-      "path": "tools/networking/ping.md"
-    },
-    {
-      "basename": "ICMP",
-      "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/ICMP.md"
-    },
-    {
-      "basename": "tools",
-      "path": "tools/tools.md"
-    },
-    {
-      "basename": "TLS",
-      "path": "cryptography/secure communication/secure communication protocols/TLS.md"
     }
   ],
   "omittedPaths": [],

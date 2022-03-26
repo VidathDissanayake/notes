@@ -1,6 +1,7 @@
 # Privately Outsourcing Computation
 
 > Vidath Dissanayake | Sri Lanka
+> Tags: #crypto/secure_com
 
 Privately outsourcing computation is when you send encrypted data to be processes to another party, they will do processing on the encrypted data without knowing what the actual data is and will return encrypted results.
 

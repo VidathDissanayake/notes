@@ -1,6 +1,7 @@
 # Clear-text Protocols
 
 > Vidath Dissanayake | Sri Lanka
+> Tags: #crypto/secure_com/protocols
 
 Clear-text protocols transmit data over the network without any encryption. This allows an attacker to eavesdrop on the conversation and perform malicious actions such as intercept, eavesdrop and mangle with ease.
 

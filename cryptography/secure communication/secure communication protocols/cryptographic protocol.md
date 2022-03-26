@@ -1,6 +1,7 @@
 # Cryptographic Protocols
 
 > Vidath Dissanayake | Sri Lanka
+> Tags: #crypto/secure_com/protocols
 
 Cryptographic protocols encrypt the information being transmitted to protect the communication.
 

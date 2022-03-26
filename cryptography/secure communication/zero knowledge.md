@@ -1,6 +1,7 @@
 # Zero Knowledge
 
 > Vidath Dissanayake | Sri Lanka
+> Tags: #crypto/secure_com
 
 Zero knowledge or zero knowledge proof of knowledge is when a party proves to another party that it has knowledge of something without letting the other party know what that something is.
 
