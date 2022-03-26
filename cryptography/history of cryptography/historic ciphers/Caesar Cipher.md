@@ -1,6 +1,7 @@
 # Caesar Cipher
 
 > Vidath Dissanayake | Sri Lanka
+> Tags: #crypto/history/ciphers
 
 Caesar Cipher is not technically a cipher, as it has no key. Instead, each character is shifted by 3.
 

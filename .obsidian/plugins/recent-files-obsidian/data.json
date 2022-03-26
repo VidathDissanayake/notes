@@ -1,16 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "cryptography",
+      "path": "cryptography/cryptography.md"
+    },
+    {
+      "basename": "history of cryptography",
+      "path": "cryptography/history of cryptography/history of cryptography.md"
+    },
+    {
+      "basename": "Vigenere Cipher",
+      "path": "cryptography/history of cryptography/historic ciphers/Vigenere Cipher.md"
+    },
+    {
+      "basename": "Substitution Cipher",
+      "path": "cryptography/history of cryptography/historic ciphers/Substitution Cipher.md"
+    },
+    {
+      "basename": "historic ciphers",
+      "path": "cryptography/history of cryptography/historic ciphers/historic ciphers.md"
+    },
+    {
+      "basename": "Caesar Cipher",
+      "path": "cryptography/history of cryptography/historic ciphers/Caesar Cipher.md"
+    },
+    {
+      "basename": "cryptocurrency",
+      "path": "cryptography/cryptocurrency/cryptocurrency.md"
+    },
+    {
+      "basename": "ciphertext only attack",
+      "path": "cryptography/attacks/ciphertext only attack.md"
+    },
+    {
+      "basename": "Windows",
+      "path": "windows/Windows.md"
+    },
+    {
+      "basename": "Wireshark Introduction - Study Guide",
+      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Introduction/Wireshark Introduction - Study Guide.md"
+    },
+    {
+      "basename": "The Information Security Field - Study Guide",
+      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Introduction/The Information Security Field - Study Guide.md"
+    },
+    {
+      "basename": "HTTP(S) Traffic Sniffing Lab",
+      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Introduction/HTTP(S) Traffic Sniffing Lab.md"
+    },
+    {
+      "basename": "Cryptography & VPNs - Study Guide",
+      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Introduction/Cryptography & VPNs - Study Guide.md"
+    },
+    {
+      "basename": "Binary Arithmetic Basics - Study Guide",
+      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Introduction/Binary Arithmetic Basics - Study Guide.md"
+    },
+    {
       "basename": "UoM",
       "path": "courses and certs/UoM/UoM.md"
     },
     {
-      "basename": "courses and certs",
-      "path": "courses and certs/courses and certs.md"
-    },
-    {
-      "basename": "UoM Web Design for Beginners",
-      "path": "courses and certs/UoM/Web Design for Begginers/UoM Web Design for Beginners.md"
+      "basename": "DNS",
+      "path": "network/the Internet/DNS.md"
     },
     {
       "basename": "1. Introduction to the World Wide Web, Internet and Protocols",
@@ -21,8 +73,12 @@
       "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP.md"
     },
     {
-      "basename": "DNS",
-      "path": "network/the Internet/DNS.md"
+      "basename": "UoM Web Design for Beginners",
+      "path": "courses and certs/UoM/Web Design for Begginers/UoM Web Design for Beginners.md"
+    },
+    {
+      "basename": "courses and certs",
+      "path": "courses and certs/courses and certs.md"
     },
     {
       "basename": "the Internet",
@@ -141,64 +197,8 @@
       "path": "tools/tools.md"
     },
     {
-      "basename": "Windows",
-      "path": "windows/Windows.md"
-    },
-    {
       "basename": "TLS",
       "path": "cryptography/secure communication/secure communication protocols/TLS.md"
-    },
-    {
-      "basename": "cryptographic protocol",
-      "path": "cryptography/secure communication/secure communication protocols/cryptographic protocol.md"
-    },
-    {
-      "basename": "SSL",
-      "path": "cryptography/secure communication/secure communication protocols/SSL.md"
-    },
-    {
-      "basename": "web development",
-      "path": "programming/Web/web development.md"
-    },
-    {
-      "basename": "decoding",
-      "path": "general/encoding and decoding/decoding.md"
-    },
-    {
-      "basename": "Internet Protocols (IP) - Study Guide",
-      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Neworking/Internet Protocols (IP) - Study Guide.md"
-    },
-    {
-      "basename": "IP header",
-      "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP header.md"
-    },
-    {
-      "basename": "structure of a protocol",
-      "path": "network/communication protocol/structure of a protocol/structure of a protocol.md"
-    },
-    {
-      "basename": "payload",
-      "path": "network/communication protocol/structure of a protocol/payload.md"
-    },
-    {
-      "basename": "header",
-      "path": "network/communication protocol/structure of a protocol/header.md"
-    },
-    {
-      "basename": "setting up HTTPS",
-      "path": "tools/hacking/web app/Burp Suite/modules/Proxy/setting up HTTPS.md"
-    },
-    {
-      "basename": "subnet mask",
-      "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/subnet mask.md"
-    },
-    {
-      "basename": "reserved IP addresses",
-      "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/reserved IP addresses.md"
-    },
-    {
-      "basename": "TCP IP Model",
-      "path": "network/reference models/TCP IP Model/TCP IP Model.md"
     }
   ],
   "omittedPaths": [],

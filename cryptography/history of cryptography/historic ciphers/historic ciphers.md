@@ -1,6 +1,7 @@
 # Historic Ciphers
 
 > Vidath Dissanayake | Sri Lanka
+> Tags: #crypto/history/ciphers
 
 There are many historic examples of ciphers. However, all of these are easily broken.
 

@@ -1,6 +1,7 @@
 # Cryptography
 
 > Vidath Dissanayake | Sri Lanka
+> Tags: #crypto
 
 Cryptography is using mathematical algorithms to encrypt data to protect data.
 
