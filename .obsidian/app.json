@@ -18,5 +18,12 @@
   "attachmentFolderPath": "./assets/images",
   "legacyEditor": false,
   "livePreview": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "useTab": true,
+  "vimMode": true,
+  "readableLineLength": false
 }
