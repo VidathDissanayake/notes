@@ -23,7 +23,13 @@
   "foldIndent": true,
   "showLineNumber": true,
   "spellcheck": true,
-  "useTab": true,
+  "useTab": false,
   "vimMode": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "showFrontmatter": true,
+  "lineWrap": true,
+  "spellcheckLanguages": [
+    "en-GB",
+    "en-GB-oxendict"
+  ]
 }

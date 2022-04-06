@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux",
+      "path": "OS/linux/Linux.md"
+    },
+    {
+      "basename": "tools",
+      "path": "tools/tools.md"
+    },
+    {
+      "basename": "Windows",
+      "path": "OS/windows/Windows.md"
+    },
+    {
+      "basename": "payload",
+      "path": "network/communication protocol/structure of a protocol/payload.md"
+    },
+    {
+      "basename": "scoping",
+      "path": "tools/hacking/web app/Burp Suite/modules/Proxy/scoping.md"
+    },
+    {
+      "basename": "principles of privileges",
+      "path": "hacking/principles and standards of infosec/principles of privileges.md"
+    },
+    {
       "basename": "network",
       "path": "network/network.md"
     },
@@ -21,20 +45,12 @@
       "path": "cryptography/secure communication/secure multi-party computation.md"
     },
     {
-      "basename": "Windows",
-      "path": "windows/Windows.md"
-    },
-    {
       "basename": "UoM",
       "path": "courses/UoM/UoM.md"
     },
     {
       "basename": "Inspector",
       "path": "tools/hacking/web app/Burp Suite/modules/Inspector.md"
-    },
-    {
-      "basename": "tools",
-      "path": "tools/tools.md"
     },
     {
       "basename": "1. Introduction to the World Wide Web, Internet and Protocols",
@@ -179,26 +195,6 @@
     {
       "basename": "URL",
       "path": "network/the Internet/URL.md"
-    },
-    {
-      "basename": "internet networks",
-      "path": "network/the Internet/assets/images/internet networks.png"
-    },
-    {
-      "basename": "mac address",
-      "path": "network/assets/images/mac address.png"
-    },
-    {
-      "basename": "ipv4 octets",
-      "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/assets/images/ipv4 octets.png"
-    },
-    {
-      "basename": "topology",
-      "path": "network/topology.md"
-    },
-    {
-      "basename": "HTTP",
-      "path": "network/communication protocol/TCP IP layer 4/OSI layer 7/HTTP.md"
     }
   ],
   "omittedPaths": [],

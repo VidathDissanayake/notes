@@ -7,7 +7,7 @@
 We can start the Burp Browser with the "Open Browser" button in the [Proxy](Proxy.md) tab:
 ![open browser](assets/images/open%20browser.png)
 
-If we are running on [Linux](../../../../../../linux/Linux.md) as the root user, [Burp Suite](../../Burp%20Suite.md) is unable to create a sandbox environment to start the Burp Browser in, causing it to throw an error and die:
+If we are running on [Linux](../../../../../../OS/linux/Linux.md) as the root user, [Burp Suite](../../Burp%20Suite.md) is unable to create a sandbox environment to start the Burp Browser in, causing it to throw an error and die:
 ![browser sandbox error](assets/images/browser%20sandbox%20error.png)
 
 There are two simple solutions to this:
