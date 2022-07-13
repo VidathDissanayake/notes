@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "2. Getting Started with Python",
+      "path": "courses/UoM/Python for Beginners/2. Getting Started with Python.md"
+    },
+    {
       "basename": "1. Introduction to Programming",
-      "path": "courses/UoM/Python for Beginners/1. Introduction to Programming/1. Introduction to Programming.md"
+      "path": "courses/UoM/Python for Beginners/1. Introduction to Programming.md"
     },
     {
       "basename": "1. Introduction to the World Wide Web, Internet and Protocols",
@@ -195,10 +199,6 @@
     {
       "basename": "the Internet",
       "path": "network/the Internet/the Internet.md"
-    },
-    {
-      "basename": "WWW",
-      "path": "network/the Internet/WWW.md"
     }
   ],
   "omittedPaths": [],
