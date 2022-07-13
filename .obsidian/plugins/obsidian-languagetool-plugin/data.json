@@ -4,5 +4,5 @@
   "shouldAutoCheck": true,
   "pickyMode": true,
   "staticLanguage": "en-GB",
-  "ruleOtherDisabledRules": "PASSIVE_VOICE"
+  "ruleOtherDisabledRules": "PASSIVE_VOICE,REP_PASSIVE_VOICE"
 }

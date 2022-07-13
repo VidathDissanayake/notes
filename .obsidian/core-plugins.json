@@ -3,12 +3,8 @@
   "global-search",
   "switcher",
   "graph",
-  "backlink",
-  "outgoing-link",
   "tag-pane",
   "page-preview",
-  "templates",
-  "note-composer",
   "command-palette",
   "slash-command",
   "editor-status",
@@ -16,10 +12,5 @@
   "random-note",
   "outline",
   "word-count",
-  "slides",
-  "audio-recorder",
-  "open-with-default-app",
-  "workspaces",
-  "publish",
-  "sync"
+  "open-with-default-app"
 ]

@@ -2,7 +2,15 @@
   "recentFiles": [
     {
       "basename": "1. Introduction to Programming",
-      "path": "courses/UoM/Python for Begginers/1. Introduction to Programming/1. Introduction to Programming.md"
+      "path": "courses/UoM/Python for Beginners/1. Introduction to Programming/1. Introduction to Programming.md"
+    },
+    {
+      "basename": "1. Introduction to the World Wide Web, Internet and Protocols",
+      "path": "courses/UoM/Web Design for Beginners/1. Introduction to the World Wide Web, Internet and Protocols/1. Introduction to the World Wide Web, Internet and Protocols.md"
+    },
+    {
+      "basename": "UoM Python for Beginners",
+      "path": "courses/UoM/Python for Beginners/UoM Python for Beginners.md"
     },
     {
       "basename": "Linux",
@@ -55,10 +63,6 @@
     {
       "basename": "Inspector",
       "path": "tools/hacking/web app/Burp Suite/modules/Inspector.md"
-    },
-    {
-      "basename": "1. Introduction to the World Wide Web, Internet and Protocols",
-      "path": "courses/UoM/Web Design for Begginers/1. Introduction to the World Wide Web, Internet and Protocols/1. Introduction to the World Wide Web, Internet and Protocols.md"
     },
     {
       "basename": "AND operation",
@@ -182,7 +186,7 @@
     },
     {
       "basename": "UoM Web Design for Beginners",
-      "path": "courses/UoM/Web Design for Begginers/UoM Web Design for Beginners.md"
+      "path": "courses/UoM/Web Design for Beginners/UoM Web Design for Beginners.md"
     },
     {
       "basename": "courses and certs",
@@ -195,10 +199,6 @@
     {
       "basename": "WWW",
       "path": "network/the Internet/WWW.md"
-    },
-    {
-      "basename": "URL",
-      "path": "network/the Internet/URL.md"
     }
   ],
   "omittedPaths": [],
