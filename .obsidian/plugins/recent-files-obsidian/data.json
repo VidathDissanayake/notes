@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "3. Python Programming – Basics",
+      "path": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md"
+    },
+    {
       "basename": "2. Getting Started with Python",
       "path": "courses/UoM/Python for Beginners/2. Getting Started with Python.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "courses and certs",
       "path": "courses/courses and certs.md"
-    },
-    {
-      "basename": "the Internet",
-      "path": "network/the Internet/the Internet.md"
     }
   ],
   "omittedPaths": [],
