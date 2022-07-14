@@ -5,12 +5,124 @@
       "path": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md"
     },
     {
-      "basename": "2. Getting Started with Python",
-      "path": "courses/UoM/Python for Beginners/2. Getting Started with Python.md"
+      "basename": "cryptocurrency",
+      "path": "cryptography/cryptocurrency/cryptocurrency.md"
     },
     {
       "basename": "1. Introduction to Programming",
       "path": "courses/UoM/Python for Beginners/1. Introduction to Programming.md"
+    },
+    {
+      "basename": "SSL",
+      "path": "cryptography/secure communication/secure communication protocols/SSL.md"
+    },
+    {
+      "basename": "Burp extensions",
+      "path": "tools/hacking/web app/Burp Suite/modules/Extender/Burp extensions.md"
+    },
+    {
+      "basename": "UDP",
+      "path": "network/communication protocol/TCP IP layer 3/OSI layer 4/UDP.md"
+    },
+    {
+      "basename": "Markdown list",
+      "path": "markdown/Markdown list.md"
+    },
+    {
+      "basename": "secure communication",
+      "path": "cryptography/secure communication/secure communication.md"
+    },
+    {
+      "basename": "URL",
+      "path": "network/the Internet/URL.md"
+    },
+    {
+      "basename": "assembly",
+      "path": "programming/assembly/assembly.md"
+    },
+    {
+      "basename": "HTTP",
+      "path": "network/communication protocol/TCP IP layer 4/OSI layer 7/HTTP.md"
+    },
+    {
+      "basename": "Biba model",
+      "path": "hacking/principles and standards of infosec/CIA triad/Biba model.md"
+    },
+    {
+      "basename": "network hacking tools",
+      "path": "tools/hacking/network/network hacking tools.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "programming/SQL/SQL.md"
+    },
+    {
+      "basename": "ICMP",
+      "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/ICMP.md"
+    },
+    {
+      "basename": "Markdown code",
+      "path": "markdown/Markdown code.md"
+    },
+    {
+      "basename": "networking tools",
+      "path": "tools/networking/networking tools.md"
+    },
+    {
+      "basename": "private network",
+      "path": "network/types of networks/private network.md"
+    },
+    {
+      "basename": "Repeater",
+      "path": "tools/hacking/web app/Burp Suite/modules/Repeater/Repeater.md"
+    },
+    {
+      "basename": "frame",
+      "path": "network/reference models/OSI Model/PDU/frame.md"
+    },
+    {
+      "basename": "Target",
+      "path": "tools/hacking/web app/Burp Suite/modules/Target/Target.md"
+    },
+    {
+      "basename": "binary conversion",
+      "path": "general/encoding and decoding/binary/binary conversion.md"
+    },
+    {
+      "basename": "bit",
+      "path": "network/reference models/OSI Model/PDU/bit.md"
+    },
+    {
+      "basename": "Protocols - Study Guide",
+      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Neworking/Protocols - Study Guide.md"
+    },
+    {
+      "basename": "trusted authority",
+      "path": "cryptography/secure communication/trusted authority.md"
+    },
+    {
+      "basename": "UoM Web Design for Beginners",
+      "path": "courses/UoM/Web Design for Beginners/UoM Web Design for Beginners.md"
+    },
+    {
+      "basename": "courses and certs",
+      "path": "courses/courses and certs.md"
+    },
+    {
+      "basename": "clear-text protocol",
+      "path": "cryptography/secure communication/secure communication protocols/clear-text protocol.md"
+    },
+    {
+      "basename": "CVE",
+      "path": "hacking/attacks and vulnerabilities/cve/CVE.md"
+    },
+    {
+      "basename": "historic ciphers",
+      "path": "cryptography/history of cryptography/historic ciphers/historic ciphers.md"
+    },
+    {
+      "basename": "2. Getting Started with Python",
+      "path": "courses/UoM/Python for Beginners/2. Getting Started with Python.md"
     },
     {
       "basename": "1. Introduction to the World Wide Web, Internet and Protocols",
@@ -87,118 +199,6 @@
     {
       "basename": "TLS",
       "path": "cryptography/secure communication/secure communication protocols/TLS.md"
-    },
-    {
-      "basename": "SSL",
-      "path": "cryptography/secure communication/secure communication protocols/SSL.md"
-    },
-    {
-      "basename": "cryptographic tunnel",
-      "path": "cryptography/secure communication/secure communication protocols/cryptographic tunnel.md"
-    },
-    {
-      "basename": "cryptographic protocol",
-      "path": "cryptography/secure communication/secure communication protocols/cryptographic protocol.md"
-    },
-    {
-      "basename": "clear-text protocol",
-      "path": "cryptography/secure communication/secure communication protocols/clear-text protocol.md"
-    },
-    {
-      "basename": "symmetric encryption",
-      "path": "cryptography/secure communication/symmetric encryption.md"
-    },
-    {
-      "basename": "cryptography",
-      "path": "cryptography/cryptography.md"
-    },
-    {
-      "basename": "zero knowledge",
-      "path": "cryptography/secure communication/zero knowledge.md"
-    },
-    {
-      "basename": "web traffic",
-      "path": "cryptography/secure communication/web traffic.md"
-    },
-    {
-      "basename": "trusted authority",
-      "path": "cryptography/secure communication/trusted authority.md"
-    },
-    {
-      "basename": "secure communication",
-      "path": "cryptography/secure communication/secure communication.md"
-    },
-    {
-      "basename": "anonymous communication",
-      "path": "cryptography/secure communication/anonymous communication.md"
-    },
-    {
-      "basename": "digital signature",
-      "path": "cryptography/secure communication/digital signature.md"
-    },
-    {
-      "basename": "privately outsourcing computation",
-      "path": "cryptography/secure communication/privately outsourcing computation.md"
-    },
-    {
-      "basename": "Cryptography & VPNs - Study Guide",
-      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/Cryptography & VPNs - Study Guide.md"
-    },
-    {
-      "basename": "history of cryptography",
-      "path": "cryptography/history of cryptography/history of cryptography.md"
-    },
-    {
-      "basename": "Vigenere Cipher",
-      "path": "cryptography/history of cryptography/historic ciphers/Vigenere Cipher.md"
-    },
-    {
-      "basename": "Substitution Cipher",
-      "path": "cryptography/history of cryptography/historic ciphers/Substitution Cipher.md"
-    },
-    {
-      "basename": "historic ciphers",
-      "path": "cryptography/history of cryptography/historic ciphers/historic ciphers.md"
-    },
-    {
-      "basename": "Caesar Cipher",
-      "path": "cryptography/history of cryptography/historic ciphers/Caesar Cipher.md"
-    },
-    {
-      "basename": "cryptocurrency",
-      "path": "cryptography/cryptocurrency/cryptocurrency.md"
-    },
-    {
-      "basename": "ciphertext only attack",
-      "path": "cryptography/attacks/ciphertext only attack.md"
-    },
-    {
-      "basename": "Wireshark Introduction - Study Guide",
-      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/Wireshark Introduction - Study Guide.md"
-    },
-    {
-      "basename": "The Information Security Field - Study Guide",
-      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/The Information Security Field - Study Guide.md"
-    },
-    {
-      "basename": "HTTP(S) Traffic Sniffing Lab",
-      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/HTTP(S) Traffic Sniffing Lab.md"
-    },
-    {
-      "basename": "Binary Arithmetic Basics - Study Guide",
-      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/Binary Arithmetic Basics - Study Guide.md"
-    },
-    {
-      "basename": "DNS",
-      "path": "network/the Internet/DNS.md"
-    },
-    {
-      "basename": "UoM Web Design for Beginners",
-      "path": "courses/UoM/Web Design for Beginners/UoM Web Design for Beginners.md"
-    },
-    {
-      "basename": "courses and certs",
-      "path": "courses/courses and certs.md"
     }
   ],
   "omittedPaths": [],
