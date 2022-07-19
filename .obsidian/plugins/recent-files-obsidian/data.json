@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "note taking",
+      "path": "courses/TCM/Practical Ethical Hacking - The Complete Course/note taking.md"
+    },
+    {
       "basename": "3. Python Programming – Basics",
       "path": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "VPN",
       "path": "cryptography/secure communication/secure communication protocols/VPN.md"
-    },
-    {
-      "basename": "TLS",
-      "path": "cryptography/secure communication/secure communication protocols/TLS.md"
     }
   ],
   "omittedPaths": [],
