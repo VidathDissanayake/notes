@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "PTS",
+      "path": "courses/INE/PTS/PTS.md"
+    },
+    {
       "basename": "Penetration Testing Prerequisites",
       "path": "courses/INE/PTS/Penetration Testing Prerequisites/Penetration Testing Prerequisites.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "payload",
       "path": "network/communication protocol/structure of a protocol/payload.md"
-    },
-    {
-      "basename": "scoping",
-      "path": "tools/hacking/web app/Burp Suite/modules/Proxy/scoping.md"
     }
   ],
   "omittedPaths": [],
