@@ -1,20 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "note taking",
-      "path": "courses/TCM/Practical Ethical Hacking - The Complete Course/note taking.md"
+      "basename": "Binary Arithmetic Basics - Study Guide",
+      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/Binary Arithmetic Basics - Study Guide.md"
+    },
+    {
+      "basename": "1. Introduction to the World Wide Web, Internet and Protocols",
+      "path": "courses/UoM/Web Design for Beginners/1. Introduction to the World Wide Web, Internet and Protocols/1. Introduction to the World Wide Web, Internet and Protocols.md"
+    },
+    {
+      "basename": "UoM Python for Beginners",
+      "path": "courses/UoM/Python for Beginners/UoM Python for Beginners.md"
     },
     {
       "basename": "3. Python Programming – Basics",
       "path": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md"
     },
     {
-      "basename": "cryptocurrency",
-      "path": "cryptography/cryptocurrency/cryptocurrency.md"
+      "basename": "2. Getting Started with Python",
+      "path": "courses/UoM/Python for Beginners/2. Getting Started with Python.md"
     },
     {
       "basename": "1. Introduction to Programming",
       "path": "courses/UoM/Python for Beginners/1. Introduction to Programming.md"
+    },
+    {
+      "basename": "note taking",
+      "path": "courses/TCM/Practical Ethical Hacking - The Complete Course/note taking.md"
+    },
+    {
+      "basename": "UoM Web Design for Beginners",
+      "path": "courses/UoM/Web Design for Beginners/UoM Web Design for Beginners.md"
+    },
+    {
+      "basename": "UoM",
+      "path": "courses/UoM/UoM.md"
+    },
+    {
+      "basename": "DNS",
+      "path": "network/the Internet/DNS.md"
+    },
+    {
+      "basename": "IP",
+      "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP.md"
+    },
+    {
+      "basename": "Wireshark Introduction - Study Guide",
+      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/Wireshark Introduction - Study Guide.md"
+    },
+    {
+      "basename": "The Information Security Field - Study Guide",
+      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/The Information Security Field - Study Guide.md"
+    },
+    {
+      "basename": "Cryptography & VPNs - Study Guide",
+      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/Cryptography & VPNs - Study Guide.md"
+    },
+    {
+      "basename": "courses and certs",
+      "path": "courses/courses and certs.md"
+    },
+    {
+      "basename": "INE",
+      "path": "courses/INE/INE.md"
+    },
+    {
+      "basename": "cryptocurrency",
+      "path": "cryptography/cryptocurrency/cryptocurrency.md"
     },
     {
       "basename": "SSL",
@@ -105,14 +157,6 @@
       "path": "cryptography/secure communication/trusted authority.md"
     },
     {
-      "basename": "UoM Web Design for Beginners",
-      "path": "courses/UoM/Web Design for Beginners/UoM Web Design for Beginners.md"
-    },
-    {
-      "basename": "courses and certs",
-      "path": "courses/courses and certs.md"
-    },
-    {
       "basename": "clear-text protocol",
       "path": "cryptography/secure communication/secure communication protocols/clear-text protocol.md"
     },
@@ -123,18 +167,6 @@
     {
       "basename": "historic ciphers",
       "path": "cryptography/history of cryptography/historic ciphers/historic ciphers.md"
-    },
-    {
-      "basename": "2. Getting Started with Python",
-      "path": "courses/UoM/Python for Beginners/2. Getting Started with Python.md"
-    },
-    {
-      "basename": "1. Introduction to the World Wide Web, Internet and Protocols",
-      "path": "courses/UoM/Web Design for Beginners/1. Introduction to the World Wide Web, Internet and Protocols/1. Introduction to the World Wide Web, Internet and Protocols.md"
-    },
-    {
-      "basename": "UoM Python for Beginners",
-      "path": "courses/UoM/Python for Beginners/UoM Python for Beginners.md"
     },
     {
       "basename": "Linux",
@@ -167,38 +199,6 @@
     {
       "basename": "IP address",
       "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP address.md"
-    },
-    {
-      "basename": "IP header",
-      "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP header.md"
-    },
-    {
-      "basename": "IP",
-      "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP.md"
-    },
-    {
-      "basename": "secure multi-party computation",
-      "path": "cryptography/secure communication/secure multi-party computation.md"
-    },
-    {
-      "basename": "UoM",
-      "path": "courses/UoM/UoM.md"
-    },
-    {
-      "basename": "Inspector",
-      "path": "tools/hacking/web app/Burp Suite/modules/Inspector.md"
-    },
-    {
-      "basename": "AND operation",
-      "path": "general/arithmetic/bitwise/AND operation.md"
-    },
-    {
-      "basename": "embedded system",
-      "path": "embedded systems/embedded system.md"
-    },
-    {
-      "basename": "VPN",
-      "path": "cryptography/secure communication/secure communication protocols/VPN.md"
     }
   ],
   "omittedPaths": [],

@@ -1,3 +1,3 @@
-# Cources and Certifications
+# Courses and Certifications
 
 > Vidath Dissanayake | Sri Lanka
