@@ -1,6 +1,7 @@
 # Protocols
 
 > Vidath Dissanayake | Sri Lanka
+> Tags: #courses #courses/INE #courses/INE/PTS
 
 Refer to [communication protocol](../../../../../network/communication%20protocol/communication%20protocol.md).
 

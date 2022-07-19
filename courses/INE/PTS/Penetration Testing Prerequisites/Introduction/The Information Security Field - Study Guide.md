@@ -1,6 +1,7 @@
 # The Information Security Field
 
 > Vidath Dissanayake | Sri Lanka
+> Tags: #courses #courses/INE #courses/INE/PTS
 
 ## Infosec Culture
 

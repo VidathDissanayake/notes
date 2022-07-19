@@ -1,6 +1,7 @@
 # HTTP(S) Traffic Sniffing Lab
 
 > Vidath Dissanayake | Sri Lanka
+> Tags: #courses #courses/INE #courses/INE/PTS
 
 After capturing the login with [HTTP](../../../../../network/communication%20protocol/TCP%20IP%20layer%204/OSI%20layer%207/HTTP.md), we can see the login information in clear text.
 

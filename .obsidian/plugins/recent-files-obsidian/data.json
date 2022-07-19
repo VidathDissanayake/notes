@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "Penetration Testing Prerequisites",
+      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Penetration Testing Prerequisites.md"
+    },
+    {
+      "basename": "Protocols - Study Guide",
+      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Neworking/Protocols - Study Guide.md"
+    },
+    {
+      "basename": "Internet Protocols (IP) - Study Guide",
+      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Neworking/Internet Protocols (IP) - Study Guide.md"
+    },
+    {
+      "basename": "Wireshark Introduction - Study Guide",
+      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/Wireshark Introduction - Study Guide.md"
+    },
+    {
+      "basename": "The Information Security Field - Study Guide",
+      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/The Information Security Field - Study Guide.md"
+    },
+    {
+      "basename": "HTTP(S) Traffic Sniffing Lab",
+      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/HTTP(S) Traffic Sniffing Lab.md"
+    },
+    {
+      "basename": "Cryptography & VPNs - Study Guide",
+      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/Cryptography & VPNs - Study Guide.md"
+    },
+    {
       "basename": "Binary Arithmetic Basics - Study Guide",
       "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/Binary Arithmetic Basics - Study Guide.md"
+    },
+    {
+      "basename": "note taking",
+      "path": "courses/TCM/Practical Ethical Hacking - The Complete Course/note taking.md"
+    },
+    {
+      "basename": "1. Introduction to Programming",
+      "path": "courses/UoM/Python for Beginners/1. Introduction to Programming.md"
+    },
+    {
+      "basename": "2. Getting Started with Python",
+      "path": "courses/UoM/Python for Beginners/2. Getting Started with Python.md"
+    },
+    {
+      "basename": "3. Python Programming – Basics",
+      "path": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md"
+    },
+    {
+      "basename": "INE",
+      "path": "courses/INE/INE.md"
     },
     {
       "basename": "1. Introduction to the World Wide Web, Internet and Protocols",
@@ -11,22 +59,6 @@
     {
       "basename": "UoM Python for Beginners",
       "path": "courses/UoM/Python for Beginners/UoM Python for Beginners.md"
-    },
-    {
-      "basename": "3. Python Programming – Basics",
-      "path": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md"
-    },
-    {
-      "basename": "2. Getting Started with Python",
-      "path": "courses/UoM/Python for Beginners/2. Getting Started with Python.md"
-    },
-    {
-      "basename": "1. Introduction to Programming",
-      "path": "courses/UoM/Python for Beginners/1. Introduction to Programming.md"
-    },
-    {
-      "basename": "note taking",
-      "path": "courses/TCM/Practical Ethical Hacking - The Complete Course/note taking.md"
     },
     {
       "basename": "UoM Web Design for Beginners",
@@ -45,24 +77,8 @@
       "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP.md"
     },
     {
-      "basename": "Wireshark Introduction - Study Guide",
-      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/Wireshark Introduction - Study Guide.md"
-    },
-    {
-      "basename": "The Information Security Field - Study Guide",
-      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/The Information Security Field - Study Guide.md"
-    },
-    {
-      "basename": "Cryptography & VPNs - Study Guide",
-      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/Cryptography & VPNs - Study Guide.md"
-    },
-    {
       "basename": "courses and certs",
       "path": "courses/courses and certs.md"
-    },
-    {
-      "basename": "INE",
-      "path": "courses/INE/INE.md"
     },
     {
       "basename": "cryptocurrency",
@@ -93,8 +109,8 @@
       "path": "network/the Internet/URL.md"
     },
     {
-      "basename": "assembly",
-      "path": "programming/assembly/assembly.md"
+      "basename": "Assembly",
+      "path": "programming/Assembly/Assembly.md"
     },
     {
       "basename": "HTTP",
@@ -149,10 +165,6 @@
       "path": "network/reference models/OSI Model/PDU/bit.md"
     },
     {
-      "basename": "Protocols - Study Guide",
-      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Neworking/Protocols - Study Guide.md"
-    },
-    {
       "basename": "trusted authority",
       "path": "cryptography/secure communication/trusted authority.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "scoping",
       "path": "tools/hacking/web app/Burp Suite/modules/Proxy/scoping.md"
-    },
-    {
-      "basename": "principles of privileges",
-      "path": "hacking/principles and standards of infosec/principles of privileges.md"
-    },
-    {
-      "basename": "network",
-      "path": "network/network.md"
-    },
-    {
-      "basename": "IP address",
-      "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP address.md"
     }
   ],
   "omittedPaths": [],

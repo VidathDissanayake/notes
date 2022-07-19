@@ -1,7 +1,7 @@
 # Binary Arithmetic Basics
 
 > Vidath Dissanayake | Sri Lanka
-> Tags:
+> Tags: #courses #courses/INE #courses/INE/PTS
 > Links: [binary](../../../../../general/encoding%20and%20decoding/binary/binary.md) [decimal](../../../../../general/encoding%20and%20decoding/decimal/decimal.md) [binary conversion](../../../../../general/encoding%20and%20decoding/binary/binary%20conversion.md) [bitwise operation](../../../../../general/arithmetic/bitwise/bitwise%20operation.md) [hex](../../../../../general/encoding%20and%20decoding/hex/hex.md) [hex conversion](../../../../../general/encoding%20and%20decoding/hex/hex%20conversion.md)
 
 Refer to [binary](../../../../../general/encoding%20and%20decoding/binary/binary.md)
