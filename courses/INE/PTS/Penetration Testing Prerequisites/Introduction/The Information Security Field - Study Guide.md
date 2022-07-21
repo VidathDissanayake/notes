@@ -1,13 +1,23 @@
 # The Information Security Field
 
 > Vidath Dissanayake | Sri Lanka
-> Tags: #courses #courses/INE #courses/INE/PTS
+> Tags: #courses #courses/INE #courses/INE/PTS #coures/INE/PTS/PTP
+> Links: [Penetration Testing Prerequisites](../Penetration%20Testing%20Prerequisites.md)
+> Sources:
+
+---
 
 ## Infosec Culture
 
-Refer to [hacking](../../../../../hacking/hacking.md).
+> Links: [hacking](../../../../../hacking/hacking.md)
+> Sources:
+
+---
 
 ## Career Opportunities
+
+> Links: [network](../../../../../network/network.md) [tools](../../../../../tools/tools.md) [reverse engineering](../../../../../reverse%20engineering/reverse%20engineering.md)
+> Sources:
 
 Companies and governments are using technology to store, process confidential data on computers and mobile devices and transfer that data over public and private networks. Companies must protect this sensitive data, and they pay (or should pay) a premium to safeguard this data.
 
@@ -24,9 +34,12 @@ To test these defences, a penetration tester should be hired. Penetration tester
 
 The demand for penetration testers is on a steady growth. To have a successful pentesting career, you need to be passionate, skilled, and hungry for knowledge.
 
+---
+
 ## Information Security Terms
 
-Refer to [types of hackers](../../../../../hacking/types%20of%20hackers/types%20of%20hackers.md).
+> Links: [types of hackers](../../../../../hacking/types%20of%20hackers/types%20of%20hackers.md) [network](../../../../../network/network.md) [priv esc](../../../../../hacking/attacks%20and%20vulnerabilities/multiple/priv%20esc.md) [DoS](../../../../../hacking/attacks%20and%20vulnerabilities/multiple/DoS.md) [RCE](../../../../../hacking/attacks%20and%20vulnerabilities/multiple/RCE.md)
+> Sources: 
 
 A user is someone who uses the computer system. It can be an employee of the client or an external user. A malicious user is someone who misuses or attacks the computer system and applications.
 
@@ -40,8 +53,4 @@ An attack is any kind of action aimed at misuse or taking control over a compute
 - Causing denial of service.
 - Eavesdropping on communications.
 
-Refer to [priv esc](../../../../../hacking/attacks%20and%20vulnerabilities/multiple/priv%20esc.md).
-
-Refer to [DoS](../../../../../hacking/attacks%20and%20vulnerabilities/multiple/DoS.md).
-
-Refer to [RCE](../../../../../hacking/attacks%20and%20vulnerabilities/multiple/RCE.md).
+---

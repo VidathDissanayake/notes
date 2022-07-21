@@ -1,22 +1,36 @@
 # Protocols
 
 > Vidath Dissanayake | Sri Lanka
-> Tags: #courses #courses/INE #courses/INE/PTS
+> Tags: #courses #courses/INE #courses/INE/PTS  #coures/INE/PTS/PTP
+> Links: [Penetration Testing Prerequisites](../Penetration%20Testing%20Prerequisites.md) [communication protocol](../../../../../network/communication%20protocol/communication%20protocol.md)
+> Sources:
 
-Refer to [communication protocol](../../../../../network/communication%20protocol/communication%20protocol.md).
+---
 
 ## Packets
 
-Refer to [packet](../../../../../network/reference%20models/OSI%20Model/PDU/packet.md), [structure of a protocol](../../../../../network/communication%20protocol/structure%20of%20a%20protocol/structure%20of%20a%20protocol.md), [IP](../../../../../network/communication%20protocol/TCP%20IP%20layer%202/OSI%20layer%203/IP/IP.md).
+> Links: [packet](../../../../../network/reference%20models/OSI%20Model/PDU/packet.md) [structure of a protocol](../../../../../network/communication%20protocol/structure%20of%20a%20protocol/structure%20of%20a%20protocol.md) [IP](../../../../../network/communication%20protocol/TCP%20IP%20layer%202/OSI%20layer%203/IP/IP.md)
+> Sources:
+
+---
 
 ## Protocol Layers
 
-Refer to [reference model](../../../../../network/reference%20models/reference%20model.md), [TCP IP Model](../../../../../network/reference%20models/TCP%20IP%20Model/TCP%20IP%20Model.md).
+> Links: [reference model](../../../../../network/reference%20models/reference%20model.md) [TCP IP Model](../../../../../network/reference%20models/TCP%20IP%20Model/TCP%20IP%20Model.md)
+> Sources: 
+
+---
 
 ## ISO/OSI
 
-Refer to [OSI Model](../../../../../network/reference%20models/OSI%20Model/OSI%20Model.md).
+> Links: [OSI Model](../../../../../network/reference%20models/OSI%20Model/OSI%20Model.md)
+> Sources: 
+
+---
 
 ## Encapsulation
 
-Refer to [encapsulation](../../../../../network/reference%20models/encapsulation.md).
+> Links: [encapsulation](../../../../../network/reference%20models/encapsulation.md)
+> Sources: 
+
+---

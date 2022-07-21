@@ -1,23 +1,36 @@
 # Binary Arithmetic Basics
 
 > Vidath Dissanayake | Sri Lanka
-> Tags: #courses #courses/INE #courses/INE/PTS
-> Links: [binary](../../../../../general/encoding%20and%20decoding/binary/binary.md) [decimal](../../../../../general/encoding%20and%20decoding/decimal/decimal.md) [binary conversion](../../../../../general/encoding%20and%20decoding/binary/binary%20conversion.md) [bitwise operation](../../../../../general/arithmetic/bitwise/bitwise%20operation.md) [hex](../../../../../general/encoding%20and%20decoding/hex/hex.md) [hex conversion](../../../../../general/encoding%20and%20decoding/hex/hex%20conversion.md)
+> Tags: #courses #courses/INE #courses/INE/PTS #coures/INE/PTS/PTP
+> Links: [Penetration Testing Prerequisites](../Penetration%20Testing%20Prerequisites.md)
+> Sources:
 
-Refer to [binary](../../../../../general/encoding%20and%20decoding/binary/binary.md)
+---
 
 ## Decimal and Binary Bases
 
-Refer to [binary](../../../../../general/encoding%20and%20decoding/binary/binary.md), [decimal](../../../../../general/encoding%20and%20decoding/decimal/decimal.md).
+> Links: [binary](../../../../../general/encoding%20and%20decoding/binary/binary.md) [decimal](../../../../../general/encoding%20and%20decoding/decimal/decimal.md)
+> Sources:
+
+---
 
 ## Converting from and to Binary
 
-Refer to [binary conversion](../../../../../general/encoding%20and%20decoding/binary/binary%20conversion.md).
+> Links: [binary conversion](../../../../../general/encoding%20and%20decoding/binary/binary%20conversion.md)
+> Sources:
+
+---
 
 ## Bitwise Operations
 
-Refer to [bitwise operation](../../../../../general/arithmetic/bitwise/bitwise%20operation.md).
+> Links: [bitwise operation](../../../../../general/arithmetic/bitwise/bitwise%20operation.md)
+> Sources:
+
+---
 
 ## Hexadecimal Arithmetic
 
-Refer to [hex](../../../../../general/encoding%20and%20decoding/hex/hex.md), [hex conversion](../../../../../general/encoding%20and%20decoding/hex/hex%20conversion.md).
+> Links: [hex](../../../../../general/encoding%20and%20decoding/hex/hex.md) [hex conversion](../../../../../general/encoding%20and%20decoding/hex/hex%20conversion.md)
+> Sources:
+
+---

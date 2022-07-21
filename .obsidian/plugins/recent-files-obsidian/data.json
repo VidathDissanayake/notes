@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Penetration Testing Prerequisites",
-      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Penetration Testing Prerequisites.md"
+      "basename": "2. Getting Started with Python",
+      "path": "courses/UoM/Python for Beginners/2. Getting Started with Python.md"
     },
     {
-      "basename": "PTS",
-      "path": "courses/INE/PTS/PTS.md"
+      "basename": "1. Introduction to Programming",
+      "path": "courses/UoM/Python for Beginners/1. Introduction to Programming.md"
+    },
+    {
+      "basename": "TCM Academy",
+      "path": "courses/TCM/TCM Academy.md"
+    },
+    {
+      "basename": "Practical Ethical Hacking - The Complete Course",
+      "path": "courses/TCM/Practical Ethical Hacking - The Complete Course/Practical Ethical Hacking - The Complete Course.md"
+    },
+    {
+      "basename": "note taking",
+      "path": "courses/TCM/Practical Ethical Hacking - The Complete Course/note taking.md"
+    },
+    {
+      "basename": "Penetration Testing Prerequisites",
+      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Penetration Testing Prerequisites.md"
     },
     {
       "basename": "Protocols - Study Guide",
@@ -15,6 +31,38 @@
     {
       "basename": "Internet Protocols (IP) - Study Guide",
       "path": "courses/INE/PTS/Penetration Testing Prerequisites/Neworking/Internet Protocols (IP) - Study Guide.md"
+    },
+    {
+      "basename": "courses",
+      "path": "courses/courses.md"
+    },
+    {
+      "basename": "UoM",
+      "path": "courses/UoM/UoM.md"
+    },
+    {
+      "basename": "Web Design for Beginners",
+      "path": "courses/UoM/Web Design for Beginners/Web Design for Beginners.md"
+    },
+    {
+      "basename": "1. Introduction to the World Wide Web, Internet and Protocols",
+      "path": "courses/UoM/Web Design for Beginners/1. Introduction to the World Wide Web, Internet and Protocols/1. Introduction to the World Wide Web, Internet and Protocols.md"
+    },
+    {
+      "basename": "Python for Beginners",
+      "path": "courses/UoM/Python for Beginners/Python for Beginners.md"
+    },
+    {
+      "basename": "3. Python Programming – Basics",
+      "path": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md"
+    },
+    {
+      "basename": "INE",
+      "path": "courses/INE/INE.md"
+    },
+    {
+      "basename": "PTS",
+      "path": "courses/INE/PTS/PTS.md"
     },
     {
       "basename": "Wireshark Introduction - Study Guide",
@@ -37,40 +85,16 @@
       "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/Binary Arithmetic Basics - Study Guide.md"
     },
     {
-      "basename": "note taking",
-      "path": "courses/TCM/Practical Ethical Hacking - The Complete Course/note taking.md"
+      "basename": "encapsulation",
+      "path": "network/reference models/encapsulation.md"
     },
     {
-      "basename": "1. Introduction to Programming",
-      "path": "courses/UoM/Python for Beginners/1. Introduction to Programming.md"
+      "basename": "Wireshark",
+      "path": "tools/hacking/network/wireshark/Wireshark.md"
     },
     {
-      "basename": "2. Getting Started with Python",
-      "path": "courses/UoM/Python for Beginners/2. Getting Started with Python.md"
-    },
-    {
-      "basename": "3. Python Programming – Basics",
-      "path": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md"
-    },
-    {
-      "basename": "INE",
-      "path": "courses/INE/INE.md"
-    },
-    {
-      "basename": "1. Introduction to the World Wide Web, Internet and Protocols",
-      "path": "courses/UoM/Web Design for Beginners/1. Introduction to the World Wide Web, Internet and Protocols/1. Introduction to the World Wide Web, Internet and Protocols.md"
-    },
-    {
-      "basename": "UoM Python for Beginners",
-      "path": "courses/UoM/Python for Beginners/UoM Python for Beginners.md"
-    },
-    {
-      "basename": "UoM Web Design for Beginners",
-      "path": "courses/UoM/Web Design for Beginners/UoM Web Design for Beginners.md"
-    },
-    {
-      "basename": "UoM",
-      "path": "courses/UoM/UoM.md"
+      "basename": "priv esc",
+      "path": "hacking/attacks and vulnerabilities/multiple/priv esc.md"
     },
     {
       "basename": "DNS",
@@ -79,10 +103,6 @@
     {
       "basename": "IP",
       "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP.md"
-    },
-    {
-      "basename": "courses and certs",
-      "path": "courses/courses and certs.md"
     },
     {
       "basename": "cryptocurrency",
@@ -179,26 +199,6 @@
     {
       "basename": "CVE",
       "path": "hacking/attacks and vulnerabilities/cve/CVE.md"
-    },
-    {
-      "basename": "historic ciphers",
-      "path": "cryptography/history of cryptography/historic ciphers/historic ciphers.md"
-    },
-    {
-      "basename": "Linux",
-      "path": "OS/linux/Linux.md"
-    },
-    {
-      "basename": "tools",
-      "path": "tools/tools.md"
-    },
-    {
-      "basename": "Windows",
-      "path": "OS/windows/Windows.md"
-    },
-    {
-      "basename": "payload",
-      "path": "network/communication protocol/structure of a protocol/payload.md"
     }
   ],
   "omittedPaths": [],

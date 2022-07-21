@@ -1,4 +1,8 @@
 # University of Moratuwa (UoM)
 
 > Vidath Dissanayake | Sri Lanka
-> Tags: #courses/UoM 
+> Tags: #courses #courses/UoM
+> Links: [courses](../courses.md)
+> Sources:
+
+---

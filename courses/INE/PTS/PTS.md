@@ -1,5 +1,7 @@
 # PTS
 
 > Vidath Dissanayake | Sri Lanka
-> Tags:
-> Links:
+> Tags: #courses #courses/INE #courses/INE/PTS 
+> Links: [INE](../INE.md)
+
+---
