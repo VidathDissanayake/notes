@@ -1,9 +1,13 @@
 # Substitution Cipher
 
 > Vidath Dissanayake | Sri Lanka
-> Tags: #crypto/history/ciphers
+> Tags: #crypto #crypto/history #crypto/history/ciphers
+> Links: [history of cryptography](../history%20of%20cryptography.md) [ciphertext only attack](../../cryptographic%20attacks/ciphertext%20only%20attack.md)
+> Sources:
 
 A substitution cipher is a symmetric cipher where each character is mapped to a different character. This mapping is defined in the key called the substitution table.
+
+---
 
 ## Breaking Substitution Cipher
 
@@ -15,4 +19,6 @@ So, to crack the cipher, we can use letter frequencies.
 
 Other letters appear almost the same amount, apart from rate letters such as "q" and "x". So, to decrypt the rest, we can use common letter pairs (digrams) and letter triplets (trigrams) and so on...
 
-So, substitution cipher is vulnerable to the worst possible type of attack, which is a [ciphertext only attack](../../attacks/ciphertext%20only%20attack.md).
+So, substitution cipher is vulnerable to the worst possible type of attack, which is a [ciphertext only attack](../../cryptographic%20attacks/ciphertext%20only%20attack.md).
+
+---

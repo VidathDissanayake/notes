@@ -1,12 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "2. Getting Started with Python",
-      "path": "courses/UoM/Python for Beginners/2. Getting Started with Python.md"
+      "basename": "history of cryptography",
+      "path": "cryptography/history of cryptography/history of cryptography.md"
+    },
+    {
+      "basename": "Vigenere Cipher",
+      "path": "cryptography/history of cryptography/historic ciphers/Vigenere Cipher.md"
+    },
+    {
+      "basename": "Substitution Cipher",
+      "path": "cryptography/history of cryptography/historic ciphers/Substitution Cipher.md"
+    },
+    {
+      "basename": "historic ciphers",
+      "path": "cryptography/history of cryptography/historic ciphers/historic ciphers.md"
+    },
+    {
+      "basename": "Caesar Cipher",
+      "path": "cryptography/history of cryptography/historic ciphers/Caesar Cipher.md"
+    },
+    {
+      "basename": "cryptographic attacks",
+      "path": "cryptography/cryptographic attacks/cryptographic attacks.md"
+    },
+    {
+      "basename": "ciphertext only attack",
+      "path": "cryptography/cryptographic attacks/ciphertext only attack.md"
+    },
+    {
+      "basename": "cryptocurrency",
+      "path": "cryptography/cryptocurrency/cryptocurrency.md"
+    },
+    {
+      "basename": "Web Design for Beginners",
+      "path": "courses/UoM/Web Design for Beginners/Web Design for Beginners.md"
+    },
+    {
+      "basename": "courses",
+      "path": "courses/courses.md"
+    },
+    {
+      "basename": "UoM",
+      "path": "courses/UoM/UoM.md"
+    },
+    {
+      "basename": "1. Introduction to the World Wide Web, Internet and Protocols",
+      "path": "courses/UoM/Web Design for Beginners/1. Introduction to the World Wide Web, Internet and Protocols/1. Introduction to the World Wide Web, Internet and Protocols.md"
     },
     {
       "basename": "1. Introduction to Programming",
       "path": "courses/UoM/Python for Beginners/1. Introduction to Programming.md"
+    },
+    {
+      "basename": "3. Python Programming – Basics",
+      "path": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md"
+    },
+    {
+      "basename": "2. Getting Started with Python",
+      "path": "courses/UoM/Python for Beginners/2. Getting Started with Python.md"
+    },
+    {
+      "basename": "Python for Beginners",
+      "path": "courses/UoM/Python for Beginners/Python for Beginners.md"
     },
     {
       "basename": "TCM Academy",
@@ -31,30 +87,6 @@
     {
       "basename": "Internet Protocols (IP) - Study Guide",
       "path": "courses/INE/PTS/Penetration Testing Prerequisites/Neworking/Internet Protocols (IP) - Study Guide.md"
-    },
-    {
-      "basename": "courses",
-      "path": "courses/courses.md"
-    },
-    {
-      "basename": "UoM",
-      "path": "courses/UoM/UoM.md"
-    },
-    {
-      "basename": "Web Design for Beginners",
-      "path": "courses/UoM/Web Design for Beginners/Web Design for Beginners.md"
-    },
-    {
-      "basename": "1. Introduction to the World Wide Web, Internet and Protocols",
-      "path": "courses/UoM/Web Design for Beginners/1. Introduction to the World Wide Web, Internet and Protocols/1. Introduction to the World Wide Web, Internet and Protocols.md"
-    },
-    {
-      "basename": "Python for Beginners",
-      "path": "courses/UoM/Python for Beginners/Python for Beginners.md"
-    },
-    {
-      "basename": "3. Python Programming – Basics",
-      "path": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md"
     },
     {
       "basename": "INE",
@@ -103,10 +135,6 @@
     {
       "basename": "IP",
       "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP.md"
-    },
-    {
-      "basename": "cryptocurrency",
-      "path": "cryptography/cryptocurrency/cryptocurrency.md"
     },
     {
       "basename": "SSL",
@@ -171,34 +199,6 @@
     {
       "basename": "Repeater",
       "path": "tools/hacking/web app/Burp Suite/modules/Repeater/Repeater.md"
-    },
-    {
-      "basename": "frame",
-      "path": "network/reference models/OSI Model/PDU/frame.md"
-    },
-    {
-      "basename": "Target",
-      "path": "tools/hacking/web app/Burp Suite/modules/Target/Target.md"
-    },
-    {
-      "basename": "binary conversion",
-      "path": "general/encoding and decoding/binary/binary conversion.md"
-    },
-    {
-      "basename": "bit",
-      "path": "network/reference models/OSI Model/PDU/bit.md"
-    },
-    {
-      "basename": "trusted authority",
-      "path": "cryptography/secure communication/trusted authority.md"
-    },
-    {
-      "basename": "clear-text protocol",
-      "path": "cryptography/secure communication/secure communication protocols/clear-text protocol.md"
-    },
-    {
-      "basename": "CVE",
-      "path": "hacking/attacks and vulnerabilities/cve/CVE.md"
     }
   ],
   "omittedPaths": [],
