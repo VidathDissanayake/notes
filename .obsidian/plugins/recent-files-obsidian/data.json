@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Binary Arithmetic Basics - Study Guide",
+      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/Binary Arithmetic Basics - Study Guide.md"
+    },
+    {
       "basename": "courses",
       "path": "courses/courses.md"
     },
@@ -139,10 +143,6 @@
     {
       "basename": "Cryptography & VPNs - Study Guide",
       "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/Cryptography & VPNs - Study Guide.md"
-    },
-    {
-      "basename": "Binary Arithmetic Basics - Study Guide",
-      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/Binary Arithmetic Basics - Study Guide.md"
     },
     {
       "basename": "encapsulation",
