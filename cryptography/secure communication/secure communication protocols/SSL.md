@@ -2,6 +2,7 @@
 
 > Vidath Dissanayake | Sri Lanka
 > Tags: #crypto/secure_com/protocols
+> Links: [secure communication protocols](secure%20communication%20protocols.md) [TLS](TLS.md)
 
 SSL is the predecessor of [TLS](TLS.md)
 
@@ -16,3 +17,5 @@ SSL had 3 versions.
 |SSL 3.0 |   1996    |   2015   |
 
 SSL is no longer in use, as it has severe security flaws.
+
+---

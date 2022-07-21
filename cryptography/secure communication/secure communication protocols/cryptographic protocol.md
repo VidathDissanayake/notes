@@ -1,7 +1,8 @@
 # Cryptographic Protocols
 
 > Vidath Dissanayake | Sri Lanka
-> Tags: #crypto/secure_com/protocols
+> Tags: #crypto #crypto/secure_com #crypto/secure_com/protocols
+> Links: [secure communication protocols](secure%20communication%20protocols.md) [TLS](TLS.md) [SSL](SSL.md) [web traffic](../web%20traffic.md)
 
 Cryptographic protocols encrypt the information being transmitted to protect the communication.
 
@@ -11,6 +12,7 @@ Cryptographic protocols should always be used when transmitting private and sens
 
 ![cryptographic protocol](assets/images/cryptographic%20protocol.png)
 
-
 - [TLS](TLS.md) – [web traffic](../web%20traffic.md)
 - [SSL](SSL.md) – [web traffic](../web%20traffic.md)
+
+---
