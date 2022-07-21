@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Internet Protocols (IP) - Study Guide",
+      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Neworking/Internet Protocols (IP) - Study Guide.md"
+    },
+    {
+      "basename": "Wireshark Introduction - Study Guide",
+      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/Wireshark Introduction - Study Guide.md"
+    },
+    {
+      "basename": "The Information Security Field - Study Guide",
+      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/The Information Security Field - Study Guide.md"
+    },
+    {
+      "basename": "HTTP(S) Traffic Sniffing Lab",
+      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/HTTP(S) Traffic Sniffing Lab.md"
+    },
+    {
+      "basename": "Cryptography & VPNs - Study Guide",
+      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/Cryptography & VPNs - Study Guide.md"
+    },
+    {
       "basename": "Binary Arithmetic Basics - Study Guide",
       "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/Binary Arithmetic Basics - Study Guide.md"
     },
@@ -117,32 +137,12 @@
       "path": "courses/INE/PTS/Penetration Testing Prerequisites/Neworking/Protocols - Study Guide.md"
     },
     {
-      "basename": "Internet Protocols (IP) - Study Guide",
-      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Neworking/Internet Protocols (IP) - Study Guide.md"
-    },
-    {
       "basename": "INE",
       "path": "courses/INE/INE.md"
     },
     {
       "basename": "PTS",
       "path": "courses/INE/PTS/PTS.md"
-    },
-    {
-      "basename": "Wireshark Introduction - Study Guide",
-      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/Wireshark Introduction - Study Guide.md"
-    },
-    {
-      "basename": "The Information Security Field - Study Guide",
-      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/The Information Security Field - Study Guide.md"
-    },
-    {
-      "basename": "HTTP(S) Traffic Sniffing Lab",
-      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/HTTP(S) Traffic Sniffing Lab.md"
-    },
-    {
-      "basename": "Cryptography & VPNs - Study Guide",
-      "path": "courses/INE/PTS/Penetration Testing Prerequisites/Introduction/Cryptography & VPNs - Study Guide.md"
     },
     {
       "basename": "encapsulation",

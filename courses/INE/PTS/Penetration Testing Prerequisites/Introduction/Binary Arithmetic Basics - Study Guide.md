@@ -9,28 +9,28 @@
 
 ## Decimal and Binary Bases
 
-> Links: [binary](../../../../../general/encoding%20and%20decoding/binary/binary.md) [decimal](../../../../../general/encoding%20and%20decoding/decimal/decimal.md)
-> Sources:
+> Links: [binary](../../../../../general/encoding%20and%20decoding/binary/binary.md) [decimal](../../../../../general/encoding%20and%20decoding/decimal/decimal.md)  
+> Sources:  
 
 ---
 
 ## Converting from and to Binary
 
-> Links: [binary conversion](../../../../../general/encoding%20and%20decoding/binary/binary%20conversion.md)
-> Sources:
+> Links: [binary conversion](../../../../../general/encoding%20and%20decoding/binary/binary%20conversion.md)  
+> Sources:  
 
 ---
 
 ## Bitwise Operations
 
-> Links: [bitwise operation](../../../../../general/arithmetic/bitwise/bitwise%20operation.md)
-> Sources:
+> Links: [bitwise operation](../../../../../general/arithmetic/bitwise/bitwise%20operation.md)  
+> Sources:  
 
 ---
 
 ## Hexadecimal Arithmetic
 
-> Links: [hex](../../../../../general/encoding%20and%20decoding/hex/hex.md) [hex conversion](../../../../../general/encoding%20and%20decoding/hex/hex%20conversion.md)
-> Sources:
+> Links: [hex](../../../../../general/encoding%20and%20decoding/hex/hex.md) [hex conversion](../../../../../general/encoding%20and%20decoding/hex/hex%20conversion.md)  
+> Sources:  
 
 ---
