@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "decimal conversion",
+      "path": "general/encoding and decoding/decimal/decimal conversion.md"
+    },
+    {
+      "basename": "decimal",
+      "path": "general/encoding and decoding/decimal/decimal.md"
+    },
+    {
+      "basename": "binary conversion",
+      "path": "general/encoding and decoding/binary/binary conversion.md"
+    },
+    {
+      "basename": "binary",
+      "path": "general/encoding and decoding/binary/binary.md"
+    },
+    {
+      "basename": "decoding",
+      "path": "general/encoding and decoding/decoding.md"
+    },
+    {
+      "basename": "2. Getting Started with Python",
+      "path": "courses/UoM/Python for Beginners/2. Getting Started with Python.md"
+    },
+    {
+      "basename": "3. Python Programming – Basics",
+      "path": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -61,16 +89,8 @@
       "path": "general/general.md"
     },
     {
-      "basename": "decoding",
-      "path": "general/encoding and decoding/decoding.md"
-    },
-    {
       "basename": "encoding",
       "path": "general/encoding and decoding/encoding.md"
-    },
-    {
-      "basename": "binary",
-      "path": "general/encoding and decoding/binary/binary.md"
     },
     {
       "basename": "arithmetic",
@@ -179,26 +199,6 @@
     {
       "basename": "Substitution Cipher",
       "path": "cryptography/history of cryptography/historic ciphers/Substitution Cipher.md"
-    },
-    {
-      "basename": "Assembly",
-      "path": "programming/Assembly/Assembly.md"
-    },
-    {
-      "basename": "bit",
-      "path": "network/reference models/OSI Model/PDU/bit.md"
-    },
-    {
-      "basename": "cryptographic attacks",
-      "path": "cryptography/cryptographic attacks/cryptographic attacks.md"
-    },
-    {
-      "basename": "secure communication protocols",
-      "path": "cryptography/secure communication/secure communication protocols/secure communication protocols.md"
-    },
-    {
-      "basename": "1. Introduction to the World Wide Web, Internet and Protocols",
-      "path": "courses/UoM/Web Design for Beginners/1. Introduction to the World Wide Web, Internet and Protocols/1. Introduction to the World Wide Web, Internet and Protocols.md"
     }
   ],
   "omittedPaths": [],

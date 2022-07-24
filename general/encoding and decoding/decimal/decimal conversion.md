@@ -1,10 +1,22 @@
 # Decimal Conversion
 
-> Vidath Dissanayake | Sri Lanka
+> Vidath Dissanayake | Sri Lanka  
+> Tags: #general  #general/decimal  
+> Links: [decimal](decimal.md)  
+> Sources:  
+
+---
 
 ## Binary to Decimal
 
+> Links:  
+> Sources:  
+
+---
+
 ## Hex to Decimal
+
+> Links:
 
 To convert [hex](../hex/hex.md) to [decimal](decimal.md):
 1. Take the [decimal](decimal.md) representation of each digit in the [hex](../hex/hex.md) number.

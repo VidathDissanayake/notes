@@ -1,6 +1,9 @@
 # Binary
 
-> Vidath Dissanayake | Sri Lanka
+> Vidath Dissanayake | Sri Lanka  
+> Tags: #general #general/binary  
+> Links: [encoding](../encoding.md) [decoding](../decoding.md)  
+> Sources:  
 
 Binary is important because computers represent data in binary format. It is also essential for network addressing and computer logic operations.
 
@@ -19,3 +22,4 @@ E.g:
 - $1 + 1 = 10_2$
 - $111 + 1 = 1000_2$
 
+---

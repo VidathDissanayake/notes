@@ -1,6 +1,11 @@
 # Decimal
 
-> Vidath Dissanayake | Sri Lanka
+> Vidath Dissanayake | Sri Lanka  
+> Tags: #general #general/decimal  
+> Links: [encoding](../encoding.md) [decoding](../decoding.md)  
+> Sources:  
+
+---
 
 Decimal notation uses ten symbols to represent numbers.
 
@@ -16,3 +21,5 @@ Decimal notation uses ten symbols to represent numbers.
 - Nine (9)
 
 When counting with decimal, you start from 0 and increment until 9. As 9 is the last symbol in decimal notation, you can't go any higher. So, when you reach nine, you have to increment the digit to the left of it and start back from 0.
+
+---

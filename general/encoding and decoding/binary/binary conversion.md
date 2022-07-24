@@ -1,8 +1,16 @@
 # Binary Conversion
 
-> Vidath Dissanayake | Sri Lanka
+> Vidath Dissanayake | Sri Lanka  
+> Tags: #general #general/binary  
+> Links: [binary](binary.md)  
+> Sources:  
+
+---
 
 ## Decimal to Binary
+
+> Links: [binary](binary.md) [decimal](../decimal/decimal.md)  
+> Sources:  
 
 To convert a [decimal](../decimal/decimal.md) number to [binary](binary.md), you have to:
 1. Divide it by 2 and take note of the remainder.
@@ -12,3 +20,5 @@ To convert a [decimal](../decimal/decimal.md) number to [binary](binary.md), you
 
 E.g:
 ![decimal to binary](assets/images/decimal%20to%20binary.png)
+
+---
