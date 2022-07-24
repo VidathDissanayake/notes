@@ -1,6 +1,9 @@
 # Lists
 
-> Vidath Dissanayake | Sri Lanka
+> Vidath Dissanayake | Sri Lanka  
+> Tags: #markdown  
+> Links: [markdown](markdown.md)  
+> Sources:  
 
 List syntax in [Markdown](Markdown.md).
 
@@ -13,8 +16,10 @@ There are 3 types of lists
 
 ---
 
-
 ## Unordered Lists
+
+> Links:  
+> Sources:  
 
 Unordered lists start with `dashes` (`-`), `asterisks` (`*`), or `plus signs` (`+`) and a `space`.
 
@@ -76,8 +81,10 @@ For compatibility, don’t mix and match delimiters (`-`,`+`,`*`) in the same li
 
 ---
 
-
 ## Ordered Lists
+
+> Links:  
+> Sources:  
 
 Ordered lists start with `1.` and a `space`. 
 
@@ -125,8 +132,10 @@ The numbers don’t have to be in numerical order.
 
 ---
 
-
 ## Task Lists
+
+> Links:  
+> Sources:  
 
 Incomplete task lists start with `- [ ]` and a `space`.
 
@@ -167,3 +176,5 @@ Complete task lists start with `- [x]` and a `space`.
     - [ ] Layer 3 
   - [ ] Layer 2
 - [ ] Layer 1
+
+---

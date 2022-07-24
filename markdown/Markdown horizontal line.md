@@ -1,6 +1,9 @@
 # Horizontal Lines
 
-> Vidath Dissanayake | Sri Lanka
+> Vidath Dissanayake | Sri Lanka  
+> Tags: #markdown  
+> Links: [markdown](markdown.md)  
+> Sources:  
 
 To create a horizontal rule, use three or more `asterisks` (`***`), `dashes` (`---`), or `underscores` (`___`) on a line by themselves.
 
@@ -23,3 +26,8 @@ ___
 ***
 
 ___
+
+<br>
+<br>
+
+---

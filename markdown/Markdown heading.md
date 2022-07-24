@@ -1,6 +1,9 @@
 # Headings
 
-> Vidath Dissanayake | Sri Lanka
+> Vidath Dissanayake | Sri Lanka  
+> Tags: #markdown  
+> Links: [markdown](markdown.md)  
+> Sources:  
 
 Heading syntax in [Markdown](Markdown.md).
 
@@ -57,3 +60,5 @@ Heading level 2
 ---------------
 
 ### Heading with custom ID {#My-custom-ID}
+
+---

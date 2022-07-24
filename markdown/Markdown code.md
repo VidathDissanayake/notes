@@ -1,6 +1,9 @@
 # Code and Horizontal lines
 
-> Vidath Dissanayake | Sri Lanka
+> Vidath Dissanayake | Sri Lanka  
+> Tags: #markdown  
+> Links: [markdown](markdown.md)  
+> Sources:  
 
 Code syntax in [Markdown](Markdown.md).
 
@@ -46,3 +49,5 @@ Type `msfconsole` in the terminal and press enter.
 
 *This is italic text in markdown*
 ```
+
+---

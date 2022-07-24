@@ -1,7 +1,9 @@
 # Symmetric Ciphers
 
-> Vidath Dissanayake | Sri Lanka
-> Tags: #crypto/secure_com
+> Vidath Dissanayake | Sri Lanka  
+> Tags: #crypto #crypto/secure_com  
+> Links: [secure communication](secure%20communication.md)  
+> Sources:  
 
 Symmetric ciphers are the building blocks of [secure communication](secure%20communication.md).
 
@@ -21,3 +23,5 @@ There are 2 types of keys used in symmetric ciphers.
     - Key used to encrypt multiple messages.
         - e.g. Encrypted files (same key used to encrypt many files)
     - Need more resources. 
+
+---
