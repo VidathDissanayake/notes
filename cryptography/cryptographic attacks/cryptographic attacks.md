@@ -1,7 +1,7 @@
 # Cryptographic Attacks
 
-> Vidath Dissanayake | Sri Lanka
-> Tags: #crypto #crypto/attacks 
-> Links: [cryptography](../cryptography.md)
-> Sources:
+> Vidath Dissanayake | Sri Lanka  
+> Tags: #crypto #crypto/attacks  
+> Links: [cryptography](../cryptography.md)  
+> Sources:  
 

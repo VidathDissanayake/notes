@@ -1,7 +1,7 @@
 # INE
 
-> Vidath Dissanayake | Sri Lanka
-> Tags: #coures #coures/INE 
-> Links: [courses](../courses.md)
+> Vidath Dissanayake | Sri Lanka  
+> Tags: #coures #courses/INE  
+> Links: [courses](../courses.md)  
 
 ---

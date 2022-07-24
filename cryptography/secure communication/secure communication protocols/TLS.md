@@ -1,9 +1,9 @@
 # TLS (Transport Layer Security)
 
-> Vidath Dissanayake | Sri Lanka
-> Tags: #crypto #crypto/secure_com #crypto/secure_com/protocols
-> Links: [secure communication protocols](secure%20communication%20protocols.md) [SSL](SSL.md) [cryptography](../../cryptography.md) [confidentiality](../../../hacking/principles%20and%20standards%20of%20infosec/CIA%20triad/confidentiality.md) [integrity](../../../hacking/principles%20and%20standards%20of%20infosec/CIA%20triad/integrity.md)
-> Sources:
+> Vidath Dissanayake | Sri Lanka  
+> Tags: #crypto #crypto/secure_com #crypto/secure_com/protocols  
+> Links: [secure communication protocols](secure%20communication%20protocols.md) [SSL](SSL.md) [cryptography](../../cryptography.md) [confidentiality](../../../hacking/principles%20and%20standards%20of%20infosec/CIA%20triad/confidentiality.md) [integrity](../../../hacking/principles%20and%20standards%20of%20infosec/CIA%20triad/integrity.md)  
+> Sources:  
 
 TLS (Transport Layer Security) is the successor to [SSL](SSL.md). However, [SSL](SSL.md) is widely known, so [SSL](SSL.md) is used to refer to TLS too.
 
@@ -26,14 +26,14 @@ TLS has 2 parts.
 
 ## Handshake Protocol
 
-> Links:
-> Sources:
+> Links:  
+> Sources:  
 
 ---
 
 ## Record Layer
 
-> Links:
-> Sources:
+> Links:  
+> Sources:  
 
 ---
