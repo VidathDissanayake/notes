@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "a3e8ecb91b0cabea",
+    "type": "split",
+    "children": [
+      {
+        "id": "813af7e02b51761c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "204fc087eddd9cd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "general/encoding and decoding/decimal/decimal conversion.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c89d9a57b2fd015",
+    "type": "split",
+    "children": [
+      {
+        "id": "a02adeaea29234d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab214bff9ece4510",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8b2360962fb1f5f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#general",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bfc1904de340394f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f774ca1bbbb31431",
+    "type": "split",
+    "children": [
+      {
+        "id": "5753656238582fff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "041dc2fc32740339",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8ef61d945d38eb78",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "general/encoding and decoding/decimal/decimal conversion.md"
+              }
+            }
+          },
+          {
+            "id": "b98b47c7b17c68ec",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "bce355d63490fd09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "general/encoding and decoding/decimal/decimal conversion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "972515b645a73df0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "general/encoding and decoding/decimal/decimal conversion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "204fc087eddd9cd3",
+  "lastOpenFiles": [
+    "general/encoding and decoding/decimal/decimal.md",
+    "general/encoding and decoding/binary/binary conversion.md",
+    "general/encoding and decoding/binary/binary.md",
+    "general/encoding and decoding/decimal/decimal conversion.md",
+    "general/encoding and decoding/decoding.md",
+    "courses/UoM/Python for Beginners/2. Getting Started with Python.md",
+    "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
+    "README.md",
+    "markdown/Markdown text formatting.md",
+    "markdown/Markdown list.md"
+  ]
+}
