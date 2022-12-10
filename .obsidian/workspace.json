@@ -11,8 +11,13 @@
             "id": "204fc087eddd9cd3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "network/reference models/OSI Model/OSI Model.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -91,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "network/reference models/OSI Model/OSI Model.md"
+              }
             }
           },
           {
@@ -108,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "network/reference models/OSI Model/OSI Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "network/reference models/OSI Model/OSI Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,6 +147,8 @@
   },
   "active": "204fc087eddd9cd3",
   "lastOpenFiles": [
+    "network/communication protocol/communication protocol.md",
+    "network/network.md",
     "general/encoding and decoding/decimal/decimal conversion.md",
     "general/encoding and decoding/decimal/decimal.md",
     "general/encoding and decoding/binary/binary conversion.md",
@@ -145,8 +156,6 @@
     "general/encoding and decoding/decoding.md",
     "courses/UoM/Python for Beginners/2. Getting Started with Python.md",
     "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
-    "README.md",
-    "markdown/Markdown text formatting.md",
-    "markdown/Markdown list.md"
+    "README.md"
   ]
 }

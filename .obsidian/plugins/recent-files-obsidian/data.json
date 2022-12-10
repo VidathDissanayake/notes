@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "OSI Model",
+      "path": "network/reference models/OSI Model/OSI Model.md"
+    },
+    {
+      "basename": "communication protocol",
+      "path": "network/communication protocol/communication protocol.md"
+    },
+    {
+      "basename": "network",
+      "path": "network/network.md"
+    },
+    {
       "basename": "decimal conversion",
       "path": "general/encoding and decoding/decimal/decimal conversion.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "clear-text protocol",
       "path": "cryptography/secure communication/secure communication protocols/clear-text protocol.md"
-    },
-    {
-      "basename": "history of cryptography",
-      "path": "cryptography/history of cryptography/history of cryptography.md"
-    },
-    {
-      "basename": "Vigenere Cipher",
-      "path": "cryptography/history of cryptography/historic ciphers/Vigenere Cipher.md"
-    },
-    {
-      "basename": "Substitution Cipher",
-      "path": "cryptography/history of cryptography/historic ciphers/Substitution Cipher.md"
     }
   ],
   "omittedPaths": [],
