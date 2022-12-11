@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "OSI Model",
       "path": "network/reference models/OSI Model/OSI Model.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "3. Python Programming – Basics",
       "path": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Markdown text formatting",
