@@ -195,10 +195,6 @@
     {
       "basename": "cryptographic protocol",
       "path": "cryptography/secure communication/secure communication protocols/cryptographic protocol.md"
-    },
-    {
-      "basename": "clear-text protocol",
-      "path": "cryptography/secure communication/secure communication protocols/clear-text protocol.md"
     }
   ],
   "omittedPaths": [],

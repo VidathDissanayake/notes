@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "aba6d3e86cf75eff",
+        "id": "1b224097dc6e174a",
         "type": "tabs",
         "children": [
           {
-            "id": "f08d389af61f8199",
+            "id": "84d3658ff118c614",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -96,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -115,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,10 +142,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 259.5
   },
-  "active": "f08d389af61f8199",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "84d3658ff118c614",
   "lastOpenFiles": [
+    "README.md",
+    "assets/documents/ICT Grade 12 TG.pdf.md",
     "network/reference models/OSI Model/OSI Model.md",
     "network/communication protocol/communication protocol.md",
     "network/network.md",
@@ -162,8 +166,6 @@
     "general/encoding and decoding/decimal/decimal.md",
     "general/encoding and decoding/binary/binary conversion.md",
     "general/encoding and decoding/binary/binary.md",
-    "general/encoding and decoding/decoding.md",
-    "courses/UoM/Python for Beginners/2. Getting Started with Python.md",
-    "courses/UoM/Python for Beginners/3. Python Programming – Basics.md"
+    "general/encoding and decoding/decoding.md"
   ]
 }
