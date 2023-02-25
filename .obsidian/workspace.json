@@ -11,8 +11,13 @@
             "id": "84d3658ff118c614",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "OS/windows/Windows.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -155,17 +160,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "84d3658ff118c614",
+  "active": "204fc087eddd9cd3",
   "lastOpenFiles": [
+    "OS/windows/Windows.md",
+    "OS/linux/Linux.md",
+    "programming/Assembly/Assembly.md",
+    "network/communication protocol/TCP IP layer 1/Wi-Fi.md",
+    "network/reference models/layers/Data Link Layer.md",
+    "network/MAC address.md",
+    "network/reference models/OSI Model/PDU/PDU.md",
+    "network/reference models/OSI Model/PDU/frame.md",
     "README.md",
-    "assets/documents/ICT Grade 12 TG.pdf.md",
-    "network/reference models/OSI Model/OSI Model.md",
-    "network/communication protocol/communication protocol.md",
-    "network/network.md",
-    "general/encoding and decoding/decimal/decimal conversion.md",
-    "general/encoding and decoding/decimal/decimal.md",
-    "general/encoding and decoding/binary/binary conversion.md",
-    "general/encoding and decoding/binary/binary.md",
-    "general/encoding and decoding/decoding.md"
+    "assets/documents/ICT Grade 12 TG.pdf.md"
   ]
 }

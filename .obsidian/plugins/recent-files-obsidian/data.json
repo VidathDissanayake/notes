@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Windows",
+      "path": "OS/windows/Windows.md"
+    },
+    {
+      "basename": "Linux",
+      "path": "OS/linux/Linux.md"
+    },
+    {
+      "basename": "Assembly",
+      "path": "programming/Assembly/Assembly.md"
+    },
+    {
+      "basename": "Wi-Fi",
+      "path": "network/communication protocol/TCP IP layer 1/Wi-Fi.md"
+    },
+    {
+      "basename": "Data Link Layer",
+      "path": "network/reference models/layers/Data Link Layer.md"
+    },
+    {
+      "basename": "MAC address",
+      "path": "network/MAC address.md"
+    },
+    {
+      "basename": "PDU",
+      "path": "network/reference models/OSI Model/PDU/PDU.md"
+    },
+    {
+      "basename": "frame",
+      "path": "network/reference models/OSI Model/PDU/frame.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -167,34 +199,6 @@
     {
       "basename": "anonymous communication",
       "path": "cryptography/secure communication/anonymous communication.md"
-    },
-    {
-      "basename": "VPN",
-      "path": "cryptography/secure communication/secure communication protocols/VPN.md"
-    },
-    {
-      "basename": "TLS",
-      "path": "cryptography/secure communication/secure communication protocols/TLS.md"
-    },
-    {
-      "basename": "SSL",
-      "path": "cryptography/secure communication/secure communication protocols/SSL.md"
-    },
-    {
-      "basename": "cryptographic tunnel",
-      "path": "cryptography/secure communication/secure communication protocols/cryptographic tunnel.md"
-    },
-    {
-      "basename": "historic ciphers",
-      "path": "cryptography/history of cryptography/historic ciphers/historic ciphers.md"
-    },
-    {
-      "basename": "Caesar Cipher",
-      "path": "cryptography/history of cryptography/historic ciphers/Caesar Cipher.md"
-    },
-    {
-      "basename": "cryptographic protocol",
-      "path": "cryptography/secure communication/secure communication protocols/cryptographic protocol.md"
     }
   ],
   "omittedPaths": [],
