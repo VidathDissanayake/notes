@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/windows/Windows.md",
+                "file": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP address.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -162,6 +162,8 @@
   },
   "active": "204fc087eddd9cd3",
   "lastOpenFiles": [
+    "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP address.md",
+    "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP.md",
     "OS/windows/Windows.md",
     "OS/linux/Linux.md",
     "programming/Assembly/Assembly.md",
@@ -169,8 +171,6 @@
     "network/reference models/layers/Data Link Layer.md",
     "network/MAC address.md",
     "network/reference models/OSI Model/PDU/PDU.md",
-    "network/reference models/OSI Model/PDU/frame.md",
-    "README.md",
-    "assets/documents/ICT Grade 12 TG.pdf.md"
+    "network/reference models/OSI Model/PDU/frame.md"
   ]
 }

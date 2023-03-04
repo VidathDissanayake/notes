@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "IP address",
+      "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP address.md"
+    },
+    {
+      "basename": "IP",
+      "path": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP.md"
+    },
+    {
       "basename": "Windows",
       "path": "OS/windows/Windows.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "privately outsourcing computation",
       "path": "cryptography/secure communication/privately outsourcing computation.md"
-    },
-    {
-      "basename": "digital signature",
-      "path": "cryptography/secure communication/digital signature.md"
-    },
-    {
-      "basename": "anonymous communication",
-      "path": "cryptography/secure communication/anonymous communication.md"
     }
   ],
   "omittedPaths": [],
