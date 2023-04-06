@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "84d3658ff118c614",
+            "id": "0571757c022e91c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP address.md",
+                "file": "AI/AI.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "0571757c022e91c0",
+            "id": "930f7bbbbb26335e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/AI.md",
+                "file": "AI/Deep Learning (DL).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/AI.md"
+                "file": "AI/Deep Learning (DL).md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/AI.md",
+                "file": "AI/Deep Learning (DL).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/AI.md",
+                "file": "AI/Deep Learning (DL).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,10 +178,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0571757c022e91c0",
+  "active": "930f7bbbbb26335e",
   "lastOpenFiles": [
-    "README.md",
     "AI/AI.md",
+    "AI/Deep Learning (DL).md",
+    "hacking/hacking.md",
+    "AI/assets/images/Traditional vs ML.png",
+    "AI/assets/images/1956 Dartmouth Conference.png",
+    "AI/assets/images/AI-ML-DL.png",
+    "AI/assets/images",
+    "AI/assets",
+    "README.md",
     "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP address.md",
     "AI",
     "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP.md",
