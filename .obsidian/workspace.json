@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Deep Learning (DL).md",
+                "file": "AI/AI.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Deep Learning (DL).md"
+                "file": "AI/AI.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Deep Learning (DL).md",
+                "file": "AI/AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Deep Learning (DL).md",
+                "file": "AI/AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,8 +180,8 @@
   },
   "active": "930f7bbbbb26335e",
   "lastOpenFiles": [
-    "AI/AI.md",
     "AI/Deep Learning (DL).md",
+    "AI/AI.md",
     "hacking/hacking.md",
     "AI/assets/images/Traditional vs ML.png",
     "AI/assets/images/1956 Dartmouth Conference.png",

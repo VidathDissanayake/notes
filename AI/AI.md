@@ -16,3 +16,13 @@ This was a conference among the leading scientists at the time at the Dartmouth 
 ## Traditional Programming vs ML
 
 ![Traditional vs ML](assets/images/Traditional%20vs%20ML.png)
+
+
+## Current Solutions
+
+- Recommendation Systems
+- Computer Vision
+- Natural Language Processing
+- Language Translation
+- Clustering
+- Forecasting

@@ -27,4 +27,4 @@ Here are some tools that use DL.
 4. [Deepart](https://deepart.io/)
 5. [MuseNet](https://openai.com/blog/musenet/)
 6. [WaveNet](https://cloud.google.com/text-to-speech)
-7. 
+
