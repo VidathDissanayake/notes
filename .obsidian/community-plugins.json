@@ -1,9 +1,8 @@
 [
   "obsidian-git",
+  "recent-files-obsidian",
   "obsidian-languagetool-plugin",
-  "markdown-prettifier",
-  "obsidian-dictionary-plugin",
-  "wikilinks-to-mdlinks-obsidian",
-  "code-block-copy",
-  "recent-files-obsidian"
+  "obsidian-orthography",
+  "obsidian-linter",
+  "table-editor-obsidian"
 ]

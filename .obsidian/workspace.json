@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "a3e8ecb91b0cabea",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b224097dc6e174a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84d3658ff118c614",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP address.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c89d9a57b2fd015",
+    "type": "split",
+    "children": [
+      {
+        "id": "a02adeaea29234d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab214bff9ece4510",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8b2360962fb1f5f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bfc1904de340394f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f774ca1bbbb31431",
+    "type": "split",
+    "children": [
+      {
+        "id": "5753656238582fff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "041dc2fc32740339",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8ef61d945d38eb78",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "b98b47c7b17c68ec",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "bce355d63490fd09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "972515b645a73df0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "204fc087eddd9cd3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "204fc087eddd9cd3",
+  "lastOpenFiles": [
+    "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP address.md",
+    "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP.md",
+    "OS/windows/Windows.md",
+    "OS/linux/Linux.md",
+    "programming/Assembly/Assembly.md",
+    "network/communication protocol/TCP IP layer 1/Wi-Fi.md",
+    "network/reference models/layers/Data Link Layer.md",
+    "network/MAC address.md",
+    "network/reference models/OSI Model/PDU/PDU.md",
+    "network/reference models/OSI Model/PDU/frame.md"
+  ]
+}

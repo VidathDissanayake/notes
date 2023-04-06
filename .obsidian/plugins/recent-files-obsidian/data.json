@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "TCP IP Model",
       "path": "networking/reference models/TCP IP Model.md"
     },
     {
       "basename": "OSI Model",
       "path": "networking/reference models/OSI Model.md"
-    },
-    {
-      "basename": "IP address",
-      "path": "networking/IP address.md"
     },
     {
       "basename": "IP",
@@ -35,10 +35,6 @@
     {
       "basename": "topologies",
       "path": "networking/lan/topologies.md"
-    },
-    {
-      "basename": "navigation",
-      "path": "tools/hacking/webapp/burpsuite/navigation.md"
     }
   ],
   "omittedPaths": [],

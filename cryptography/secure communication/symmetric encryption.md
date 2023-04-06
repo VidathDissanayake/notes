@@ -1,5 +1,10 @@
 # Symmetric Ciphers
 
+> Vidath Dissanayake | Sri Lanka  
+> Tags: #crypto #crypto/secure_com  
+> Links: [secure communication](secure%20communication.md)  
+> Sources:  
+
 Symmetric ciphers are the building blocks of [secure communication](secure%20communication.md).
 
 In symmetric ciphers, the two parties share a secret key (_k_) that only they know.
@@ -18,3 +23,5 @@ There are 2 types of keys used in symmetric ciphers.
     - Key used to encrypt multiple messages.
         - e.g. Encrypted files (same key used to encrypt many files)
     - Need more resources. 
+
+---
