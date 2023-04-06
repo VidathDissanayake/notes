@@ -9,7 +9,12 @@
     "netmask",
     "Dissanayake",
     "Vidath",
-    "UoM"
+    "UoM",
+    "Colorizer",
+    "Artbreeder",
+    "Deepart",
+    "MuseNet",
+    "WaveNet"
   ],
   "newFileLocation": "current",
   "newLinkFormat": "relative",
