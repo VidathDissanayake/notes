@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0571757c022e91c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/AI.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AI/AI.md"
+              }
             }
           },
           {
@@ -113,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AI/AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AI/AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +178,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "204fc087eddd9cd3",
+  "active": "0571757c022e91c0",
   "lastOpenFiles": [
+    "README.md",
+    "AI/AI.md",
     "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP address.md",
+    "AI",
     "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP.md",
     "OS/windows/Windows.md",
     "OS/linux/Linux.md",
