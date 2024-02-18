@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/AI.md",
+                "file": "GIT/Credential Management.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,11 +198,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f0072cc2dedde274",
+  "active": "0571757c022e91c0",
   "lastOpenFiles": [
     "GIT/GIT.md",
-    "GIT/Credential Management.md",
     "AI/AI.md",
+    "GIT/Credential Management.md",
     "GIT",
     "AI/Deep Learning (DL).md",
     "hacking/hacking.md",
