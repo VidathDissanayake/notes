@@ -11,3 +11,4 @@ sudo dpkg -i <path-to-package>
 git-credential-manager configure
 git config --global credential.credentialStore secretservice
 ```
+Then try to commit and push. It will prompt for login. Login with browser. It will remember after that.
