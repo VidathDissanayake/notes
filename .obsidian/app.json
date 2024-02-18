@@ -33,10 +33,7 @@
   "readableLineLength": true,
   "showFrontmatter": false,
   "lineWrap": true,
-  "spellcheckLanguages": [
-    "en-GB",
-    "en-GB-oxendict"
-  ],
+  "spellcheckLanguages": null,
   "pdfExportSettings": {
     "pageSize": "A4",
     "landscape": false,

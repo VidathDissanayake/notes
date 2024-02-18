@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/AI.md",
+                "file": "GIT/GIT.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0072cc2dedde274",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT/Credential Management.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,6 +92,14 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "828b13075121bc61",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -111,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/AI.md"
+                "file": "GIT/Credential Management.md"
               }
             }
           },
@@ -129,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/AI.md",
+                "file": "GIT/Credential Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/AI.md",
+                "file": "GIT/Credential Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,19 +190,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "930f7bbbbb26335e",
+  "active": "f0072cc2dedde274",
   "lastOpenFiles": [
-    "AI/Deep Learning (DL).md",
+    "GIT/GIT.md",
+    "GIT/Credential Management.md",
     "AI/AI.md",
+    "GIT",
+    "AI/Deep Learning (DL).md",
     "hacking/hacking.md",
     "AI/assets/images/Traditional vs ML.png",
     "AI/assets/images/1956 Dartmouth Conference.png",
