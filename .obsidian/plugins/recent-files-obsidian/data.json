@@ -9,6 +9,26 @@
       "path": "GIT/GIT.md"
     },
     {
+      "basename": "3. Python Programming – Basics",
+      "path": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md"
+    },
+    {
+      "basename": "2. Getting Started with Python",
+      "path": "courses/UoM/Python for Beginners/2. Getting Started with Python.md"
+    },
+    {
+      "basename": "1. Introduction to Programming",
+      "path": "courses/UoM/Python for Beginners/1. Introduction to Programming.md"
+    },
+    {
+      "basename": "Python for Beginners",
+      "path": "courses/UoM/Python for Beginners/Python for Beginners.md"
+    },
+    {
+      "basename": "courses",
+      "path": "courses/courses.md"
+    },
+    {
       "basename": "AI",
       "path": "AI/AI.md"
     },

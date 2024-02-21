@@ -4,46 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1b224097dc6e174a",
+        "id": "4c5f3c492cb3705e",
         "type": "tabs",
         "children": [
           {
-            "id": "0571757c022e91c0",
+            "id": "e013f0e7b9193011",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GIT/Credential Management.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "930f7bbbbb26335e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GIT/GIT.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0072cc2dedde274",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GIT/Credential Management.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -130,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GIT/Credential Management.md"
-              }
+              "state": {}
             }
           },
           {
@@ -149,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/Credential Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT/Credential Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,11 +163,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0571757c022e91c0",
+  "active": "e013f0e7b9193011",
   "lastOpenFiles": [
-    "GIT/GIT.md",
-    "AI/AI.md",
     "GIT/Credential Management.md",
+    "GIT/GIT.md",
+    "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
+    "courses/UoM/Python for Beginners/2. Getting Started with Python.md",
+    "courses/UoM/Python for Beginners/1. Introduction to Programming.md",
+    "courses/UoM/Python for Beginners/Python for Beginners.md",
+    "courses/courses.md",
+    "AI/AI.md",
     "GIT",
     "AI/Deep Learning (DL).md",
     "hacking/hacking.md",
