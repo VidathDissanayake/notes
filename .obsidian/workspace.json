@@ -11,11 +11,30 @@
             "id": "e013f0e7b9193011",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fb40a3f28dffd9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "courses/UoM/Python for Beginners/4. Python Programming - Essentials.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "courses/UoM/Python for Beginners/4. Python Programming - Essentials.md"
+              }
             }
           },
           {
@@ -116,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "courses/UoM/Python for Beginners/4. Python Programming - Essentials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "courses/UoM/Python for Beginners/4. Python Programming - Essentials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,14 +186,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e013f0e7b9193011",
+  "active": "4fb40a3f28dffd9b",
   "lastOpenFiles": [
+    "courses/UoM/Python for Beginners/2. Getting Started with Python.md",
+    "courses/UoM/Python for Beginners/Python for Beginners.md",
+    "courses/UoM/Python for Beginners/4. Python Programming - Essentials.md",
+    "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
+    "courses/UoM/Python for Beginners/1. Introduction to Programming.md",
+    "programming/python/Python.md",
+    "courses/UoM/Python for Beginners/assets/images/bitwise operators.png",
+    "courses/UoM/Python for Beginners/assets/images/identity operators.png",
+    "courses/UoM/Python for Beginners/assets/images/logical operators.png",
+    "courses/UoM/Python for Beginners/assets/images/comparison operatos.png",
+    "courses/UoM/Python for Beginners/assets/images/assignment operators.png",
+    "courses/UoM/Python for Beginners/assets/images/arithmetic operators.png",
+    "courses/UoM/Python for Beginners/assets/images/order of precedence.png",
     "GIT/Credential Management.md",
     "GIT/GIT.md",
-    "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
-    "courses/UoM/Python for Beginners/2. Getting Started with Python.md",
-    "courses/UoM/Python for Beginners/1. Introduction to Programming.md",
-    "courses/UoM/Python for Beginners/Python for Beginners.md",
     "courses/courses.md",
     "AI/AI.md",
     "GIT",

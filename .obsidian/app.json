@@ -14,7 +14,8 @@
     "Artbreeder",
     "Deepart",
     "MuseNet",
-    "WaveNet"
+    "WaveNet",
+    "whitespaces"
   ],
   "newFileLocation": "current",
   "newLinkFormat": "relative",

@@ -1,28 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Credential Management",
-      "path": "GIT/Credential Management.md"
-    },
-    {
-      "basename": "GIT",
-      "path": "GIT/GIT.md"
-    },
-    {
-      "basename": "3. Python Programming – Basics",
-      "path": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md"
+      "basename": "4. Python Programming - Essentials",
+      "path": "courses/UoM/Python for Beginners/4. Python Programming - Essentials.md"
     },
     {
       "basename": "2. Getting Started with Python",
       "path": "courses/UoM/Python for Beginners/2. Getting Started with Python.md"
     },
     {
+      "basename": "Python for Beginners",
+      "path": "courses/UoM/Python for Beginners/Python for Beginners.md"
+    },
+    {
+      "basename": "3. Python Programming – Basics",
+      "path": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md"
+    },
+    {
       "basename": "1. Introduction to Programming",
       "path": "courses/UoM/Python for Beginners/1. Introduction to Programming.md"
     },
     {
-      "basename": "Python for Beginners",
-      "path": "courses/UoM/Python for Beginners/Python for Beginners.md"
+      "basename": "Python",
+      "path": "programming/python/Python.md"
+    },
+    {
+      "basename": "arithmetic operators",
+      "path": "courses/UoM/Python for Beginners/assets/images/arithmetic operators.png"
+    },
+    {
+      "basename": "order of precedence",
+      "path": "courses/UoM/Python for Beginners/assets/images/order of precedence.png"
+    },
+    {
+      "basename": "Credential Management",
+      "path": "GIT/Credential Management.md"
+    },
+    {
+      "basename": "GIT",
+      "path": "GIT/GIT.md"
     },
     {
       "basename": "courses",
