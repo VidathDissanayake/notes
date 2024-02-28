@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "93a66ab76b1f326d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,7 +196,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4fb40a3f28dffd9b",
+  "active": "93a66ab76b1f326d",
   "lastOpenFiles": [
     "courses/UoM/Python for Beginners/assets/images/a simple matrix.png",
     "courses/UoM/Python for Beginners/assets/images/structure of a matrix.png",
