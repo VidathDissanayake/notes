@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/UoM/Python for Beginners/4. Python Programming - Essentials.md"
+                "file": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md"
               }
             }
           },
@@ -137,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/UoM/Python for Beginners/4. Python Programming - Essentials.md",
+                "file": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/UoM/Python for Beginners/4. Python Programming - Essentials.md",
+                "file": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +186,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4fb40a3f28dffd9b",
+  "active": "c8b2360962fb1f5f",
   "lastOpenFiles": [
     "courses/UoM/Python for Beginners/assets/images/pass in loops.png",
     "courses/UoM/Python for Beginners/assets/images/nested loop example.png",
