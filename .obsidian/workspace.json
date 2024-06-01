@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md"
+                "file": "courses/UoM/Python for Beginners/4. Python Programming - Essentials.md"
               }
             }
           },
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
+                "file": "courses/UoM/Python for Beginners/4. Python Programming - Essentials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
+                "file": "courses/UoM/Python for Beginners/4. Python Programming - Essentials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,8 +185,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c8b2360962fb1f5f",
+  "active": "4fb40a3f28dffd9b",
   "lastOpenFiles": [
+    "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
+    "courses/UoM/Python for Beginners/4. Python Programming - Essentials.md",
     "courses/UoM/Python for Beginners/assets/images/pass in loops.png",
     "courses/UoM/Python for Beginners/assets/images/nested loop example.png",
     "courses/UoM/Python for Beginners/assets/images/nested loops.png",
@@ -200,11 +201,8 @@
     "courses/UoM/Python for Beginners/assets/images/list indexing.png",
     "courses/UoM/Python for Beginners/2. Getting Started with Python.md",
     "courses/UoM/Python for Beginners/Python for Beginners.md",
-    "courses/UoM/Python for Beginners/4. Python Programming - Essentials.md",
-    "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
     "courses/UoM/Python for Beginners/1. Introduction to Programming.md",
     "programming/python/Python.md",
-    "courses/UoM/Python for Beginners/assets/images/bitwise operators.png",
     "GIT/Credential Management.md",
     "GIT/GIT.md",
     "courses/courses.md",
