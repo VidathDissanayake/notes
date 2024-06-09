@@ -5,6 +5,14 @@
       "path": "OS/linux/Directory Structure.md"
     },
     {
+      "basename": "3. Python Programming – Basics",
+      "path": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md"
+    },
+    {
+      "basename": "note taking",
+      "path": "courses/TCM/Practical Ethical Hacking - The Complete Course/note taking.md"
+    },
+    {
       "basename": "Useful Commands",
       "path": "OS/linux/Useful Commands.md"
     },
@@ -13,20 +21,12 @@
       "path": "OS/linux/Linux.md"
     },
     {
-      "basename": "note taking",
-      "path": "courses/TCM/Practical Ethical Hacking - The Complete Course/note taking.md"
-    },
-    {
       "basename": "Practical Ethical Hacking - The Complete Course",
       "path": "courses/TCM/Practical Ethical Hacking - The Complete Course/Practical Ethical Hacking - The Complete Course.md"
     },
     {
       "basename": "4. Python Programming - Essentials",
       "path": "courses/UoM/Python for Beginners/4. Python Programming - Essentials.md"
-    },
-    {
-      "basename": "3. Python Programming – Basics",
-      "path": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md"
     },
     {
       "basename": "2. Getting Started with Python",

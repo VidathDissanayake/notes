@@ -8,45 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e013f0e7b9193011",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fb40a3f28dffd9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/TCM/Practical Ethical Hacking - The Complete Course/note taking.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "808937433797e18b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS/linux/Useful Commands.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fa8649a5d03f82aa",
             "type": "leaf",
             "state": {
@@ -59,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,13 +173,13 @@
   },
   "active": "fa8649a5d03f82aa",
   "lastOpenFiles": [
+    "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
+    "courses/TCM/Practical Ethical Hacking - The Complete Course/note taking.md",
     "OS/linux/Useful Commands.md",
     "OS/linux/Directory Structure.md",
     "OS/linux/Linux.md",
     "courses/TCM/Practical Ethical Hacking - The Complete Course/Practical Ethical Hacking - The Complete Course.md",
-    "courses/TCM/Practical Ethical Hacking - The Complete Course/note taking.md",
     "courses/UoM/Python for Beginners/4. Python Programming - Essentials.md",
-    "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
     "courses/UoM/Python for Beginners/assets/images/pass in loops.png",
     "courses/UoM/Python for Beginners/assets/images/nested loop example.png",
     "courses/UoM/Python for Beginners/assets/images/nested loops.png",
