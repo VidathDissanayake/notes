@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/linux/Linux.md",
+                "file": "OS/linux/Useful Commands.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa8649a5d03f82aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS/linux/Directory Structure.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/linux/Linux.md"
+                "file": "OS/linux/Directory Structure.md"
               }
             }
           },
@@ -150,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/linux/Linux.md",
+                "file": "OS/linux/Directory Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/linux/Linux.md",
+                "file": "OS/linux/Directory Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,8 +211,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "808937433797e18b",
+  "active": "fa8649a5d03f82aa",
   "lastOpenFiles": [
+    "OS/linux/Useful Commands.md",
+    "OS/linux/Directory Structure.md",
+    "OS/linux/Linux.md",
     "courses/TCM/Practical Ethical Hacking - The Complete Course/Practical Ethical Hacking - The Complete Course.md",
     "courses/TCM/Practical Ethical Hacking - The Complete Course/note taking.md",
     "courses/UoM/Python for Beginners/4. Python Programming - Essentials.md",
@@ -232,12 +248,10 @@
     "AI",
     "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP.md",
     "OS/windows/Windows.md",
-    "OS/linux/Linux.md",
     "programming/Assembly/Assembly.md",
     "network/communication protocol/TCP IP layer 1/Wi-Fi.md",
     "network/reference models/layers/Data Link Layer.md",
     "network/MAC address.md",
-    "network/reference models/OSI Model/PDU/PDU.md",
-    "network/reference models/OSI Model/PDU/frame.md"
+    "network/reference models/OSI Model/PDU/PDU.md"
   ]
 }
