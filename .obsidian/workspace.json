@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "808937433797e18b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,7 +195,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4fb40a3f28dffd9b",
+  "active": "808937433797e18b",
   "lastOpenFiles": [
     "courses/TCM/Practical Ethical Hacking - The Complete Course/Practical Ethical Hacking - The Complete Course.md",
     "courses/TCM/Practical Ethical Hacking - The Complete Course/note taking.md",
