@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "658946e88d095be4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +182,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "fa8649a5d03f82aa",
+  "active": "658946e88d095be4",
   "lastOpenFiles": [
     "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
     "courses/TCM/Practical Ethical Hacking - The Complete Course/note taking.md",
