@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "1. Python Data Structures",
+      "path": "courses/UoM/Programming in Python/1. Python Data Structures.md"
+    },
+    {
+      "basename": "1. Introduction to Programming",
+      "path": "courses/UoM/Python for Beginners/1. Introduction to Programming.md"
+    },
+    {
+      "basename": "Programming in Python",
+      "path": "courses/UoM/Programming in Python/Programming in Python.md"
+    },
+    {
+      "basename": "2. Getting Started with Python",
+      "path": "courses/UoM/Python for Beginners/2. Getting Started with Python.md"
+    },
+    {
+      "basename": "Python for Beginners",
+      "path": "courses/UoM/Python for Beginners/Python for Beginners.md"
+    },
+    {
+      "basename": "Python",
+      "path": "programming/python/Python.md"
+    },
+    {
       "basename": "Directory Structure",
       "path": "OS/linux/Directory Structure.md"
     },
@@ -27,22 +51,6 @@
     {
       "basename": "4. Python Programming - Essentials",
       "path": "courses/UoM/Python for Beginners/4. Python Programming - Essentials.md"
-    },
-    {
-      "basename": "2. Getting Started with Python",
-      "path": "courses/UoM/Python for Beginners/2. Getting Started with Python.md"
-    },
-    {
-      "basename": "Python for Beginners",
-      "path": "courses/UoM/Python for Beginners/Python for Beginners.md"
-    },
-    {
-      "basename": "1. Introduction to Programming",
-      "path": "courses/UoM/Python for Beginners/1. Introduction to Programming.md"
-    },
-    {
-      "basename": "Python",
-      "path": "programming/python/Python.md"
     },
     {
       "basename": "arithmetic operators",

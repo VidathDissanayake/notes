@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4c5f3c492cb3705e",
+        "id": "61c02e8cf1c01c80",
         "type": "tabs",
         "children": [
           {
-            "id": "fa8649a5d03f82aa",
+            "id": "1792138293d70d81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/linux/Directory Structure.md",
+                "file": "courses/UoM/Programming in Python/1. Python Data Structures.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 294.5
   },
   "right": {
     "id": "f774ca1bbbb31431",
@@ -105,16 +105,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/linux/Directory Structure.md"
+                "file": "courses/UoM/Programming in Python/1. Python Data Structures.md"
               }
-            }
-          },
-          {
-            "id": "b98b47c7b17c68ec",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           },
           {
@@ -123,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/linux/Directory Structure.md",
+                "file": "courses/UoM/Programming in Python/1. Python Data Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/linux/Directory Structure.md",
+                "file": "courses/UoM/Programming in Python/1. Python Data Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,8 +146,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,12 +162,19 @@
       "random-note:Open random note": false
     }
   },
-  "active": "fa8649a5d03f82aa",
+  "active": "1792138293d70d81",
   "lastOpenFiles": [
+    "courses/UoM/Python for Beginners/1. Introduction to Programming.md",
+    "courses/UoM/Programming in Python/Programming in Python.md",
+    "courses/UoM/Programming in Python/1. Python Data Structures.md",
+    "courses/UoM/Python for Beginners/2. Getting Started with Python.md",
+    "courses/UoM/Python for Beginners/Python for Beginners.md",
+    "programming/python/Python.md",
+    "OS/linux/Directory Structure.md",
+    "courses/UoM/Programming in Python",
     "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
     "courses/TCM/Practical Ethical Hacking - The Complete Course/note taking.md",
     "OS/linux/Useful Commands.md",
-    "OS/linux/Directory Structure.md",
     "OS/linux/Linux.md",
     "courses/TCM/Practical Ethical Hacking - The Complete Course/Practical Ethical Hacking - The Complete Course.md",
     "courses/UoM/Python for Beginners/4. Python Programming - Essentials.md",
@@ -190,10 +188,6 @@
     "courses/UoM/Python for Beginners/assets/images/a simple matrix.png",
     "courses/UoM/Python for Beginners/assets/images/structure of a matrix.png",
     "courses/UoM/Python for Beginners/assets/images/list indexing.png",
-    "courses/UoM/Python for Beginners/2. Getting Started with Python.md",
-    "courses/UoM/Python for Beginners/Python for Beginners.md",
-    "courses/UoM/Python for Beginners/1. Introduction to Programming.md",
-    "programming/python/Python.md",
     "GIT/Credential Management.md",
     "GIT/GIT.md",
     "courses/courses.md",
@@ -210,8 +204,6 @@
     "OS/windows/Windows.md",
     "programming/Assembly/Assembly.md",
     "network/communication protocol/TCP IP layer 1/Wi-Fi.md",
-    "network/reference models/layers/Data Link Layer.md",
-    "network/MAC address.md",
-    "network/reference models/OSI Model/PDU/PDU.md"
+    "network/reference models/layers/Data Link Layer.md"
   ]
 }
