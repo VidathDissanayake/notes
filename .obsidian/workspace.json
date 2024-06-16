@@ -11,26 +11,8 @@
             "id": "3fdc2b79116972f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/Engineering Foundation/Python Programming.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3828c9eb58ffdbb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/UoM/Python for Beginners/1. Introduction to Programming.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -87,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -118,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "courses/Engineering Foundation/Python Programming.md"
-              }
+              "state": {}
             }
           },
           {
@@ -129,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Engineering Foundation/Python Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Engineering Foundation/Python Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,10 +153,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c8b2360962fb1f5f",
+  "active": "3fdc2b79116972f8",
   "lastOpenFiles": [
-    "courses/UoM/Python for Beginners/1. Introduction to Programming.md",
     "courses/Engineering Foundation/Python Programming.md",
+    "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
+    "general/encoding and decoding/hex/hex.md",
+    "courses/UoM/Python for Beginners/1. Introduction to Programming.md",
     "courses/Engineering Foundation/Engineering Foundation.md",
     "courses/UoM/Python for Beginners/Python for Beginners.md",
     "courses/courses.md",
@@ -190,7 +169,6 @@
     "programming/python/Python.md",
     "OS/linux/Directory Structure.md",
     "courses/UoM/Programming in Python",
-    "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
     "courses/TCM/Practical Ethical Hacking - The Complete Course/note taking.md",
     "OS/linux/Useful Commands.md",
     "OS/linux/Linux.md",
@@ -218,7 +196,6 @@
     "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP address.md",
     "AI",
     "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP.md",
-    "OS/windows/Windows.md",
-    "programming/Assembly/Assembly.md"
+    "OS/windows/Windows.md"
   ]
 }

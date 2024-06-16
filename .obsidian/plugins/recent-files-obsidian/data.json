@@ -5,6 +5,14 @@
       "path": "courses/Engineering Foundation/Python Programming.md"
     },
     {
+      "basename": "3. Python Programming – Basics",
+      "path": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md"
+    },
+    {
+      "basename": "hex",
+      "path": "general/encoding and decoding/hex/hex.md"
+    },
+    {
       "basename": "1. Introduction to Programming",
       "path": "courses/UoM/Python for Beginners/1. Introduction to Programming.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "Directory Structure",
       "path": "OS/linux/Directory Structure.md"
-    },
-    {
-      "basename": "3. Python Programming – Basics",
-      "path": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md"
     },
     {
       "basename": "note taking",
