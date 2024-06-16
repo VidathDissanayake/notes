@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "61c02e8cf1c01c80",
+        "id": "d6f50011db74f83e",
         "type": "tabs",
         "children": [
           {
-            "id": "3fdc2b79116972f8",
+            "id": "17c93a11d47adf9c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -137,7 +137,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -153,7 +154,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "3fdc2b79116972f8",
+  "active": "17c93a11d47adf9c",
   "lastOpenFiles": [
     "courses/Engineering Foundation/Python Programming.md",
     "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
