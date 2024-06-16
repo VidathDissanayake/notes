@@ -5,8 +5,16 @@
       "path": "courses/Engineering Foundation/Python Programming.md"
     },
     {
+      "basename": "Programming in Python",
+      "path": "courses/UoM/Programming in Python/Programming in Python.md"
+    },
+    {
       "basename": "3. Python Programming – Basics",
       "path": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md"
+    },
+    {
+      "basename": "1. Python Data Structures",
+      "path": "courses/UoM/Programming in Python/1. Python Data Structures.md"
     },
     {
       "basename": "hex",
@@ -27,14 +35,6 @@
     {
       "basename": "courses",
       "path": "courses/courses.md"
-    },
-    {
-      "basename": "1. Python Data Structures",
-      "path": "courses/UoM/Programming in Python/1. Python Data Structures.md"
-    },
-    {
-      "basename": "Programming in Python",
-      "path": "courses/UoM/Programming in Python/Programming in Python.md"
     },
     {
       "basename": "2. Getting Started with Python",
