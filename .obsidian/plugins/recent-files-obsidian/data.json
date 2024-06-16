@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "1. Python Data Structures",
-      "path": "courses/UoM/Programming in Python/1. Python Data Structures.md"
+      "basename": "Python Programming",
+      "path": "courses/Engineering Foundation/Python Programming.md"
     },
     {
       "basename": "1. Introduction to Programming",
       "path": "courses/UoM/Python for Beginners/1. Introduction to Programming.md"
+    },
+    {
+      "basename": "Engineering Foundation",
+      "path": "courses/Engineering Foundation/Engineering Foundation.md"
+    },
+    {
+      "basename": "Python for Beginners",
+      "path": "courses/UoM/Python for Beginners/Python for Beginners.md"
+    },
+    {
+      "basename": "courses",
+      "path": "courses/courses.md"
+    },
+    {
+      "basename": "1. Python Data Structures",
+      "path": "courses/UoM/Programming in Python/1. Python Data Structures.md"
     },
     {
       "basename": "Programming in Python",
@@ -15,10 +31,6 @@
     {
       "basename": "2. Getting Started with Python",
       "path": "courses/UoM/Python for Beginners/2. Getting Started with Python.md"
-    },
-    {
-      "basename": "Python for Beginners",
-      "path": "courses/UoM/Python for Beginners/Python for Beginners.md"
     },
     {
       "basename": "Python",
@@ -67,10 +79,6 @@
     {
       "basename": "GIT",
       "path": "GIT/GIT.md"
-    },
-    {
-      "basename": "courses",
-      "path": "courses/courses.md"
     },
     {
       "basename": "AI",
