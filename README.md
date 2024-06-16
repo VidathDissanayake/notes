@@ -5,4 +5,4 @@
 > Links:
 > Sources:  
 
-Notes about thing that I am learning.
+Notes about things that I am learning.
