@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Engineering Foundation/Python Programming.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Engineering Foundation/Python Programming.md"
+                "file": "README.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Engineering Foundation/Python Programming.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Engineering Foundation/Python Programming.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,10 +165,10 @@
   },
   "active": "d3312e31587de9bb",
   "lastOpenFiles": [
+    "courses/Engineering Foundation/Python Programming.md",
     "courses/UoM/Programming in Python/Programming in Python.md",
     "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
     "courses/UoM/Programming in Python/1. Python Data Structures.md",
-    "courses/Engineering Foundation/Python Programming.md",
     "general/encoding and decoding/hex/hex.md",
     "courses/UoM/Python for Beginners/1. Introduction to Programming.md",
     "courses/Engineering Foundation/Engineering Foundation.md",

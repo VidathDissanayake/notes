@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Python Programming",
       "path": "courses/Engineering Foundation/Python Programming.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "hacking",
       "path": "hacking/hacking.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "IP address",
