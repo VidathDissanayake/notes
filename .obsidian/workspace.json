@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3700cc0f7cf128fe",
+            "id": "194f5c4ece90a967",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 282.5,
+    "collapsed": true
   },
   "right": {
     "id": "f774ca1bbbb31431",
@@ -164,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,11 +178,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "3700cc0f7cf128fe",
+  "active": "194f5c4ece90a967",
   "lastOpenFiles": [
-    "courses/Engineering Foundation/assets/images/classification of calculus.png",
+    "courses/Engineering Foundation/assets/images/Pasted image 20240617134617.png",
     "courses/Engineering Foundation/Differential Equations.md",
     "courses/Engineering Foundation/Python Programming.md",
+    "courses/Engineering Foundation/assets/documents/DifferentialEquation HK Dass Chapter 3.pdf",
+    "courses/Engineering Foundation/assets/documents",
+    "courses/Engineering Foundation/assets/images/DifferentialEquation HK Dass Chapter 3 2.pdf",
+    "courses/Engineering Foundation/assets/images/DifferentialEquation HK Dass Chapter 3 1.pdf",
+    "courses/Engineering Foundation/assets/images/classification of calculus.png",
     "courses/UoM/Python for Beginners/1. Introduction to Programming.md",
     "courses/UoM/Python for Beginners/2. Getting Started with Python.md",
     "courses/UoM/Programming in Python/1. Python Data Structures.md",
@@ -211,15 +218,12 @@
     "courses/UoM/Python for Beginners/assets/images/sequence, condition, loop.png",
     "courses/UoM/Python for Beginners/assets/images/indexing.png",
     "courses/UoM/Python for Beginners/assets/images/a simple matrix.png",
-    "courses/UoM/Python for Beginners/assets/images/structure of a matrix.png",
     "GIT/Credential Management.md",
     "GIT/GIT.md",
     "AI/AI.md",
     "GIT",
     "AI/Deep Learning (DL).md",
     "hacking/hacking.md",
-    "AI/assets/images",
-    "AI/assets",
-    "AI"
+    "AI/assets/images"
   ]
 }

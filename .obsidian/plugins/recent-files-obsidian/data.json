@@ -5,12 +5,16 @@
       "path": "courses/Engineering Foundation/Differential Equations.md"
     },
     {
-      "basename": "classification of calculus",
-      "path": "courses/Engineering Foundation/assets/images/classification of calculus.png"
-    },
-    {
       "basename": "Python Programming",
       "path": "courses/Engineering Foundation/Python Programming.md"
+    },
+    {
+      "basename": "DifferentialEquation HK Dass Chapter 3",
+      "path": "courses/Engineering Foundation/assets/documents/DifferentialEquation HK Dass Chapter 3.pdf"
+    },
+    {
+      "basename": "classification of calculus",
+      "path": "courses/Engineering Foundation/assets/images/classification of calculus.png"
     },
     {
       "basename": "1. Introduction to Programming",
