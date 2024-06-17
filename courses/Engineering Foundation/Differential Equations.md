@@ -54,3 +54,10 @@ Depending on $F(x,y)$ various methods are used to solve the DE
 ### Variable Separable
 
 A DE of the form can be solved by separating variables and integration.
+
+### Reducible to Variable Separable
+
+A differential equation of the form,
+$$\frac{dy}{dx}=f(ax+by+c)$$
+ can be reduced to variable separable by substituting $$z=ax+by+c$$
+ 
