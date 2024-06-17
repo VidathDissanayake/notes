@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "README.md"
               }
             }
           },
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,8 +176,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "193ddc5f273a5966",
+  "active": "d3312e31587de9bb",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "README.md",
     "courses/Engineering Foundation/Python Programming.md",
     "courses/UoM/Programming in Python/Programming in Python.md",
@@ -219,7 +219,6 @@
     "AI/assets",
     "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP address.md",
     "AI",
-    "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP.md",
-    "OS/windows/Windows.md"
+    "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP.md"
   ]
 }
