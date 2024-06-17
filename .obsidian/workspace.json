@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c75832883fd31a52",
+        "id": "e225d712b2b7b7e5",
         "type": "tabs",
         "children": [
           {
-            "id": "d3312e31587de9bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "193ddc5f273a5966",
+            "id": "144f0fd5543d834d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -176,10 +163,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d3312e31587de9bb",
+  "active": "144f0fd5543d834d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "README.md",
+    "conflict-files-obsidian-git.md",
     "courses/Engineering Foundation/Python Programming.md",
     "courses/UoM/Programming in Python/Programming in Python.md",
     "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
