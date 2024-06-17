@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "e225d712b2b7b7e5",
+        "id": "615e1808ea38931e",
         "type": "tabs",
         "children": [
           {
-            "id": "144f0fd5543d834d",
+            "id": "3700cc0f7cf128fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "courses/Engineering Foundation/Differential Equations.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e33595367a6511a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "courses/Engineering Foundation/Python Programming.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "courses/Engineering Foundation/Differential Equations.md"
               }
             }
           },
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "courses/Engineering Foundation/Differential Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "courses/Engineering Foundation/Differential Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,11 +176,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "144f0fd5543d834d",
+  "active": "3700cc0f7cf128fe",
   "lastOpenFiles": [
+    "courses/Engineering Foundation/Python Programming.md",
+    "courses/Engineering Foundation/Differential Equations.md",
     "README.md",
     "conflict-files-obsidian-git.md",
-    "courses/Engineering Foundation/Python Programming.md",
     "courses/UoM/Programming in Python/Programming in Python.md",
     "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
     "courses/UoM/Programming in Python/1. Python Data Structures.md",
@@ -205,7 +219,6 @@
     "AI/assets/images",
     "AI/assets",
     "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP address.md",
-    "AI",
-    "network/communication protocol/TCP IP layer 2/OSI layer 3/IP/IP.md"
+    "AI"
   ]
 }
