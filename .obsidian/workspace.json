@@ -87,7 +87,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -178,7 +179,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "194f5c4ece90a967",
+  "active": "bfc1904de340394f",
   "lastOpenFiles": [
     "courses/Engineering Foundation/assets/images/Pasted image 20240617134617.png",
     "courses/Engineering Foundation/Differential Equations.md",

@@ -1,4 +1,4 @@
-mmmmmmmmmmmmmmmm# Differential Equations
+# Differential Equations
 
 > Vidath Dissanayake | Sri Lanka  
 > Tags: #courses #courses/PreEng 
