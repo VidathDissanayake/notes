@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa54ee62f021e85f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -164,13 +177,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ab214bff9ece4510",
+  "active": "194f5c4ece90a967",
   "lastOpenFiles": [
+    "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
+    "courses/UoM/Python for Beginners/2. Getting Started with Python.md",
+    "courses/UoM/Python for Beginners/1. Introduction to Programming.md",
+    "courses/Engineering Foundation/Python Programming.md",
     "courses/Engineering Foundation/assets/documents/Day_02_Getting started.pdf",
     "courses/Engineering Foundation/assets/documents/Day_01_Turtle_Graphics_Online.pdf",
     "courses/Engineering Foundation/Basic Electronics.md",
     "courses/Engineering Foundation/Differential Equations.md",
-    "courses/Engineering Foundation/Python Programming.md",
     "GIT/Credential Management.md",
     "courses/Engineering Foundation/assets/images/Pasted image 20240617134617.png",
     "courses/Engineering Foundation/assets/documents/DifferentialEquation HK Dass Chapter 3.pdf",
@@ -178,12 +194,9 @@
     "courses/Engineering Foundation/assets/images/DifferentialEquation HK Dass Chapter 3 2.pdf",
     "courses/Engineering Foundation/assets/images/DifferentialEquation HK Dass Chapter 3 1.pdf",
     "courses/Engineering Foundation/assets/images/classification of calculus.png",
-    "courses/UoM/Python for Beginners/1. Introduction to Programming.md",
-    "courses/UoM/Python for Beginners/2. Getting Started with Python.md",
     "courses/UoM/Programming in Python/1. Python Data Structures.md",
     "courses/Engineering Foundation/assets/images",
     "courses/Engineering Foundation/assets",
-    "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
     "README.md",
     "conflict-files-obsidian-git.md",
     "courses/UoM/Programming in Python/Programming in Python.md",
@@ -210,7 +223,6 @@
     "courses/UoM/Python for Beginners/assets/images/a simple matrix.png",
     "GIT/GIT.md",
     "AI/AI.md",
-    "GIT",
     "AI/Deep Learning (DL).md"
   ]
 }

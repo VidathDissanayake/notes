@@ -5,6 +5,18 @@
       "path": "courses/Engineering Foundation/Python Programming.md"
     },
     {
+      "basename": "3. Python Programming – Basics",
+      "path": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md"
+    },
+    {
+      "basename": "2. Getting Started with Python",
+      "path": "courses/UoM/Python for Beginners/2. Getting Started with Python.md"
+    },
+    {
+      "basename": "1. Introduction to Programming",
+      "path": "courses/UoM/Python for Beginners/1. Introduction to Programming.md"
+    },
+    {
       "basename": "Basic Electronics",
       "path": "courses/Engineering Foundation/Basic Electronics.md"
     },
@@ -25,20 +37,8 @@
       "path": "courses/Engineering Foundation/assets/images/classification of calculus.png"
     },
     {
-      "basename": "1. Introduction to Programming",
-      "path": "courses/UoM/Python for Beginners/1. Introduction to Programming.md"
-    },
-    {
-      "basename": "2. Getting Started with Python",
-      "path": "courses/UoM/Python for Beginners/2. Getting Started with Python.md"
-    },
-    {
       "basename": "1. Python Data Structures",
       "path": "courses/UoM/Programming in Python/1. Python Data Structures.md"
-    },
-    {
-      "basename": "3. Python Programming – Basics",
-      "path": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md"
     },
     {
       "basename": "README",

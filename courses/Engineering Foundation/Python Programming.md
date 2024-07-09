@@ -68,8 +68,11 @@ left(90); forward(100; forward(50)
 ## 2. Python IDLE as a Calculator
 
 
-> Links:  
+> Links:  [3. Python Programming – Basics](../UoM/Python%20for%20Beginners/3.%20Python%20Programming%20–%20Basics.md)
 > Sources: [Python 2 English Python IDLE as a Calculator](https://www.youtube.com/watch?v=hul3niTcHBY) [Download Python](https://www.python.org/downloads/?authuser=0) [Download QPython for Mobile](https://play.google.com/store/apps/details?id=org.qpython.qpy3&hl=en&gl=US&pli=1)
 
 ![Day_02_Getting started](assets/documents/Day_02_Getting%20started.pdf)
 
+An Integrated Development Environment (IDE) is useful when programming. Python comes with an IDE called IDLE. 
+
+For details about arithmetic operations, refer to [3. Python Programming – Basics](../UoM/Python%20for%20Beginners/3.%20Python%20Programming%20–%20Basics.md).
