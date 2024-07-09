@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Engineering Foundation/Differential Equations.md",
+                "file": "GIT/Credential Management.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 312.5
   },
   "right": {
     "id": "f774ca1bbbb31431",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Engineering Foundation/Differential Equations.md"
+                "file": "GIT/Credential Management.md"
               }
             }
           },
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Engineering Foundation/Differential Equations.md",
+                "file": "GIT/Credential Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Engineering Foundation/Differential Equations.md",
+                "file": "GIT/Credential Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
+    "width": 428.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -180,9 +179,9 @@
   },
   "active": "194f5c4ece90a967",
   "lastOpenFiles": [
-    "courses/Engineering Foundation/assets/images/Pasted image 20240617134617.png",
-    "courses/Engineering Foundation/Differential Equations.md",
     "courses/Engineering Foundation/Python Programming.md",
+    "courses/Engineering Foundation/Differential Equations.md",
+    "courses/Engineering Foundation/assets/images/Pasted image 20240617134617.png",
     "courses/Engineering Foundation/assets/documents/DifferentialEquation HK Dass Chapter 3.pdf",
     "courses/Engineering Foundation/assets/documents",
     "courses/Engineering Foundation/assets/images/DifferentialEquation HK Dass Chapter 3 2.pdf",

@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Differential Equations",
-      "path": "courses/Engineering Foundation/Differential Equations.md"
+      "basename": "Credential Management",
+      "path": "GIT/Credential Management.md"
     },
     {
       "basename": "Python Programming",
       "path": "courses/Engineering Foundation/Python Programming.md"
+    },
+    {
+      "basename": "Differential Equations",
+      "path": "courses/Engineering Foundation/Differential Equations.md"
     },
     {
       "basename": "DifferentialEquation HK Dass Chapter 3",
@@ -91,10 +95,6 @@
     {
       "basename": "order of precedence",
       "path": "courses/UoM/Python for Beginners/assets/images/order of precedence.png"
-    },
-    {
-      "basename": "Credential Management",
-      "path": "GIT/Credential Management.md"
     },
     {
       "basename": "GIT",

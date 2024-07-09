@@ -3,7 +3,7 @@
 
 # Linux
 
-Download the GCM deb package from https://github.com/git-ecosystem/git-credential-manager/latest
+Download the GCM deb package from https://github.com/git-ecosystem/git-credential-manager/releases/latest
 
 Run 
 ```bash
