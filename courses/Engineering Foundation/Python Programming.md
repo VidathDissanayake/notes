@@ -81,3 +81,5 @@ You can use `e` to denote `*10**` for numbers.
 E.g:
 - `1e3` = 1000
 - `1e-3` = 0.001
+
+`round({float},{no of decimal places})` can be used to round off floats. Default behaviour is to round to an integer.
