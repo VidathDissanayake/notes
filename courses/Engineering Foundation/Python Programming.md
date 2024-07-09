@@ -112,4 +112,9 @@ In python, anything after a `#` is considered as a comment.
 
 For more about variables, refer to [3. Python Programming – Basics](../UoM/Python%20for%20Beginners/3.%20Python%20Programming%20–%20Basics.md).
 
-A variable can be deleted using `del variable`.
+- A variable can be deleted using `del variable`.
+- `=` is the assignment operator which assigns values to variables.
+- `a,b=b,a` can be used to swap the values of 2 variables.
+- `a=b=12` is a multiple assignment, which is the same as `a-12` and `b=12`.
+- `a,b=12,13` is also a multiple assignment, which is the same as `a=12` and `b=13`.
+- The underscore (`_`) is a special variable in python which has the result of the previous calculation.
