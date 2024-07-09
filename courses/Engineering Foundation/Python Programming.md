@@ -76,3 +76,8 @@ left(90); forward(100; forward(50)
 An Integrated Development Environment (IDE) is useful when programming. Python comes with an IDE called IDLE. 
 
 For details about arithmetic operations, refer to [3. Python Programming – Basics](../UoM/Python%20for%20Beginners/3.%20Python%20Programming%20–%20Basics.md).
+
+You can use `e` to denote `*10**` for numbers.
+E.g:
+- `1e3` = 1000
+- `1e-3` = 0.001
