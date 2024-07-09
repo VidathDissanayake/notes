@@ -110,6 +110,8 @@ When importing libraries, there are several ways to do it.
 
 In python, anything after a `#` is considered as a comment.
 
+If the `#` is inside a string, such as `print('#Hello, World!)` it is not considered as a comment.
+
 For more about variables, refer to [3. Python Programming – Basics](../UoM/Python%20for%20Beginners/3.%20Python%20Programming%20–%20Basics.md).
 
 - A variable can be deleted using `del variable`.
