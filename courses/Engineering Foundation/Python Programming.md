@@ -41,6 +41,10 @@ Available functions for Turtle:
 - `fillcolor(colour)` - Used in conjunction with `begin_fill()` and `end_fill()`. Fills whatever is between these two functions in the colour specified.
 - `ht()` - Hides the turtle head.
 - `st()` - Shows the turtle head again after being hidden by `ht()`.
+- `write()` - Writes text on the screen at the current turtle head position. You can format the text using 
+```python
+write('{text}', align='{alignment}', font=('{font}', {size}, '{modifiers(bold/italic)}')
+```
 
 You can also provide mathematical expressions as the input for functions.
 E.g:

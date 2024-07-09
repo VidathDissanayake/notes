@@ -13,19 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/Credential Management.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6385ef5c53d0f65f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "courses/Engineering Foundation/Python Programming.md",
                 "mode": "source",
                 "backlinks": false,
@@ -118,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/Credential Management.md"
+                "file": "courses/Engineering Foundation/Python Programming.md"
               }
             }
           },
@@ -128,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/Credential Management.md",
+                "file": "courses/Engineering Foundation/Python Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT/Credential Management.md",
+                "file": "courses/Engineering Foundation/Python Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,8 +166,9 @@
   },
   "active": "194f5c4ece90a967",
   "lastOpenFiles": [
-    "courses/Engineering Foundation/Basic Electronics.md",
     "courses/Engineering Foundation/Python Programming.md",
+    "GIT/Credential Management.md",
+    "courses/Engineering Foundation/Basic Electronics.md",
     "courses/Engineering Foundation/Differential Equations.md",
     "courses/Engineering Foundation/assets/images/Pasted image 20240617134617.png",
     "courses/Engineering Foundation/assets/documents/DifferentialEquation HK Dass Chapter 3.pdf",
@@ -218,7 +206,6 @@
     "courses/UoM/Python for Beginners/assets/images/sequence, condition, loop.png",
     "courses/UoM/Python for Beginners/assets/images/indexing.png",
     "courses/UoM/Python for Beginners/assets/images/a simple matrix.png",
-    "GIT/Credential Management.md",
     "GIT/GIT.md",
     "AI/AI.md",
     "GIT",
