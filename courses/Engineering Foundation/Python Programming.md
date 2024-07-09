@@ -82,4 +82,34 @@ E.g:
 - `1e3` = 1000
 - `1e-3` = 0.001
 
+When using mathematical functions, it should be kept in mind that some numbers are not exactly represented in binary and therefore functions can give unexpected results. 
+E.g:
+- `round(3.5)` = 4
+- `round(4.5)` = 4
+- `round(5.5)` = 6
+- `math.sin(math.pi/2)` = 1.0
+- `math.cos(math.pi/2)` = 6.123233995736766e-17
+
+
 `round({float},{no of decimal places})` can be used to round off floats. Default behaviour is to round to an integer.
+
+For more advanced mathematical functions, you can import the math library by `import math`. This allows you to use functions like trigonometric functions and constants such as pi.
+
+When importing libraries, there are several ways to do it.
+- `import library` - Imports the entire library. Can access functions by using `library.function()`
+- `from library import *` - Imports the entire library. Can access functions by directly using `function()`.
+- `from library import function` - Imports only the necessary function. Can access function by directly using `function()`.
+- `from library import function as f` - Imports only the necessary function. Can access function by directly using `f()`.
+
+---
+
+## Variables and Comments
+
+> Links: [3. Python Programming – Basics](../UoM/Python%20for%20Beginners/3.%20Python%20Programming%20–%20Basics.md)
+> Sources: [Python 3 - Variables and Comments ( Mixed -2021)](https://www.youtube.com/watch?v=88s4hjWf_lE)
+
+In python, anything after a `#` is considered as a comment.
+
+For more about variables, refer to [3. Python Programming – Basics](../UoM/Python%20for%20Beginners/3.%20Python%20Programming%20–%20Basics.md).
+
+A variable can be deleted using `del variable`.

@@ -74,13 +74,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
   "right": {
     "id": "f774ca1bbbb31431",
@@ -168,10 +166,11 @@
   },
   "active": "d3beffa3831e2b2d",
   "lastOpenFiles": [
-    "courses/Engineering Foundation/Python Programming.md",
     "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
-    "courses/UoM/Python for Beginners/2. Getting Started with Python.md",
+    "courses/Engineering Foundation/Python Programming.md",
+    "courses/UoM/Python for Beginners/4. Python Programming - Essentials.md",
     "courses/UoM/Python for Beginners/1. Introduction to Programming.md",
+    "courses/UoM/Python for Beginners/2. Getting Started with Python.md",
     "courses/Engineering Foundation/assets/documents/Day_02_Getting started.pdf",
     "courses/Engineering Foundation/assets/documents/Day_01_Turtle_Graphics_Online.pdf",
     "courses/Engineering Foundation/Basic Electronics.md",
@@ -201,7 +200,6 @@
     "OS/linux/Useful Commands.md",
     "OS/linux/Linux.md",
     "courses/TCM/Practical Ethical Hacking - The Complete Course/Practical Ethical Hacking - The Complete Course.md",
-    "courses/UoM/Python for Beginners/4. Python Programming - Essentials.md",
     "courses/UoM/Python for Beginners/assets/images/pass in loops.png",
     "courses/UoM/Python for Beginners/assets/images/nested loop example.png",
     "courses/UoM/Python for Beginners/assets/images/nested loops.png",

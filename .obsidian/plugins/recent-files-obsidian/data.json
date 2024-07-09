@@ -9,12 +9,16 @@
       "path": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md"
     },
     {
-      "basename": "2. Getting Started with Python",
-      "path": "courses/UoM/Python for Beginners/2. Getting Started with Python.md"
+      "basename": "4. Python Programming - Essentials",
+      "path": "courses/UoM/Python for Beginners/4. Python Programming - Essentials.md"
     },
     {
       "basename": "1. Introduction to Programming",
       "path": "courses/UoM/Python for Beginners/1. Introduction to Programming.md"
+    },
+    {
+      "basename": "2. Getting Started with Python",
+      "path": "courses/UoM/Python for Beginners/2. Getting Started with Python.md"
     },
     {
       "basename": "Basic Electronics",
@@ -87,10 +91,6 @@
     {
       "basename": "Practical Ethical Hacking - The Complete Course",
       "path": "courses/TCM/Practical Ethical Hacking - The Complete Course/Practical Ethical Hacking - The Complete Course.md"
-    },
-    {
-      "basename": "4. Python Programming - Essentials",
-      "path": "courses/UoM/Python for Beginners/4. Python Programming - Essentials.md"
     },
     {
       "basename": "arithmetic operators",
