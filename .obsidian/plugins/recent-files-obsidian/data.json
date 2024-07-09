@@ -1,12 +1,25 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
       "basename": "Credential Management",
       "path": "GIT/Credential Management.md"
-    },
-    {
+=======
       "basename": "Python Programming",
       "path": "courses/Engineering Foundation/Python Programming.md"
+    },
+    {
+      "basename": "Differential Equations",
+      "path": "courses/Engineering Foundation/Differential Equations.md"
+>>>>>>> 7afba79ba22bc82e432afd909aeea9d9af49c050
+    },
+    {
+      "basename": "Basic Electronics",
+      "path": "courses/Engineering Foundation/Basic Electronics.md"
+    },
+    {
+      "basename": "Engineering Foundation",
+      "path": "courses/Engineering Foundation/Engineering Foundation.md"
     },
     {
       "basename": "Differential Equations",
@@ -47,10 +60,6 @@
     {
       "basename": "hex",
       "path": "general/encoding and decoding/hex/hex.md"
-    },
-    {
-      "basename": "Engineering Foundation",
-      "path": "courses/Engineering Foundation/Engineering Foundation.md"
     },
     {
       "basename": "Python for Beginners",
