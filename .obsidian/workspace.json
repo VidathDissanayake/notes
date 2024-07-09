@@ -164,12 +164,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "194f5c4ece90a967",
+  "active": "ab214bff9ece4510",
   "lastOpenFiles": [
-    "courses/Engineering Foundation/Python Programming.md",
-    "GIT/Credential Management.md",
+    "courses/Engineering Foundation/assets/documents/Day_01_Turtle_Graphics_Online.pdf",
     "courses/Engineering Foundation/Basic Electronics.md",
     "courses/Engineering Foundation/Differential Equations.md",
+    "courses/Engineering Foundation/Python Programming.md",
+    "GIT/Credential Management.md",
     "courses/Engineering Foundation/assets/images/Pasted image 20240617134617.png",
     "courses/Engineering Foundation/assets/documents/DifferentialEquation HK Dass Chapter 3.pdf",
     "courses/Engineering Foundation/assets/documents",
@@ -210,7 +211,6 @@
     "AI/AI.md",
     "GIT",
     "AI/Deep Learning (DL).md",
-    "hacking/hacking.md",
     "AI/assets/images"
   ]
 }

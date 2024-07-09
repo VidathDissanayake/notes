@@ -12,6 +12,8 @@
 > Links:  
 > Sources: [Python 1 - Turtle Graphics (English)](https://www.youtube.com/watch?v=Hu6ERdNJpOA) [Trinket](https://trinket.io/turtle)
 
+![Day_01_Turtle_Graphics_Online](assets/documents/Day_01_Turtle_Graphics_Online.pdf)
+
 Turtle graphics is a popular way for introducing programming to beginners.
 We can use the online interpreter [Trinket](https://trinket.io/turtle) for this.
 
@@ -41,10 +43,11 @@ Available functions for Turtle:
 - `fillcolor(colour)` - Used in conjunction with `begin_fill()` and `end_fill()`. Fills whatever is between these two functions in the colour specified.
 - `ht()` - Hides the turtle head.
 - `st()` - Shows the turtle head again after being hidden by `ht()`.
-- `write()` - Writes text on the screen at the current turtle head position. You can format the text using 
+- `write()` - Writes text on the screen at the current turtle head position. You can format the text using, 
 ```python
-write('{text}', align='{alignment}', font=('{font}', {size}, '{modifiers(bold/italic)}')
-```
+write('{text}', align='{alignment}', font=('{font}', {size}, '{modifiers(bold/italic)}')```
+
+You can you normal python operations such as loops, `input()` and comparisons. x
 
 You can also provide mathematical expressions as the input for functions.
 E.g:
@@ -59,5 +62,6 @@ E.g:
 ```python
 left(90); forward(100; forward(50)
 ```
+---
 
 

@@ -5,12 +5,16 @@
       "path": "courses/Engineering Foundation/Python Programming.md"
     },
     {
-      "basename": "Credential Management",
-      "path": "GIT/Credential Management.md"
+      "basename": "Basic Electronics",
+      "path": "courses/Engineering Foundation/Basic Electronics.md"
     },
     {
       "basename": "Differential Equations",
       "path": "courses/Engineering Foundation/Differential Equations.md"
+    },
+    {
+      "basename": "Credential Management",
+      "path": "GIT/Credential Management.md"
     },
     {
       "basename": "DifferentialEquation HK Dass Chapter 3",
