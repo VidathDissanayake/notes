@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a40734e201a436a6",
+        "id": "b1781b30e35d9f51",
         "type": "tabs",
         "children": [
           {
-            "id": "822f82a676616d2e",
+            "id": "2a70f188e90f1e91",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 282.5
   },
   "right": {
     "id": "f774ca1bbbb31431",
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 428.5,
+    "width": 259.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -155,32 +155,30 @@
       "random-note:Open random note": false
     }
   },
-  "active": "822f82a676616d2e",
+  "active": "2a70f188e90f1e91",
   "lastOpenFiles": [
-    "courses/Engineering Foundation/Python Programming.md",
-    "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
-    "courses/UoM/Python for Beginners/4. Python Programming - Essentials.md",
-    "courses/UoM/Python for Beginners/1. Introduction to Programming.md",
-    "courses/UoM/Python for Beginners/2. Getting Started with Python.md",
     "courses/Engineering Foundation/assets/documents/Day_02_Getting started.pdf",
     "courses/Engineering Foundation/assets/documents/Day_01_Turtle_Graphics_Online.pdf",
-    "courses/Engineering Foundation/Basic Electronics.md",
+    "courses/Engineering Foundation/Python Programming.md",
     "courses/Engineering Foundation/Differential Equations.md",
-    "GIT/Credential Management.md",
+    "courses/Engineering Foundation/Basic Electronics.md",
+    "courses/Engineering Foundation/Engineering Foundation.md",
     "courses/Engineering Foundation/assets/images/Pasted image 20240617134617.png",
     "courses/Engineering Foundation/assets/documents/DifferentialEquation HK Dass Chapter 3.pdf",
     "courses/Engineering Foundation/assets/documents",
     "courses/Engineering Foundation/assets/images/DifferentialEquation HK Dass Chapter 3 2.pdf",
     "courses/Engineering Foundation/assets/images/DifferentialEquation HK Dass Chapter 3 1.pdf",
     "courses/Engineering Foundation/assets/images/classification of calculus.png",
+    "courses/UoM/Python for Beginners/1. Introduction to Programming.md",
+    "courses/UoM/Python for Beginners/2. Getting Started with Python.md",
     "courses/UoM/Programming in Python/1. Python Data Structures.md",
     "courses/Engineering Foundation/assets/images",
     "courses/Engineering Foundation/assets",
+    "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
     "README.md",
     "conflict-files-obsidian-git.md",
     "courses/UoM/Programming in Python/Programming in Python.md",
     "general/encoding and decoding/hex/hex.md",
-    "courses/Engineering Foundation/Engineering Foundation.md",
     "courses/UoM/Python for Beginners/Python for Beginners.md",
     "courses/courses.md",
     "courses/Engineering Foundation",
@@ -191,6 +189,7 @@
     "OS/linux/Useful Commands.md",
     "OS/linux/Linux.md",
     "courses/TCM/Practical Ethical Hacking - The Complete Course/Practical Ethical Hacking - The Complete Course.md",
+    "courses/UoM/Python for Beginners/4. Python Programming - Essentials.md",
     "courses/UoM/Python for Beginners/assets/images/pass in loops.png",
     "courses/UoM/Python for Beginners/assets/images/nested loop example.png",
     "courses/UoM/Python for Beginners/assets/images/nested loops.png",
@@ -199,8 +198,10 @@
     "courses/UoM/Python for Beginners/assets/images/sequence, condition, loop.png",
     "courses/UoM/Python for Beginners/assets/images/indexing.png",
     "courses/UoM/Python for Beginners/assets/images/a simple matrix.png",
+    "GIT/Credential Management.md",
     "GIT/GIT.md",
     "AI/AI.md",
+    "GIT",
     "AI/Deep Learning (DL).md"
   ]
 }
