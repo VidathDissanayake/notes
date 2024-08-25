@@ -11,8 +11,10 @@
             "id": "2a70f188e90f1e91",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
             }
           }
         ]
