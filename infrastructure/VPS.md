@@ -14,7 +14,25 @@ Oracle Cloud free tier has an always free VPS server.
 ## Oracle Cloud Free VPS
 
 > Links:
-> Sources: [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free) [Free VPS with 4 OCPU, 24GB RAM and 200GB storage [ENG ]](http://blog.tomaszdunia.pl/oracle-free-tier-eng/)
+> Sources: [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free) 
 
 First, go to the above link and create a free account. A credit or debit card is needed.
 
+### Ampere A1 ARM VPS
+
+> Sources: [Free VPS with 4 OCPU, 24GB RAM and 200GB storage [ENG ]](http://blog.tomaszdunia.pl/oracle-free-tier-eng/)
+
+Oracle allows creating an arm VPS with up to 4 CPU cores and 24 GB of memory for free.
+
+In the home page, scroll down and click on *Create a VM instance*.
+![Create a VM instance](assets/images/Create%20a%20VM%20instance.png)
+
+Change the name to something you want. Leave *Placement* and *Security* as defaults.
+
+![VM Config ARM 1](assets/images/VM%20Config%20ARM%201.png)
+
+On *Image and Shape*, Click *Change Image* and Select **Ubuntu 22.04**. I found that 24.04 and 22.04 Minimal doesn't have arm images as of yet for this.
+
+![Select Ubuntu 22.04](assets/images/Select%20Ubuntu%2022.04.png)
+
+Next click *Change Shape*. For the *Shape Series* select **Ampere**. Select **VM.Standard.A1.Flex** as the *Shape name*. Change the *Number of OCPUs* to **4** and ensure that *Amount of memory (GB)* is **24**. 
