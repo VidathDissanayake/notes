@@ -4,16 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "b1781b30e35d9f51",
+        "id": "52c5fecc0f1791d4",
         "type": "tabs",
         "children": [
           {
-            "id": "2a70f188e90f1e91",
+            "id": "b8905c2812d05e50",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "infrastructure/VPS.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e61031abeb26ff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "courses/UoM/Python for Beginners/1. Introduction to Programming.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -46,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#programming/web",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "infrastructure/VPS.md"
+              }
             }
           },
           {
@@ -110,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "infrastructure/VPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "infrastructure/VPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,8 +177,18 @@
       "random-note:Open random note": false
     }
   },
-  "active": "2a70f188e90f1e91",
+  "active": "b8905c2812d05e50",
   "lastOpenFiles": [
+    "courses/UoM/Python for Beginners/1. Introduction to Programming.md",
+    "infrastructure/VPS.md",
+    "infrastructure/Infrastructure.md",
+    "README.md",
+    "infrastructure",
+    "Web/web development.md",
+    "Web/Untitled.md",
+    "courses/UoM/Web Design for Beginners/1. Introduction to the World Wide Web, Internet and Protocols/1. Introduction to the World Wide Web, Internet and Protocols.md",
+    "network/reference models/TCP IP Model/TCP IP Model.md",
+    "networking/reference models/TCP IP Model.md",
     "courses/Engineering Foundation/assets/documents/Day_02_Getting started.pdf",
     "courses/Engineering Foundation/assets/documents/Day_01_Turtle_Graphics_Online.pdf",
     "courses/Engineering Foundation/Python Programming.md",
@@ -171,13 +201,11 @@
     "courses/Engineering Foundation/assets/images/DifferentialEquation HK Dass Chapter 3 2.pdf",
     "courses/Engineering Foundation/assets/images/DifferentialEquation HK Dass Chapter 3 1.pdf",
     "courses/Engineering Foundation/assets/images/classification of calculus.png",
-    "courses/UoM/Python for Beginners/1. Introduction to Programming.md",
     "courses/UoM/Python for Beginners/2. Getting Started with Python.md",
     "courses/UoM/Programming in Python/1. Python Data Structures.md",
     "courses/Engineering Foundation/assets/images",
     "courses/Engineering Foundation/assets",
     "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
-    "README.md",
     "conflict-files-obsidian-git.md",
     "courses/UoM/Programming in Python/Programming in Python.md",
     "general/encoding and decoding/hex/hex.md",
@@ -186,12 +214,9 @@
     "courses/Engineering Foundation",
     "programming/python/Python.md",
     "OS/linux/Directory Structure.md",
-    "courses/UoM/Programming in Python",
     "courses/TCM/Practical Ethical Hacking - The Complete Course/note taking.md",
     "OS/linux/Useful Commands.md",
     "OS/linux/Linux.md",
-    "courses/TCM/Practical Ethical Hacking - The Complete Course/Practical Ethical Hacking - The Complete Course.md",
-    "courses/UoM/Python for Beginners/4. Python Programming - Essentials.md",
     "courses/UoM/Python for Beginners/assets/images/pass in loops.png",
     "courses/UoM/Python for Beginners/assets/images/nested loop example.png",
     "courses/UoM/Python for Beginners/assets/images/nested loops.png",
@@ -199,11 +224,6 @@
     "courses/UoM/Python for Beginners/assets/images/while break and continue.png",
     "courses/UoM/Python for Beginners/assets/images/sequence, condition, loop.png",
     "courses/UoM/Python for Beginners/assets/images/indexing.png",
-    "courses/UoM/Python for Beginners/assets/images/a simple matrix.png",
-    "GIT/Credential Management.md",
-    "GIT/GIT.md",
-    "AI/AI.md",
-    "GIT",
-    "AI/Deep Learning (DL).md"
+    "courses/UoM/Python for Beginners/assets/images/a simple matrix.png"
   ]
 }
