@@ -177,8 +177,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b8905c2812d05e50",
+  "active": "ab214bff9ece4510",
   "lastOpenFiles": [
+    "infrastructure/assets/images/Primary VNIC information.png",
+    "infrastructure/assets/images/Select Shape.png",
+    "infrastructure/assets/images/Primary VNIC information.png",
     "infrastructure/assets/images/Select Ubuntu 22.04.png",
     "infrastructure/assets/images/VM Config ARM 1.png",
     "infrastructure/assets/images/Create a VM instance.png",
@@ -221,9 +224,6 @@
     "OS/linux/Useful Commands.md",
     "courses/UoM/Python for Beginners/assets/images/pass in loops.png",
     "courses/UoM/Python for Beginners/assets/images/nested loop example.png",
-    "courses/UoM/Python for Beginners/assets/images/nested loops.png",
-    "courses/UoM/Python for Beginners/assets/images/else in loops.png",
-    "courses/UoM/Python for Beginners/assets/images/while break and continue.png",
-    "courses/UoM/Python for Beginners/assets/images/sequence, condition, loop.png"
+    "courses/UoM/Python for Beginners/assets/images/nested loops.png"
   ]
 }
