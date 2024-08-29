@@ -1,32 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "VPS",
-      "path": "infrastructure/VPS.md"
+      "basename": "Kali-VM Oracle",
+      "path": "infrastructure/Kali-VM Oracle.md"
     },
     {
-      "basename": "1. Introduction to Programming",
-      "path": "courses/UoM/Python for Beginners/1. Introduction to Programming.md"
+      "basename": "VPS",
+      "path": "infrastructure/VPS.md"
     },
     {
       "basename": "Infrastructure",
       "path": "infrastructure/Infrastructure.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "web development",
       "path": "Web/web development.md"
-    },
-    {
-      "basename": "1. Introduction to the World Wide Web, Internet and Protocols",
-      "path": "courses/UoM/Web Design for Beginners/1. Introduction to the World Wide Web, Internet and Protocols/1. Introduction to the World Wide Web, Internet and Protocols.md"
-    },
-    {
-      "basename": "TCP IP Model",
-      "path": "network/reference models/TCP IP Model/TCP IP Model.md"
     },
     {
       "basename": "Python Programming",
@@ -39,6 +27,10 @@
     {
       "basename": "4. Python Programming - Essentials",
       "path": "courses/UoM/Python for Beginners/4. Python Programming - Essentials.md"
+    },
+    {
+      "basename": "1. Introduction to Programming",
+      "path": "courses/UoM/Python for Beginners/1. Introduction to Programming.md"
     },
     {
       "basename": "2. Getting Started with Python",
@@ -67,6 +59,10 @@
     {
       "basename": "1. Python Data Structures",
       "path": "courses/UoM/Programming in Python/1. Python Data Structures.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "Programming in Python",
