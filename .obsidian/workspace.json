@@ -32,8 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d007eff5a0f5d5bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "infrastructure/VPS.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -128,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "infrastructure/VPS.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "infrastructure/VPS.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,8 +191,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ab214bff9ece4510",
+  "active": "d007eff5a0f5d5bb",
   "lastOpenFiles": [
+    "infrastructure/VPS.md",
+    "conflict-files-obsidian-git.md",
+    "infrastructure/Kali-VM Oracle.md",
     "infrastructure/assets/images/Primary VNIC information.png",
     "infrastructure/assets/images/Select Shape.png",
     "infrastructure/assets/images/Primary VNIC information.png",
@@ -188,7 +205,6 @@
     "infrastructure/assets/images",
     "infrastructure/assets",
     "courses/UoM/Python for Beginners/1. Introduction to Programming.md",
-    "infrastructure/VPS.md",
     "infrastructure/Infrastructure.md",
     "README.md",
     "infrastructure",
@@ -213,7 +229,6 @@
     "courses/UoM/Programming in Python/1. Python Data Structures.md",
     "courses/Engineering Foundation/assets/images",
     "courses/UoM/Python for Beginners/3. Python Programming – Basics.md",
-    "conflict-files-obsidian-git.md",
     "courses/UoM/Programming in Python/Programming in Python.md",
     "general/encoding and decoding/hex/hex.md",
     "courses/UoM/Python for Beginners/Python for Beginners.md",
@@ -223,7 +238,6 @@
     "courses/TCM/Practical Ethical Hacking - The Complete Course/note taking.md",
     "OS/linux/Useful Commands.md",
     "courses/UoM/Python for Beginners/assets/images/pass in loops.png",
-    "courses/UoM/Python for Beginners/assets/images/nested loop example.png",
-    "courses/UoM/Python for Beginners/assets/images/nested loops.png"
+    "courses/UoM/Python for Beginners/assets/images/nested loop example.png"
   ]
 }
