@@ -21,12 +21,15 @@
             }
           },
           {
-            "id": "a59dec8a06610a98",
+            "id": "a0f8ad82fb9c64ac",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -116,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "infrastructure/Kali-VM Oracle.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -126,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "infrastructure/Kali-VM Oracle.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "infrastructure/Kali-VM Oracle.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,8 +178,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a59dec8a06610a98",
+  "active": "a0f8ad82fb9c64ac",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "infrastructure/assets/images/Select Shape.png",
+    "infrastructure/assets/images/Primary VNIC information.png",
     "infrastructure/VPS.md",
     "infrastructure/Infrastructure.md",
     "infrastructure/Kali-VM Oracle.md",
@@ -206,7 +212,6 @@
     "courses/Engineering Foundation/assets/images/classification of calculus.png",
     "courses/UoM/Programming in Python/1. Python Data Structures.md",
     "README.md",
-    "conflict-files-obsidian-git.md",
     "courses/UoM/Programming in Python/Programming in Python.md",
     "general/encoding and decoding/hex/hex.md",
     "courses/Engineering Foundation/Engineering Foundation.md",
@@ -217,11 +222,8 @@
     "courses/TCM/Practical Ethical Hacking - The Complete Course/note taking.md",
     "OS/linux/Useful Commands.md",
     "OS/linux/Linux.md",
-    "courses/TCM/Practical Ethical Hacking - The Complete Course/Practical Ethical Hacking - The Complete Course.md",
     "courses/UoM/Python for Beginners/assets/images/pass in loops.png",
     "courses/UoM/Python for Beginners/assets/images/nested loop example.png",
-    "courses/UoM/Python for Beginners/assets/images/nested loops.png",
-    "courses/UoM/Python for Beginners/assets/images/else in loops.png",
-    "courses/UoM/Python for Beginners/assets/images/while break and continue.png"
+    "courses/UoM/Python for Beginners/assets/images/nested loops.png"
   ]
 }

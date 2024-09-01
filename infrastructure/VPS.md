@@ -36,3 +36,11 @@ On *Image and Shape*, Click *Change Image* and Select **Ubuntu 22.04**. I found 
 ![Select Ubuntu 22.04](assets/images/Select%20Ubuntu%2022.04.png)
 
 Next click *Change Shape*. For the *Shape Series* select **Ampere**. Select **VM.Standard.A1.Flex** as the *Shape name*. Change the *Number of OCPUs* to **4** and ensure that *Amount of memory (GB)* is **24**. 
+
+![Select Shape](assets/images/Select%20Shape.png)
+
+*In primary VNIC information*, leave the defaults to create VM in root network. Or create a new network with any name you want.
+
+![Primary VNIC information](assets/images/Primary%20VNIC%20information.png)
+
+The rest is pretty obvious. Too lazy to complete this. Read and complete and create. You can also do the same but change the shape to *VM.Standard.E2.1.Micro* to create an AMD VM.
