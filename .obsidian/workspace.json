@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a59dec8a06610a98",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +175,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "822f82a676616d2e",
+  "active": "a59dec8a06610a98",
   "lastOpenFiles": [
     "infrastructure/VPS.md",
     "infrastructure/Infrastructure.md",
