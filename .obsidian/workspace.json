@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "infrastructure/Kali-VM Oracle.md",
+                "file": "infrastructure/Web Server on Oracle Ubuntu.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "infrastructure/Kali-VM Oracle.md"
+                "file": "infrastructure/Web Server on Oracle Ubuntu.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "infrastructure/Kali-VM Oracle.md",
+                "file": "infrastructure/Web Server on Oracle Ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "infrastructure/Kali-VM Oracle.md",
+                "file": "infrastructure/Web Server on Oracle Ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,12 +166,13 @@
   },
   "active": "822f82a676616d2e",
   "lastOpenFiles": [
+    "infrastructure/VPS.md",
+    "infrastructure/Kali-VM Oracle.md",
+    "infrastructure/Web Server on Oracle Ubuntu.md",
     "conflict-files-obsidian-git.md",
     "infrastructure/assets/images/Select Shape.png",
     "infrastructure/assets/images/Primary VNIC information.png",
-    "infrastructure/VPS.md",
     "infrastructure/Infrastructure.md",
-    "infrastructure/Kali-VM Oracle.md",
     "Web/web development.md",
     "infrastructure/assets/images/VM Config ARM 1.png",
     "infrastructure/assets/images/Select Ubuntu 22.04.png",

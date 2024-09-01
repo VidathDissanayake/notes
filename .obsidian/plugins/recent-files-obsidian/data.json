@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Kali-VM Oracle",
-      "path": "infrastructure/Kali-VM Oracle.md"
+      "basename": "Web Server on Oracle Ubuntu",
+      "path": "infrastructure/Web Server on Oracle Ubuntu.md"
     },
     {
       "basename": "VPS",
       "path": "infrastructure/VPS.md"
+    },
+    {
+      "basename": "Kali-VM Oracle",
+      "path": "infrastructure/Kali-VM Oracle.md"
     },
     {
       "basename": "Infrastructure",
