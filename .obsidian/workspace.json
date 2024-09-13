@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Engineering Foundation/Engineering Foundation.md",
+                "file": "courses/Engineering Foundation/Differential Equations.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Engineering Foundation/Engineering Foundation.md"
+                "file": "courses/Engineering Foundation/Differential Equations.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Engineering Foundation/Engineering Foundation.md",
+                "file": "courses/Engineering Foundation/Differential Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Engineering Foundation/Engineering Foundation.md",
+                "file": "courses/Engineering Foundation/Differential Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +165,56 @@
       "random-note:Open random note": false
     }
   },
+  "floating": {
+    "id": "e93b864168015af7",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8d3cd5f962792935",
+        "type": "window",
+        "children": [
+          {
+            "id": "cf92aed0bafe40e6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "79bb14e86e8d9ba5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "note taking/LaTeX/LaTeX.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 520,
+        "width": 960,
+        "height": 520,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "822f82a676616d2e",
   "lastOpenFiles": [
+    "note taking/LaTeX/LaTeX.md",
     "courses/Engineering Foundation/Differential Equations.md",
+    "note taking/note taking.md",
+    "note taking/markdown/Markdown code.md",
+    "note taking/markdown/Markdown heading.md",
+    "note taking/markdown/Markdown list.md",
+    "note taking/LaTeX",
+    "README.md",
+    "note taking",
+    "markdown/Note Taking",
     "courses/Engineering Foundation/Engineering Foundation.md",
     "courses/Engineering Foundation/Python Programming.md",
     "infrastructure/Web Server on Oracle Ubuntu.md",
@@ -195,21 +242,12 @@
     "GIT/Credential Management.md",
     "courses/Engineering Foundation/assets/images/Pasted image 20240617134617.png",
     "courses/Engineering Foundation/assets/documents/DifferentialEquation HK Dass Chapter 3.pdf",
-    "courses/Engineering Foundation/assets/documents",
-    "courses/Engineering Foundation/assets/images/DifferentialEquation HK Dass Chapter 3 2.pdf",
-    "courses/Engineering Foundation/assets/images/DifferentialEquation HK Dass Chapter 3 1.pdf",
     "courses/Engineering Foundation/assets/images/classification of calculus.png",
     "courses/UoM/Programming in Python/1. Python Data Structures.md",
-    "README.md",
     "courses/UoM/Programming in Python/Programming in Python.md",
     "general/encoding and decoding/hex/hex.md",
     "courses/UoM/Python for Beginners/Python for Beginners.md",
     "courses/courses.md",
-    "programming/python/Python.md",
-    "OS/linux/Directory Structure.md",
-    "courses/TCM/Practical Ethical Hacking - The Complete Course/note taking.md",
-    "OS/linux/Useful Commands.md",
-    "OS/linux/Linux.md",
     "courses/UoM/Python for Beginners/assets/images/pass in loops.png",
     "courses/UoM/Python for Beginners/assets/images/nested loop example.png",
     "courses/UoM/Python for Beginners/assets/images/nested loops.png"

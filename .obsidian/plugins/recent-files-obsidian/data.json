@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Engineering Foundation",
-      "path": "courses/Engineering Foundation/Engineering Foundation.md"
-    },
-    {
       "basename": "Differential Equations",
       "path": "courses/Engineering Foundation/Differential Equations.md"
+    },
+    {
+      "basename": "LaTeX",
+      "path": "note taking/LaTeX/LaTeX.md"
+    },
+    {
+      "basename": "note taking",
+      "path": "note taking/note taking.md"
+    },
+    {
+      "basename": "Markdown code",
+      "path": "note taking/markdown/Markdown code.md"
+    },
+    {
+      "basename": "Markdown heading",
+      "path": "note taking/markdown/Markdown heading.md"
+    },
+    {
+      "basename": "Markdown list",
+      "path": "note taking/markdown/Markdown list.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Engineering Foundation",
+      "path": "courses/Engineering Foundation/Engineering Foundation.md"
     },
     {
       "basename": "Python Programming",
@@ -67,10 +91,6 @@
     {
       "basename": "1. Python Data Structures",
       "path": "courses/UoM/Programming in Python/1. Python Data Structures.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Programming in Python",

@@ -5,7 +5,7 @@
 > Links: [markdown](markdown.md)  
 > Sources:  
 
-List syntax in [Markdown](Markdown.md).
+List syntax in [markdown](markdown.md).
 
 There are 3 types of lists
 1. Unordered lists

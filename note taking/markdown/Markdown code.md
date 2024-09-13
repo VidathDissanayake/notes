@@ -5,7 +5,7 @@
 > Links: [markdown](markdown.md)  
 > Sources:  
 
-Code syntax in [Markdown](Markdown.md).
+Code syntax in [markdown](markdown.md).
 
 To add code inline, surround the code with `backticks` (`` ` ``).
 
