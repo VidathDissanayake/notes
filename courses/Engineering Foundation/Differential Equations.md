@@ -121,14 +121,14 @@ y=Ae^\frac{\sin{2x}}{2}\\
 \frac{dy}{dx}=\frac{x(y^2+1)}{x+1}\\
 (y^2+1)dy=\frac{x}{x+1}dx\\
 \int(y^2+1)dy=\int1-\frac{1}{x+1}dx\\
-\tan^{-1}{y}=x-ln|x+1|+C
+\tan^{-1}{y}=x-\ln{|x+1|}+C
 \end{gather}$$
 3. $$\begin{gather}
 (xy^2+x)dx+(x^2y+y)dy=0\\
 x(y^2+1)dx=-y(x^2+1)dy\\
 \frac{x}{x^2+1}dx=-\frac{y}{y^2+1}dy\\
 \int\frac{x}{x^2+1}dx=-\int\frac{y}{y^2+1}dy\\
-\frac{1}{2}ln|x^2+1|=-\frac{1}{2}ln|y^2+1|+\frac{1}{2}ln|C|\\
+\frac{1}{2}\ln{|x^2+1|}=-\frac{1}{2}\ln{|y^2+1|}+\frac{1}{2}\ln{|C|}\\
 (x^2+1)(y^2+1)=C
 \end{gather}$$
 4. $$\begin{gather}
@@ -136,7 +136,7 @@ x\frac{dy}{dx}+\cot{y}=0\\
 x\frac{dy}{dx}=-\cot{y}\\
 \tan{y}\ dy=-\frac{1}{x}dx\\
 \int\tan{y}\ dy=-\int\frac{1}{x}dx\\
--ln|\cos{y}|=-ln|x|-ln|C|\\
+-\ln{|\cos{y}|}=-\ln{|x|}-\ln{|C|}\\
 \cos{y}=Cx\\\\
 \text{when } x=\frac{1}{\sqrt{2}}, y=\frac{\pi}{4}\\\\
 \cos{\frac{\pi}{4}}=C\frac{1}{\sqrt{2}}\implies C=1\\
@@ -152,8 +152,8 @@ $$\frac{dy}{dx}=f(ax+by+c)$$
  can be reduced to variable separable by substituting $$z=ax+by+c$$
 E.g: 
 1. $$\begin{gather}
-\frac{dy}{dx}=\sec(x+y)\\
-\text{Sub: } z=x+y;\ \ \ \frac{dz}{dx}=1+\frac{dy}{dx}\\
+\frac{dy}{dx}=\sec(x+y)\\\\
+\text{Sub: } z=x+y;\ \ \ \frac{dz}{dx}=1+\frac{dy}{dx}\\\\
 \frac{dz}{dx}-1=\sec{z}\\
 \frac{dz}{dx}=1+\sec{z}\\
 \frac{dz}{dx}=\frac{1+\cos{z}}{\cos{z}}\\
@@ -164,4 +164,28 @@ E.g:
 z-\frac{1}{2}\frac{\tan{\frac{z}{2}}}{\frac{1}{2}}=x+C\\
 x+y-\tan{\frac{x+y}{2}}=x+C\\
 y-\tan{\frac{x+y}{2}}=C
+\end{gather}$$
+2. $$\begin{gather}
+\frac{dy}{dx}=\frac{x+2y-1}{x+2y+1}\\\\
+\text{Sub: } z=x+2y;\ \ \ \frac{dz}{dx}=1+2\frac{dy}{dx}\\\\
+\frac{1}{2}\left[\frac{dz}{dx}-1\right]=\frac{z-1}{z+1}\\
+\frac{dz}{dx}=\frac{2(z-1)}{z+1}+1\\
+\frac{dz}{dx}=\frac{3z-1}{z+1}\\
+\frac{z+1}{3z-1}dz=dx\\
+\frac{1}{3}\left(1+\frac{4}{3z-1}\right)dz=dx\\
+\frac{1}{3}\int\left(1+\frac{4}{3z-1}\right)dz=\int dx\\
+\frac{1}{3}z+\frac{4}{9}\ln{|3z-1|}=x+C_1\\
+\frac{1}{3}(x+2y)+\frac{4}{9}\ln{|3(x+2y)-1|}=x+C_1\\
+\frac{2}{3}(y-x)+\frac{4}{9}\ln{|3(x+2y)-1|}=C_1\\
+6(y-x)+4\ln{|3(x+2y)-1|}=C\\
+\end{gather}$$
+3. $$\begin{gather}
+\frac{dy}{dx}-x\tan{(y-x)}=1\\\\
+\text{Sub: } z=y-x; \ \ \ \frac{dz}{dx}=\frac{dy}{dx}-1\\\\
+\left(1+\frac{dz}{dx}\right)-x\tan{z}=1\\
+\frac{dz}{dx}=x\tan{z}\\
+\cot{z}\ dz=xdx\\
+\int\cot{z}\ dz=\int xdx\\
+\ln{|\sin{z}|}=\frac{x^2}{2}+C\\
+\ln{|\sin{(y-x)}|}=\frac{x^2}{2}+C\\
 \end{gather}$$
