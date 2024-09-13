@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Engineering Foundation",
+      "path": "courses/Engineering Foundation/Engineering Foundation.md"
+    },
+    {
+      "basename": "Differential Equations",
+      "path": "courses/Engineering Foundation/Differential Equations.md"
+    },
+    {
+      "basename": "Python Programming",
+      "path": "courses/Engineering Foundation/Python Programming.md"
+    },
+    {
       "basename": "Web Server on Oracle Ubuntu",
       "path": "infrastructure/Web Server on Oracle Ubuntu.md"
     },
@@ -21,10 +33,6 @@
       "path": "Web/web development.md"
     },
     {
-      "basename": "Python Programming",
-      "path": "courses/Engineering Foundation/Python Programming.md"
-    },
-    {
       "basename": "3. Python Programming – Basics",
       "path": "courses/UoM/Python for Beginners/3. Python Programming – Basics.md"
     },
@@ -43,10 +51,6 @@
     {
       "basename": "Basic Electronics",
       "path": "courses/Engineering Foundation/Basic Electronics.md"
-    },
-    {
-      "basename": "Differential Equations",
-      "path": "courses/Engineering Foundation/Differential Equations.md"
     },
     {
       "basename": "Credential Management",
@@ -75,10 +79,6 @@
     {
       "basename": "hex",
       "path": "general/encoding and decoding/hex/hex.md"
-    },
-    {
-      "basename": "Engineering Foundation",
-      "path": "courses/Engineering Foundation/Engineering Foundation.md"
     },
     {
       "basename": "Python for Beginners",
