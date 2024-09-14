@@ -145,7 +145,7 @@ x\frac{dy}{dx}=-\cot{y}\\
 \therefore \text{Solution is } \cos{y}=x
 \end{gather}$$
 
-### 2. Reducible to Variable Separable
+####  Reducible to Variable Separable
 
 A differential equation of the form,
 $$\frac{dy}{dx}=f(ax+by+c)$$
@@ -189,3 +189,23 @@ y-\tan{\frac{x+y}{2}}=C
 \ln{|\sin{z}|}=\frac{x^2}{2}+C\\
 \ln{|\sin{(y-x)}|}=\frac{x^2}{2}+C\\
 \end{gather}$$
+**Theorem:** If $y_1$ and $y_2$ are solutions of a **linear differential equation,** then $Ay_1+By_2$ is also a solution. 
+
+
+### 2. Homogeneous Differential Equations
+
+A homogeneous function is a function where the orders of all the terms are equal. 
+
+E.g: 
+- $f(x,y)=x^2+3xy+y^2 \longrightarrow$ This is a homogeneous equation of order 2.
+- $f(x,y)=x^3+x^2+y \longrightarrow$ This is not a homogeneous equation.
+- $(a+b)^3=a^3+3a^2b+3ab^2+b^3 \longrightarrow$ This is a homogeneous equation of order 3.
+
+A differential equation of the form $$\frac{dy}{dx}=\frac{f(x,y)}{g(x,y}$$ where both $f$ and $g$ are homogeneous functions of the same order is a homogeneous differential equation.
+
+E.g:
+- $$\frac{dy}{dx}=\frac{x^2+2xy+3y^2}{x^2+2y^2}$$
+- $$\frac{dy}{dx}=\frac{x^3+2x^2y+y^3}{x^2y+2y^3}$$
+Homogeneous differential equations can be reduced to variable separable by substituting $y=vx$, where $v$ is a function of $x$.
+
+1. $$\begin{gather}\frac{dy}{dx}=\frac{xy+y^2}{x^2}\\\\\text{Sub: }y=vx\\\frac{dy}{dx}=v+x\frac{dv}{dx}\\\\v+x\frac{dv}{dx}=\frac{x(vx)+(vx)^2}{x^2}\\v+x\frac{dv}{dx}=\frac{x^2(v+v^2)}{x^2}; x\neq0\\v+x\frac{dv}{dx}=v+v^2\\\frac{1}{v^2}dv=\frac{1}{x}dx\\\end{gather}$$
