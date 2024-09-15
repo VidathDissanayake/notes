@@ -208,4 +208,5 @@ E.g:
 - $$\frac{dy}{dx}=\frac{x^3+2x^2y+y^3}{x^2y+2y^3}$$
 Homogeneous differential equations can be reduced to variable separable by substituting $y=vx$, where $v$ is a function of $x$.
 
-1. $$\begin{gather}\frac{dy}{dx}=\frac{xy+y^2}{x^2}\\\\\text{Sub: }y=vx\\\frac{dy}{dx}=v+x\frac{dv}{dx}\\\\v+x\frac{dv}{dx}=\frac{x(vx)+(vx)^2}{x^2}\\v+x\frac{dv}{dx}=\frac{x^2(v+v^2)}{x^2}; x\neq0\\v+x\frac{dv}{dx}=v+v^2\\\frac{1}{v^2}dv=\frac{1}{x}dx\\\end{gather}$$
+1. $$\begin{gather}\frac{dy}{dx}=\frac{xy+y^2}{x^2}\\\\\text{Sub: }y=vx\\\frac{dy}{dx}=v+x\frac{dv}{dx}\\\\v+x\frac{dv}{dx}=\frac{x(vx)+(vx)^2}{x^2}\\v+x\frac{dv}{dx}=\frac{x^2(v+v^2)}{x^2}; x\neq0\\v+x\frac{dv}{dx}=v+v^2\\\frac{1}{v^2}dv=\frac{1}{x}dx\\\int\frac{1}{v^2}dv=\int\frac{1}{x}dx\\-\frac{1}{v}=\ln{|x|}+C\\-\frac{x}{y}=\ln{|x|}+C\\y\ln{|x|}+Cy+x=0\end{gather}$$
+2. $$\begin{gather}\frac{dy}{dx}=\frac{2xy+3y^2}{2xy+x^2}\\\\\text{Sub: }y=vx\\\frac{dy}{dx}=v+x\frac{dv}{dx}\\\\v+x\frac{dv}{dx}=\frac{2vx^2+3v^2x^2}{2vx^2+x^2}\\v+x\frac{dv}{dx}=\frac{2v+3v^2}{2v+1}\\x\frac{dv}{dx}=\frac{v^2+v}{2v+1}\\\frac{2v+1}{v^2+v}dv=\frac{1}{x}dx\\\int\frac{2v+1}{v^2+v}dv=\int\frac{1}{x}dx\\\ln|v^2+1|=ln|x|+lnC\\v^2+v=xC\\\left(\frac{y}{x}\right)^2+\left(\frac{y}{x}\right)=xC\\y^2+yx+x^3C\end{gather}$$
