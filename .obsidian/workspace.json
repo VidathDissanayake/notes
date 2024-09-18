@@ -165,44 +165,6 @@
       "random-note:Open random note": false
     }
   },
-  "floating": {
-    "id": "e93b864168015af7",
-    "type": "floating",
-    "children": [
-      {
-        "id": "8d3cd5f962792935",
-        "type": "window",
-        "children": [
-          {
-            "id": "cf92aed0bafe40e6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "79bb14e86e8d9ba5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "note taking/LaTeX/LaTeX.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 520,
-        "width": 960,
-        "height": 520,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "822f82a676616d2e",
   "lastOpenFiles": [
     "note taking/LaTeX/LaTeX.md",

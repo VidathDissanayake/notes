@@ -210,4 +210,7 @@ Homogeneous differential equations can be reduced to variable separable by subst
 
 1. $$\begin{gather}\frac{dy}{dx}=\frac{xy+y^2}{x^2}\\\\\text{Sub: }y=vx\\\frac{dy}{dx}=v+x\frac{dv}{dx}\\\\v+x\frac{dv}{dx}=\frac{x(vx)+(vx)^2}{x^2}\\v+x\frac{dv}{dx}=\frac{x^2(v+v^2)}{x^2}; x\neq0\\v+x\frac{dv}{dx}=v+v^2\\\frac{1}{v^2}dv=\frac{1}{x}dx\\\int\frac{1}{v^2}dv=\int\frac{1}{x}dx\\-\frac{1}{v}=\ln{|x|}+C\\-\frac{x}{y}=\ln{|x|}+C\\y\ln{|x|}+Cy+x=0\end{gather}$$
 2. $$\begin{gather}\frac{dy}{dx}=\frac{2xy+3y^2}{2xy+x^2}\\\\\text{Sub: }y=vx\\\frac{dy}{dx}=v+x\frac{dv}{dx}\\\\v+x\frac{dv}{dx}=\frac{2vx^2+3v^2x^2}{2vx^2+x^2}\\v+x\frac{dv}{dx}=\frac{2v+3v^2}{2v+1}\\x\frac{dv}{dx}=\frac{v^2+v}{2v+1}\\\frac{2v+1}{v^2+v}dv=\frac{1}{x}dx\\\int\frac{2v+1}{v^2+v}dv=\int\frac{1}{x}dx\\\ln|v^2+1|=ln|x|+lnC\\v^2+v=xC\\\left(\frac{y}{x}\right)^2+\left(\frac{y}{x}\right)=xC\\y^2+yx+x^3C\end{gather}$$
-3. $$\begin{gather}x^2dy+y(x+y)\\\\\text{Sub: }y=vxdx=0\\\frac{dy}{dx}=v+x\frac{dy}{dx}\end{gather}$$
+3. $$\begin{gather}x^2dy+y(x+y)dx=0\\\\\text{Sub: }y=vx\\\frac{dy}{dx}=v+x\frac{dv}{dx}\\\\x^2(vdx+xdv)+vx(x+vx)dx=0\\xdv+v(2+v)dx=0\\\frac{1}{v(2+v)}dv=-\frac{1}{x}dx\\\frac{1}{2}\int\frac{1}{v}-\frac{1}{(2+v)}dv=-\int\frac{1}{x}dx\\\frac{1}{2}\left[\ln{|v|}-\ln{|v+2|}\right]=-\ln{|x|}+C_1\\\ln{\left|\frac{vx^2}{v+2}\right|}=\ln{|C|}\\\frac{vx^2}{v+2}=C\\\frac{yx^2}{y+2x}=C\\yx^2=C(y+2x)\end{gather}$$
+#### Reducible to Homogeneous
+
+A differential equation of the form, $$\frac{dy}{dx}=\frac{ax+by+c}{px+qy+r}; \frac{a}{b}\neq\frac{p}{r}$$ 
