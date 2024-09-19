@@ -32,22 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d007eff5a0f5d5bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "courses/UoM/Python for Beginners/1. Introduction to Programming.md"
               }
             }
           },
@@ -142,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "courses/UoM/Python for Beginners/1. Introduction to Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "courses/UoM/Python for Beginners/1. Introduction to Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,10 +178,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d007eff5a0f5d5bb",
+  "active": "8e61031abeb26ff5",
   "lastOpenFiles": [
-    "infrastructure/VPS.md",
     "conflict-files-obsidian-git.md",
+    "infrastructure/VPS.md",
     "infrastructure/Kali-VM Oracle.md",
     "infrastructure/assets/images/Primary VNIC information.png",
     "infrastructure/assets/images/Select Shape.png",
