@@ -3,14 +3,7 @@
 > Vidath Dissanayake | Sri Lanka  
 > Tags: #courses #courses/PreEng 
 > Links: [Engineering Foundation](Engineering%20Foundation.md)
-> Sources:  
-
----
-
-# 1. Order, Degree and Variable Separation Method
-
- > Links:  
-> Sources: [Order, Degree and Variable Separation](https://us02web.zoom.us/rec/play/-WTSWq4wu0MDXiMTREDZgPiLSoODnD5C8MAjudq1OV-G7WNKwINiayTuvrHP1OepRGsl4zui54DYYeOf.nReKNBv80Z_42dFm?hasValidToken=false&canPlayFromShare=true&from=share_recording_detail&startTime=1718449615000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2FcyVAJuHBIXRCiRDH6J8HZot03KjjNWRCwREirG2zXA3g_NTrqDphY6wS5eEAmBzt.OEaPQ5cDCObjmuft%3FstartTime%3D1718449615000) 
+> Sources: [Order, Degree and Variable Separation](https://us02web.zoom.us/rec/play/-WTSWq4wu0MDXiMTREDZgPiLSoODnD5C8MAjudq1OV-G7WNKwINiayTuvrHP1OepRGsl4zui54DYYeOf.nReKNBv80Z_42dFm?hasValidToken=false&canPlayFromShare=true&from=share_recording_detail&startTime=1718449615000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2FcyVAJuHBIXRCiRDH6J8HZot03KjjNWRCwREirG2zXA3g_NTrqDphY6wS5eEAmBzt.OEaPQ5cDCObjmuft%3FstartTime%3D1718449615000)  [DE2 - Homogeneous and Linear Dirrerential Equations](https://us02web.zoom.us/rec/play/CmaF8PzfwHMUThioSGcS6w7cf6giMuw4pI1slWa-kZkGd3iZuwovxkPyOzVSN7IacYyeGN80wb6C2Yg.pJjgEUjmlTUt3dbM?hasValidToken=false&canPlayFromShare=true&from=share_recording_detail&startTime=1719054065000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2FSNV4d9mKr_kxiBd1g2Rpz4py2GHuTcFQb139yXR82Xqd8H6_CHxhqPsoWmANeFwo.y-kPz38EyjDftV34%3FstartTime%3D1719054065000%26authuser%3D0)
 
 ![DifferentialEquation HK Dass Chapter 3](assets/documents/DifferentialEquation%20HK%20Dass%20Chapter%203.pdf)
 
@@ -248,4 +241,14 @@ In other words, an $n ^{th}$  order differential equation is linear if it is
 in the form of $$\begin{array}{c}{{\displaystyle b_{n}(x)\frac{\text{d}^{n}y}{\text{d} x^{n}}\!+\!b_{n\!-\!1}(x)\frac{\text{d}^{n\!-\!1}y}{\text{d} x_{n\!-\!1}}\!+\!\dots\dots\dots\dots\!+\!b_{0}(x)y=g(x)}}\\ {{\mathrm{~where~}}b_{i}(x)\;{\mathsf{and}}\;g(x)\;{\mathrm{are~functions~of~x.}}}\end{array}$$
 
 If the differential equation is not linear, then it is said to be a **non-linear** DE.
+
+$$\begin{array}{l}{{\displaystyle{\mathrm{A~differenti~Equation~of~the~form,}}}}\\ {{\displaystyle{\frac{\text{d} y}{\text{d} x}}+p(x)y=q(x)}}\\ {{\mathrm{is~called~a~linear~differential~equation.}}}\\  \\
+{{\displaystyle{\mathrm{Multiply~both~sides~by}}\,e^{\int p(x)\text{d} x}}}\\ {{\displaystyle e^{\int p(x)\text{d} x}\times\left[{\displaystyle{\frac{\text{d} y}{\text{d} x}}}+p(x)y\right]=e^{\int p(x)\text{d} x}\times q(x)}}\\ {{\displaystyle{\frac{\text{d} y}{\text{d} x}}e^{\int p(x)\text{d} x}+e^{\int p(x)\text{d} x}p(x)y=e^{\int p(x)\text{d} x}\times q(x)}}\\ {{\displaystyle{\frac{\text{d}}{\text{d}x}\left[y\times e^{\int p(x)\text{d} x}\right]}=e^{\int p(x)\text{d} x}\times q(x)}} \\ \\
+
+{{\mathrm{By~integrating,}}}\\ 
+{{\displaystyle y\times e^{\int p(x)\text{d} x}=\int\left[e^{\int p(x)\text{d} x}\times q(x)\right]\text{d} x}} \\ \\
+
+\mathrm{Let}\,e^{\int p(x)d x}=\mathrm{Integrating\,Factor}=IF\\ \\{\mathrm{Then~solution~is}}\\
+\displaystyle y\times IF=\int{IF\times q(x)\text{d}x}+C
+\end{array}$$
 
