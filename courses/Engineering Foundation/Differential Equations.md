@@ -244,11 +244,8 @@ degree
 2) Each co-efficient depends on the independent variable
 or constants.
 
-In other words, an n order differential equation is linear if it is
-in the form of
-bn(x)
-dxn
-n—l
-where bi(x) and g(x) are functions of x.
-If the differential equation is not linear, then it is said to be a
+In other words, an $n ^{th}$  order differential equation is linear if it is
+in the form of $$\begin{array}{c}{{\displaystyle b_{n}(x)\frac{\text{d}^{n}y}{\text{d} x^{n}}\!+\!b_{n\!-\!1}(x)\frac{\text{d}^{n\!-\!1}y}{\text{d} x_{n\!-\!1}}\!+\!\dots\dots\dots\dots\!+\!b_{0}(x)y=g(x)}}\\ {{\mathrm{~where~}}b_{i}(x)\;{\mathsf{and}}\;g(x)\;{\mathrm{are~functions~of~x.}}}\end{array}$$
+
+If the differential equation is not linear, then it is said to be a **non-linear** DE.
 
