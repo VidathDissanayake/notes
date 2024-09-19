@@ -220,5 +220,8 @@ A differential equation of the form, $$\frac{\text{d}y}{\text{d}x}=\frac{ax+by+c
 E.g:
 1. $$\begin{gather}\frac{\text{d}y}{\text{d}x}=\frac{x+2y-3}{2x+y-3}\\\\\text{Let $x=X+h$ and $y=Y+h$}\\\text{then d$x=$d$X$ and d$y$=d$Y$}\\\\\frac{\text{d}Y}{\text{d}X}=\frac{(X+h)+2(Y+k)-3}{2(X+h)+(Y+k)-3}\\\frac{\text{dY}}{\text{d}X}=\frac{X+2Y+(h+2k-3)}{2X+Y+(2h+k-3)}\\\\\text{Selecting $h$ and $k$:}\\h+2k-3=0\tag{1}\\2h+k-3=0\tag{2}\\\\(1)\times 2 -(2)\\\\3k-3=0\\k=1\\h=1\\\\\frac{\text{d}Y}{\text{d}X}=\frac{X+2Y}{2X+Y}\longleftarrow\text{Homogeneous Equation}\\\\\text{Let }Y=vX\implies \frac{\text{d}Y}{\text{d}X}=v+X\frac{\text{d}v}{\text{d}X}\\\\v+X\frac{\text{d}v}{\text{d}X}=\frac{1+2v}{2+v}\\X\frac{\text{d}v}{\text{d}X}=\frac{1-v^2}{2+v}\\\int  {\frac{2+v}{1-v^2}}\text{d}v=\int{\frac{1}{X}\text{d}X}\\\frac{1}{2}\int{\frac{3}{1-v}+\frac{1}{1+v}}\text{d}v=\int{\frac{1}{X}\text{d}X}\\ \frac{1}{2}[\ln{|1+v|}-3\ln{|1-v|}]=\ln{|X|}+C_{1}\\\ln{|1+v|}=2\ln{|X|}+3\ln{|1-v|}+C_{1}\\(1-v)^{3}X^{2}C=1+v\\(X-Y)^{3}C=X+Y\\(x-y)^{3}C=x+y-2\end{gather}$$
 2. $$\begin{gather}
-
+\frac{\text{d}y}{\text{d}x}=\frac{x-y-2}{x+y+6}\\
+{x=X+h;\; y=Y+k,\;\;\;h=-2, \; k=-4}\\
+\frac{\text{d}Y}{\text{d}X}=\frac{X-Y}{X+Y}\;;Y=VX\\
+V+X{\frac{\text{d}V}{\text{d}X}}={\frac{1-V}{1+V}}
 \end{gather}$$
