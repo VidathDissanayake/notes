@@ -223,5 +223,12 @@ E.g:
 \frac{\text{d}y}{\text{d}x}=\frac{x-y-2}{x+y+6}\\
 {x=X+h;\; y=Y+k,\;\;\;h=-2, \; k=-4}\\
 \frac{\text{d}Y}{\text{d}X}=\frac{X-Y}{X+Y}\;;Y=VX\\
-V+X{\frac{\text{d}V}{\text{d}X}}={\frac{1-V}{1+V}}
+V+X{\frac{\text{d}V}{\text{d}X}}={\frac{1-V}{1+V}}\\
+X\frac{\text{d}V}{\text{d}X}=\frac{1-2V-V^{2}}{1+V}\\
+\frac{1+V}{1-2V-V^{2}}\text{d}V=\frac{1}{X}\text{d}X\\
+-\frac{1}{2}\int{\frac{-2-2V}{1-2V-V^{2}}}\text{d}V=\int{\frac{1}{X}\text{d}X}\\
+-\frac{1}{2}\ln{|1-2V-V^{2}|}=\ln{|X|}+C_{1}\\
+X^{2}(1-2V-V^{2})=C\\
+X^{2}\left( 1-2\frac{Y}{X}-\left( \frac{Y}{X} \right)^2\right)=C\\
+(x+2)^{2}\left( 1-\frac{2(y+4)}{x+2} -\left( \frac{y+4}{x+2} \right)^{2}\right)=C
 \end{gather}$$
