@@ -219,3 +219,4 @@ A differential equation of the form, $$\frac{\text{d}y}{\text{d}x}=\frac{ax+by+c
 
 E.g:
 1. $$\begin{gather}\frac{\text{d}y}{\text{d}x}=\frac{x+2y-3}{2x+y-3}\\\\\text{Let $x=X+h$ and $y=Y+h$}\\\text{then d$x=$d$X$ and d$y$=d$Y$}\\\\\frac{\text{d}Y}{\text{d}x}=\frac{(X+h)+2(Y+k)-3}{2(X+h)+(Y+k)-3}\\\\\text{Selecting $h$ and $k$:}\\h+2k-3=0\tag{1}\\2h+l-3=0\tag{2}\\\\(1)\times 2 -(2)\\\\3k-3=0\\k=1\\h=1\\\\\end{gather}$$
+
