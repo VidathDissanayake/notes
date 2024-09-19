@@ -230,5 +230,25 @@ X\frac{\text{d}V}{\text{d}X}=\frac{1-2V-V^{2}}{1+V}\\
 -\frac{1}{2}\ln{|1-2V-V^{2}|}=\ln{|X|}+C_{1}\\
 X^{2}(1-2V-V^{2})=C\\
 X^{2}\left( 1-2\frac{Y}{X}-\left( \frac{Y}{X} \right)^2\right)=C\\
-(x+2)^{2}\left( 1-\frac{2(y+4)}{x+2} -\left( \frac{y+4}{x+2} \right)^{2}\right)=C
+X^{2}-2XY-Y^{2}=C\\
+(x+2)^{2}-2(x+2)(y+4)-(y+4)^{2}=C\\
+x^{2}+4x+4-2xy-8x-4y-16-y^{2}-8y-16=C\\
+x^{2}-y^{2}-4x-12y-2xy-28=C
 \end{gather}$$
+### 3. Linear Differential Equations
+
+A Differential equation is said to be linear if it satisfies the
+following two conditions.
+1) The dependent variable and its derivatives are first
+degree
+2) Each co-efficient depends on the independent variable
+or constants.
+
+In other words, an n order differential equation is linear if it is
+in the form of
+bn(x)
+dxn
+n—l
+where bi(x) and g(x) are functions of x.
+If the differential equation is not linear, then it is said to be a
+
