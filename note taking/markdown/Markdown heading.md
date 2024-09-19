@@ -5,7 +5,7 @@
 > Links: [markdown](markdown.md)  
 > Sources:  
 
-Heading syntax in [Markdown](Markdown.md).
+Heading syntax in [markdown](markdown.md).
 
 There are 6 levels of headings. Headings start with a `#` and a `space`. Size of heading decreases when the number of `#` s increases.
 

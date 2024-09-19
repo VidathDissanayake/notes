@@ -1,10 +1,10 @@
-# Images
+# Links
 
 > Vidath Dissanayake | Sri Lanka  
 > Tags: #markdown  
 > Links: [markdown](markdown.md)  
 > Sources:  
 
-Image syntax in [Markdown](Markdown.md).
+Link syntax in [markdown](markdown.md).
 
 ---

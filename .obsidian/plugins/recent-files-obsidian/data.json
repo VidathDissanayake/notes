@@ -1,36 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "1. Introduction to Programming",
-      "path": "courses/UoM/Python for Beginners/1. Introduction to Programming.md"
+      "basename": "Differential Equations",
+      "path": "courses/Engineering Foundation/Differential Equations.md"
     },
     {
-      "basename": "VPS",
-      "path": "infrastructure/VPS.md"
+      "basename": "LaTeX",
+      "path": "note taking/LaTeX/LaTeX.md"
     },
     {
-      "basename": "Infrastructure",
-      "path": "infrastructure/Infrastructure.md"
+      "basename": "note taking",
+      "path": "note taking/note taking.md"
+    },
+    {
+      "basename": "Markdown code",
+      "path": "note taking/markdown/Markdown code.md"
+    },
+    {
+      "basename": "Markdown heading",
+      "path": "note taking/markdown/Markdown heading.md"
+    },
+    {
+      "basename": "Markdown list",
+      "path": "note taking/markdown/Markdown list.md"
     },
     {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "web development",
-      "path": "Web/web development.md"
-    },
-    {
-      "basename": "1. Introduction to the World Wide Web, Internet and Protocols",
-      "path": "courses/UoM/Web Design for Beginners/1. Introduction to the World Wide Web, Internet and Protocols/1. Introduction to the World Wide Web, Internet and Protocols.md"
-    },
-    {
-      "basename": "TCP IP Model",
-      "path": "network/reference models/TCP IP Model/TCP IP Model.md"
+      "basename": "Engineering Foundation",
+      "path": "courses/Engineering Foundation/Engineering Foundation.md"
     },
     {
       "basename": "Python Programming",
       "path": "courses/Engineering Foundation/Python Programming.md"
+    },
+    {
+      "basename": "Web Server on Oracle Ubuntu",
+      "path": "infrastructure/Web Server on Oracle Ubuntu.md"
+    },
+    {
+      "basename": "VPS",
+      "path": "infrastructure/VPS.md"
+    },
+    {
+      "basename": "Kali-VM Oracle",
+      "path": "infrastructure/Kali-VM Oracle.md"
+    },
+    {
+      "basename": "Infrastructure",
+      "path": "infrastructure/Infrastructure.md"
+    },
+    {
+      "basename": "web development",
+      "path": "Web/web development.md"
     },
     {
       "basename": "3. Python Programming – Basics",
@@ -41,16 +65,16 @@
       "path": "courses/UoM/Python for Beginners/4. Python Programming - Essentials.md"
     },
     {
+      "basename": "1. Introduction to Programming",
+      "path": "courses/UoM/Python for Beginners/1. Introduction to Programming.md"
+    },
+    {
       "basename": "2. Getting Started with Python",
       "path": "courses/UoM/Python for Beginners/2. Getting Started with Python.md"
     },
     {
       "basename": "Basic Electronics",
       "path": "courses/Engineering Foundation/Basic Electronics.md"
-    },
-    {
-      "basename": "Differential Equations",
-      "path": "courses/Engineering Foundation/Differential Equations.md"
     },
     {
       "basename": "Credential Management",
@@ -75,10 +99,6 @@
     {
       "basename": "hex",
       "path": "general/encoding and decoding/hex/hex.md"
-    },
-    {
-      "basename": "Engineering Foundation",
-      "path": "courses/Engineering Foundation/Engineering Foundation.md"
     },
     {
       "basename": "Python for Beginners",
