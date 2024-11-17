@@ -5,13 +5,18 @@
 > Links: [Engineering Foundation](Engineering%20Foundation.md)
 > Sources: [Order, Degree and Variable Separation](https://us02web.zoom.us/rec/play/-WTSWq4wu0MDXiMTREDZgPiLSoODnD5C8MAjudq1OV-G7WNKwINiayTuvrHP1OepRGsl4zui54DYYeOf.nReKNBv80Z_42dFm?hasValidToken=false&canPlayFromShare=true&from=share_recording_detail&startTime=1718449615000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2FcyVAJuHBIXRCiRDH6J8HZot03KjjNWRCwREirG2zXA3g_NTrqDphY6wS5eEAmBzt.OEaPQ5cDCObjmuft%3FstartTime%3D1718449615000)  [DE2 - Homogeneous and Linear Dirrerential Equations](https://us02web.zoom.us/rec/play/CmaF8PzfwHMUThioSGcS6w7cf6giMuw4pI1slWa-kZkGd3iZuwovxkPyOzVSN7IacYyeGN80wb6C2Yg.pJjgEUjmlTUt3dbM?hasValidToken=false&canPlayFromShare=true&from=share_recording_detail&startTime=1719054065000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2FSNV4d9mKr_kxiBd1g2Rpz4py2GHuTcFQb139yXR82Xqd8H6_CHxhqPsoWmANeFwo.y-kPz38EyjDftV34%3FstartTime%3D1719054065000%26authuser%3D0)
 
-![DifferentialEquation HK Dass Chapter 3](assets/documents/DifferentialEquation%20HK%20Dass%20Chapter%203.pdf)
-
-![classification of calculus](assets/images/classification%20of%20calculus.png) 
+---
 
 Differentiation and integration are inverse functions.
 
 In A/L, we discuss Single Variable (Ordinary) calculus.
+
+## Tutes
+
+![DifferentialEquation HK Dass Chapter 3](assets/documents/DifferentialEquation%20HK%20Dass%20Chapter%203.pdf)
+
+![classification of calculus](assets/images/classification%20of%20calculus.png) 
+
 
 ## Terminology
 
@@ -252,3 +257,22 @@ $$\begin{array}{l}{{\displaystyle{\mathrm{A~differenti~Equation~of~the~form,}}}}
 \displaystyle y\times IF=\int{IF\times q(x)\text{d}x}+C
 \end{array}$$
 
+1. $$\begin{gather}
+\frac{\text{d}y}{\text{d}x} -y=e^x\cos x \\\\
+p(x)=-1 \\
+q(x)=e^x\cos x \\
+IF=e^{\int{-1 \mathrm{dx}}}=e^{-x} \\\\
+ye^{-x}=\int{e^{-x}\times e^x \cos{x}\ \mathrm{dx}} +C \\
+ye^{-x}=\int{\cos{x}\ \mathrm{dx}} +C \\
+ye^{-x}=\sin x +C
+\end{gather}$$
+2. $$\begin{gather}
+(x+1)\frac{\text{d}y}{\text{d}x} -y=e^{x}(x+1)^{2} \\
+\frac{\text{d}y}{\text{d}x} + \left( \frac{-1}{x+1} \right)y=e^{x}(x+1) \\\\
+p(x)=\left( \frac{-1}{x+1} \right) \\
+q(x)=e^{x}(x+1) \\
+IF=e^{\int{\left( \frac{-1}{x+1} \right)\mathrm{dx}}}=e^{-\ln{|x+1|}}=e^{\ln{|\left( \frac{1}{x+1} \right)|}}=\left( \frac{1}{x+1} \right) \\\\
+y\times\left( \frac{1}{x+1} \right)=\int{\left( \frac{1}{x+1} \right)\times e^{x}(x+1)\ \mathrm{dx}} +C \\
+\left( \frac{y}{x+1} \right)=e^{x}+C \\
+y=e^{x}(x+1)+C(x+1)
+\end{gather}$$

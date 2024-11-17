@@ -5,6 +5,10 @@
       "path": "courses/Engineering Foundation/Differential Equations.md"
     },
     {
+      "basename": "LaTeX",
+      "path": "note taking/LaTeX/LaTeX.md"
+    },
+    {
       "basename": "Real Analysis",
       "path": "real analysis/Real Analysis.md"
     },
