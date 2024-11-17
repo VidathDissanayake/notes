@@ -5,6 +5,14 @@
       "path": "courses/Engineering Foundation/Differential Equations.md"
     },
     {
+      "basename": "Real Analysis",
+      "path": "real analysis/Real Analysis.md"
+    },
+    {
+      "basename": "web development",
+      "path": "Web/web development.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Infrastructure",
       "path": "infrastructure/Infrastructure.md"
-    },
-    {
-      "basename": "web development",
-      "path": "Web/web development.md"
     },
     {
       "basename": "1. Introduction to the World Wide Web, Internet and Protocols",
