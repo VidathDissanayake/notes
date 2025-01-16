@@ -200,7 +200,7 @@ E.g:
 - $f(x,y)=x^3+x^2+y \longrightarrow$ This is not a homogeneous equation.
 - $(a+b)^3=a^3+3a^2b+3ab^2+b^3 \longrightarrow$ This is a homogeneous equation of order 3.
 
-A differential equation of the form $$\frac{\text{d}y}{\text{d}x}=\frac{f(x,y)}{g(x,y}$$ where both $f$ and $g$ are homogeneous functions of the same order is a homogeneous differential equation.
+A differential equation of the form $$\frac{\text{d}y}{\text{d}x}=\frac{f(x,y)}{g(x,y)}$$ where both $f$ and $g$ are homogeneous functions of the same order is a homogeneous differential equation.
 
 E.g:
 - $$\frac{\text{d}y}{\text{d}x}=\frac{x^2+2xy+3y^2}{x^2+2y^2}$$
